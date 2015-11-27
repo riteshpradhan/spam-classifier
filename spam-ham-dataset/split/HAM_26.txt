@@ -1,0 +1,369 @@
+From somebody@mail.cs.uah.edu  Sat Aug 23 14:07:20 2014
+Return-Path: <jonesjd+caf_=jjones=cs.uah.edu@uah.edu>
+Reply-To: <helpdesk@uah.edu>
+From: "University of Alabama in Huntsville - UAH OIT Help Desk" <helpdesk@uah.edu>
+To: <jonesjd@uah.edu>
+Subject: Ticket #8231-25542 Ticket Closed
+Date: Sat, 23 Aug 2014 13:45:12 -0500
+Message-ID: <F2czsVxCE+iUY+UnhC9+SKllNPRevvbp2fIaIuNXYbY=@notify.parature.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_2F024_01D11173.69D3BB50"
+X-Mailer: Microsoft Outlook 14.0
+Thread-Index: AQERcqlD2SWMsmZTH9jVG9YDaZqeFA==
+X-OlkEid: 528403E53879A65073B4ED4394250DBCA00C6233
+X-UID: 26
+Status: RO
+X-Keywords:                                                                     
+Content-Length: 9895
+
+This is a multipart message in MIME format.
+
+------=_NextPart_000_2F024_01D11173.69D3BB50
+Content-Type: text/plain;
+	charset="UTF-8"
+Content-Transfer-Encoding: 8bit
+
+
+Dear Joshua Jones,
+
+
+
+
+
+
+Thank you for contacting the OIT Help Desk. Please take a moment to fill out 
+our Satisfaction Survey. Your feedback is extremely important to us; we 
+strive to improve the services we offer. Also, it will allow us to provide a 
+continuing high level of quality customer service in future interactions.
+
+Take a Survey 
+<http://bbcrm.edusupportcenter.com/ics/survey/survey.asp?deptID=8572&surveyID=2571&type=web>
+
+Thank you,
+
+
+OIT Help Desk
+
+OIT Help Desk
+UAH - Will Schumacher
+256-824-6979
+
+
+
+
+  <https://bbcrm.edusupportcenter.com/FileManagement/Download/e05a711fdc3144479c02e9c7b5b52461>
+
+Customer DetailsFirst 
+Name	 Joshua
+
+Last Name
+	JonesEmail 
+jonesjd@uah.edu
+
+Primary Phone
+	+1 256 824 6904User 
+Type	 StaffCc'd 
+CustomersTicket Information:
+Ticket #:	 8231-25542Date 
+Created:	 8/18/2014 10:42 AM CDTIncident 
+Type	 Service
+
+Category	 Network requests
+
+Sub-Category	 Device Registration
+
+Summary	 FW: MAC address registration for IP
+
+Request Description	 I left off the OS. It is a Windows 8 machine.   The POC 
+on this will be Dr. Sunil Kim. I will not be the Administrator of this 
+machine. The room number will be Technology Hall, N-310-A.   Dr. Kim’s email 
+is mailto:sk0005@uah.edu, and his phone is 6221.   Regards, Josh   From: 
+Sun-il Kim [mailto:sk0005@uah.edu] Sent: Wednesday, August 13, 2014 1:51 PM 
+To: Josh Jones Subject: MAC address registration for IP   Josh, Please 
+forward the following addy: 8C-89-A5-0F-D4-90   This will be a machine 
+Martin uses for research work. Thanks,   --  
+n-il   ----------------------------------  Sun-il Kim, Ph.D.  Computer 
+Science Department   University of Alabama in Huntsville 
+mailto:sunilkim@cs.uah.edu ----------------------------------To update or check the status of this ticket, please do the following:
+
+
+1.	Visit  <http://oitservice.uah.edu/> http://oitservice.uah.edu/
+2.	Click My Service Center
+3.	Enter your Charger credentials, and click Sign In.
+
+
+
+
+
+
+------=_NextPart_000_2F024_01D11173.69D3BB50
+Content-Type: text/html;
+	boundary="----46D2765C87B24FEA867A405418C28353";
+	charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+<div name=3D"Automated Notification-"/><html =
+xmlns:v=3D"urn:schemas-microsoft-com:vml" =
+xmlns:o=3D"urn:schemas-microsoft-com:office:office">
+
+<head>
+<style type=3D"text/css">
+.style1 {
+				background-color: #EEEEEE;
+}
+.style2 {
+				color: #000000;
+}
+.style3 {
+				text-align: left;
+}
+.style4 {
+				color: #000000;
+				font-family: Arial;
+				font-size: 10pt;
+}
+.style5 {
+				font-family: Arial;
+}
+.style6 {
+				font-size: 10pt;
+}
+.style7 {
+				color: #000000;
+				font-size: 10pt;
+}
+.style9 {
+				font-size: 10pt;
+				font-weight: bold;
+}
+.style11 {
+				font-size: 10pt;
+				text-align: center;
+				color: #000000;
+}
+.style12 {
+	font-family: Arial;
+	color: #000000;
+}
+.style13 {
+	border: 1px solid #ffffff;
+	text-align: left;
+	color: #000000;
+	font-size: 10pt;
+	background-color: #eeeeee;
+}
+</style>
+</head>
+
+<body style=3D"font-size:9pt; color:#555555; =
+font-family:Arial,Verdana;">
+ <span class=3D"style5">
+	<table style=3D"width: 100%">
+					<tr>
+									<td>
+									<p class=3D"style9"><span class=3D"style2">Dear Joshua =
+Jones,</p>
+ <p class=3D"style6"><head><BR/><style =
+type=3D"text/css"><BR/></style><BR/></head><BR/><BR/><span =
+class=3D"style1"><font size=3D"2">Thank you for contacting the OIT Help =
+Desk. Please take a moment to fill out our Satisfaction Survey. Your =
+feedback is extremely important to us; we strive to improve the services =
+we offer.  Also, it will allow us to provide a continuing high level of =
+quality customer service in future interactions. <BR><BR/></font><a =
+href=3D"http://bbcrm.edusupportcenter.com/ics/survey/survey.asp?deptID=3D=
+8572&surveyID=3D2571&type=3Dweb" =
+style=3D"color:#4B95F0;font-size:11px;font-family:tahoma,Arial;font-weigh=
+t:bold">Take a Survey</a><span class=3D"style1"><font size=3D"2"> =
+<br><BR/>Thank you,<BR/><br><BR/>OIT Help Desk</font></span></p>
+ <p><font size=3D"2"></font></p>
+									<font size=3D"2">OIT Help Desk<br>
+									UAH - Will Schumacher<br>
+									256-824-6979</font><p>
+									<font size=3D"2"><br/></font></p>
+									</td>
+									<td class=3D"style11" valign=3D"top">
+									<img =
+src=3D"https://bbcrm.edusupportcenter.com/FileManagement/Download/e05a711=
+fdc3144479c02e9c7b5b52461"></td>
+					</tr>
+	</table>
+	<p class=3D"style7"> </p>
+	</span>
+  <table cellspacing=3D"1" cellpadding=3D"3" style=3D"font-size:9pt; " =
+class=3D"style12">
+   <tr>
+    <td colspan=3D"2" align=3D"left" style=3D"font-weight:bold; " nowrap =
+class=3D"style7">
+	Customer Details</td>
+   </tr>
+   <tr>
+    <td nowrap class=3D"style13">
+	First Name</td>
+    <td>Joshua<span class=3D"style1"><br>
+	</span></td>
+   </tr>
+   <tr>
+    <td style=3D"background-color:#eeeeee; border:1px solid #ffffff;" =
+nowrap class=3D"style3">
+	Last Name<span class=3D"style1"><br>
+	</span></td>
+    <td>Jones</td>
+   </tr>
+   <tr>
+    <td style=3D"background-color:#eeeeee; border:1px solid #ffffff;" =
+nowrap class=3D"style3">
+	Email</td>
+    <td>jonesjd@uah.edu<span class=3D"style1"><br>
+	</span></td>
+   </tr>
+   <tr>
+    <td style=3D"background-color:#eeeeee; border:1px solid #ffffff;" =
+nowrap class=3D"style3">
+	Primary Phone<span class=3D"style1"><br>
+	</span></td>
+    <td>+1 256 824 6904</td>
+   </tr>
+   <tr>
+    <td style=3D"background-color:#eeeeee; border:1px solid #ffffff;" =
+nowrap class=3D"style3">
+	User Type</td>
+    <td>Staff</span></td>
+   </tr>
+   <tr>
+    <td style=3D"background-color:#eeeeee; border:1px solid #ffffff;" =
+nowrap class=3D"style3">
+	Cc'd Customers</td>
+    <td></span></td>
+   </tr>
+  </table>
+ <p>
+  <span class=3D"style4"><br>
+	</span>
+  <table cellspacing=3D"1" cellpadding=3D"3" style=3D"font-size:9pt; " =
+class=3D"style12">
+   <tr>
+    <td colspan=3D"2" align=3D"left" style=3D"font-weight:bold; " nowrap =
+class=3D"style7">Ticket Information:</td>
+   </tr>
+   <span class=3D"style7">
+   <tr>
+    <td style=3D"background-color:#eeeeee; border:1px solid #ffffff;" =
+nowrap class=3D"style3">
+	Ticket #:</td>
+    <td>8231-25542</td>
+   </tr>
+   <tr>
+    <td style=3D"background-color:#eeeeee; border:1px solid #ffffff;" =
+nowrap class=3D"style3">Date Created:</td>
+    <td>8/18/2014 10:42 AM CDT</td>
+   </tr>
+   <tr>
+    <td style=3D"background-color:#eeeeee; border:1px solid #ffffff;" =
+nowrap class=3D"style3">
+	 Incident Type</td>
+    <td>Service<span class=3D"style1"><br>
+	</span></td>
+   </tr>
+   <tr>
+    <td style=3D"background-color:#eeeeee; border:1px solid #ffffff;" =
+nowrap class=3D"style3">
+	Category</td>
+    <td>Network requests<span class=3D"style1"><br>
+	</span></td>
+   </tr>
+   <tr>
+    <td style=3D"background-color:#eeeeee; border:1px solid #ffffff;" =
+nowrap class=3D"style3">
+	Sub-Category</td>
+    <td>Device Registration<span class=3D"style1"><br>
+	</span></td>
+   </tr>
+   <tr>
+    <td style=3D"background-color:#eeeeee; border:1px solid #ffffff;" =
+nowrap class=3D"style3">
+	Summary</td>
+    <td>FW: MAC address registration for IP<span class=3D"style1"><br>
+	</span></td>
+   </tr>
+   <tr>
+    <td style=3D"background-color:#eeeeee; border:1px solid #ffffff;" =
+nowrap class=3D"style3">
+	Request Description</td>
+    <td style=3D"white-space: pre-wrap">I left off the OS. It is a =
+Windows 8 machine.=20
+=C2=A0
+The POC on this will be Dr. Sunil Kim. I will not be the Administrator =
+of this machine.
+The room number will be Technology Hall, N-310-A.
+=C2=A0
+Dr. Kim=E2=80=99s email is mailto:sk0005@uah.edu, and his phone is 6221.
+=C2=A0
+Regards,
+Josh
+=C2=A0
+From: Sun-il Kim [mailto:sk0005@uah.edu]=20
+Sent: Wednesday, August 13, 2014 1:51 PM
+To: Josh Jones
+Subject: MAC address registration for IP
+=C2=A0
+Josh,
+Please forward the following addy:
+8C-89-A5-0F-D4-90
+=C2=A0
+This will be a machine Martin uses for research work.
+Thanks,
+=C2=A0
+-- Sun-il
+=C2=A0
+----------------------------------
+=C2=A0Sun-il Kim, Ph.D.
+=C2=A0Computer Science Department=C2=A0
+=C2=A0University of Alabama in Huntsville=C2=A0
+=C2=A0mailto:sunilkim@cs.uah.edu
+----------------------------------</td>
+   </tr>
+   </span>
+  </table>
+ </p>
+	<p>
+   </p>
+ <p>
+  <table cellspacing=3D"0" cellpadding=3D"0" border=3D"0" =
+style=3D"font-size:9pt; color:#555555; " class=3D"style5">
+   <tr>
+    <td align=3D"left" style=3D"font-weight:bold;" nowrap =
+class=3D"style7">To update or check the status of this ticket, please do =
+the following:</td>
+   </tr>
+   <tr>
+    <td>
+     <ol class=3D"style6">
+       <li class=3D"style2">Visit <a =
+href=3D"http://oitservice.uah.edu/"><strong>
+		http://oitservice.uah.edu/</strong></a> </li>
+       <li class=3D"style2">Click My Service Center</li>
+  <li class=3D"style2">Enter your Charger credentials, and click Sign =
+In.</li>
+     </ol>
+    </td>
+   </tr>
+  </table>
+ </p><span class=3D"style4"><br>
+ <br>
+ </span>
+<div =
+name=3D"-ParatureDataBegin-0057002F0078004E0079003700580030007A0037004400=
+7200750078006E0061004C003600540078006B00670039007A007200430041004A0053004=
+F007600580034006D00760070006300640046006A007800530051006E004400680045004E=
+00490031005A0044002F0078006F0047005A0059004E00650039005A00410044006700310=
+02F00680045006C003300620055006F006B003000550036004F006A0046004F0033003100=
+7600550057002F0064006E007A002F005900440039003800510054006B006500500058004=
+A0038003000450053004F00550071006B0070006B006E00780069006C0039007500350059=
+00510050004B0048007300510065007100530078007400610038007A003000510051006F0=
+0380057006E00740034007300700045007A00380032006800740032005000340048003800=
+3100590070007600700049003000750062003900760049006A0073006C00770072002B005=
+80071002F00700035007000660032005A0073004200450074006A0066006F006B-Paratur=
+eDataEnd-">&nbsp;</div></body></html>
+------=_NextPart_000_2F024_01D11173.69D3BB50--
+

@@ -1,0 +1,80 @@
+From somebody@mail.cs.uah.edu  Mon Jun 23 20:49:50 2014
+Return-Path: <chairperson@huntug.org>
+Reply-To: <chairperson@huntug.org>
+From: <chairperson@huntug.org>
+To: <jjones@cs.uah.edu>
+Subject: Ignite talk at HUNTUG
+Date: Mon, 23 Jun 2014 20:43:18 -0500
+Message-ID: <3a09fa36-fb32-4b5d-8407-e5cb74fa9574>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_2F09A_01D11174.2F35F980"
+X-Mailer: Microsoft Outlook 14.0
+Thread-Index: AQGHCf5JWIwcmwpLix3dBlAYhtAQiw==
+X-OlkEid: 528406E5A563F011A78FEC418D257A0500822577
+X-UID: 50
+Status: RO
+X-Keywords:                                                                     
+Content-Length: 2569
+
+This is a multipart message in MIME format.
+
+------=_NextPart_000_2F09A_01D11174.2F35F980
+Content-Type: text/plain;
+	charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+ Dear Members,
+
+        HUNTUG is planning an Ignite talk on Tuesday, July 8th, 2014,  and 
+if you are interested in participating, please contact HUNTUG chairperson, 
+chairperson@huntug.org by July 1st, 2014.
+
+Ignite, is a presentation format, where there are multiple speakers and each 
+speaker gets about 5 minutes to speak about a topic they are passionate 
+about.  The previous ignite talk held at HUNTUG, had topics ranging from 
+'Model Railroading in the digital age', 'The evolution of integration and 
+business enablement' and 'HTML5' among others and was a great success, and 
+so back by popular demand another Ignite talk.  If you've ever been 
+interested in speaking, but was not up for a long talk, or if you have a 
+cool hobby you'd like to talk about then please sign up.
+
+For more details on ignite talk, please check out this link 
+<http://www.huntug.com/huntug/Resources/IgniteEvent/tabid/115/Default.aspx> 
+ >>>
+
+Hope you can join in,
+
+thanks,
+
+HUNTUG Chairperson
+
+
+------=_NextPart_000_2F09A_01D11174.2F35F980
+Content-Type: text/html;
+	boundary="--boundary_1166_3b1f5f70-9ee4-457f-a39a-f07fee36fdb2";
+	charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+<Base Href=3D'www.huntug.com/huntug'><p>&#160;Dear Members,</p>
+<p>&#160; &#160; &#160; &#160; HUNTUG is planning an Ignite talk on =
+Tuesday, July 8th, 2014, &#160;and if you are interested in =
+participating, please contact HUNTUG chairperson, &#160; =
+chairperson@huntug.org by July 1st, 2014.</p>
+<p>Ignite, is a presentation format, where there are multiple speakers =
+and each speaker gets about 5 minutes to speak about a topic they are =
+passionate about. &#160;The previous ignite talk held at HUNTUG, had =
+topics ranging from '<em>Model Railroading in the digital age</em>', =
+'<em>The evolution of integration and business enablement</em>' and =
+'<em>HTML5</em>' among others and was a great success, and so back by =
+popular demand another Ignite talk. &#160;If you've ever been interested =
+in speaking, but was not up for a long talk, or if you have a cool hobby =
+you'd like to talk about then please sign up.</p>
+<p>For more details on ignite talk, please check out this <a =
+href=3D"http://www.huntug.com/huntug/Resources/IgniteEvent/tabid/115/Defa=
+ult.aspx">link&gt;&gt;&gt;</a></p>
+<p>Hope you can join in,</p>
+<p>thanks,</p>
+<p>HUNTUG Chairperson</p>
+------=_NextPart_000_2F09A_01D11174.2F35F980--
+

@@ -1,0 +1,74 @@
+From somebody@mail.cs.uah.edu  Tue Jan 14 12:11:40 2014
+Return-Path: <jonesjd+caf_=jjones=cs.uah.edu@uah.edu>
+From: "UAH Parking Management Office" <parking@uah.edu>
+To: <jonesjd@uah.edu>
+Subject: Parking Receipt
+Date: Tue, 14 Jan 2014 13:00:37 -0500
+Message-ID: <52d57b45.44caec0a.4bc3.ffff9fb0@mx.google.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_2F373_01D11176.A505D110"
+X-Mailer: Microsoft Outlook 14.0
+Thread-Index: AQIliD6dTncPifioh5/Z+leqkzsZpQ==
+X-OlkEid: 52E422E5D96D96843D1850498A971BF96A1D537E
+X-UID: 78
+Status: RO
+X-Keywords:                                                                     
+Content-Length: 1194
+
+This is a multipart message in MIME format.
+
+------=_NextPart_000_2F373_01D11176.A505D110
+Content-Type: text/plain;
+	charset="us-ascii"
+Content-Transfer-Encoding: 7bit
+
+Your UAH Parking Receipt
+
+
+
+Ticket #14100007                  $50.00
+
+========================================
+
+Total Payment:                    $50.00
+
+
+
+Payment Information:
+
+Receipt #:                  14014432330O
+
+Payment Type:                       Visa
+
+Payment Date:        01/14/2014 12:00 PM
+
+Authorization #:          20140114000001
+
+
+
+
+------=_NextPart_000_2F373_01D11176.A505D110
+Content-Type: text/html;
+	charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+<html><body><pre style=3D"font-family: monospace">Your UAH Parking =
+Receipt
+
+Ticket #14100007                  $50.00
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D
+Total Payment:                    $50.00
+
+Payment Information:
+Receipt #:                  14014432330O
+Payment Type:                       Visa
+Payment Date:        01/14/2014 12:00 PM
+Authorization #:          20140114000001
+</prev></body></html>
+
+
+
+------=_NextPart_000_2F373_01D11176.A505D110--
+

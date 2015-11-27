@@ -1,0 +1,109 @@
+From somebody@mail.cs.uah.edu  Tue Feb 19 13:48:38 2013
+Return-Path: <randy.haga@willbrook.com>
+From: "Randy Haga" <randy.haga@willbrook.com>
+To: <josh.jones@willbrook.com>
+Subject: no incoming email
+Date: Tue, 19 Feb 2013 13:39:57 -0500
+Message-ID: <000001ce0ed0$84587860$8d096920$@willbrook.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_2F350_01D11176.8C44D770"
+X-Mailer: Microsoft Outlook 14.0
+Thread-Index: AQH/HC9Jg9qimNCK6SMi8SB1Bcv8HA==
+Content-Language: en-us
+X-OlkEid: 522422E5A7F6FB1849E54B4DB5C39C6A282092EB
+X-UID: 72
+Status: RO
+X-Keywords:                                                                     
+Content-Length: 2766
+
+This is a multipart message in MIME format.
+
+------=_NextPart_000_2F350_01D11176.8C44D770
+Content-Type: text/plain;
+	charset="us-ascii"
+Content-Transfer-Encoding: 7bit
+
+I am not receiving any email at Willbrook. It comes to my phone but I cant
+download any on my laptop. It tells me it is unable to connect to the pop3
+server
+
+ 
+
+V/R
+
+Randy Haga
+
+Willbrook Solutions
+
+Business Area Lead
+
+MDA Execution
+
+256-541-3180
+
+ 
+
+
+------=_NextPart_000_2F350_01D11176.8C44D770
+Content-Type: text/html;
+	boundary="----=_NextPart_000_0001_01CE0E9E.39BF40E0";
+	charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+<html xmlns:v=3D"urn:schemas-microsoft-com:vml" =
+xmlns:o=3D"urn:schemas-microsoft-com:office:office" =
+xmlns:w=3D"urn:schemas-microsoft-com:office:word" =
+xmlns:m=3D"http://schemas.microsoft.com/office/2004/12/omml" =
+xmlns=3D"http://www.w3.org/TR/REC-html40"><head><META =
+HTTP-EQUIV=3D"Content-Type" CONTENT=3D"text/html; =
+charset=3Dus-ascii"><meta name=3DGenerator content=3D"Microsoft Word 14 =
+(filtered medium)"><style><!--
+/* Font Definitions */
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+/* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0in;
+	margin-bottom:.0001pt;
+	font-size:11.0pt;
+	font-family:"Calibri","sans-serif";}
+a:link, span.MsoHyperlink
+	{mso-style-priority:99;
+	color:blue;
+	text-decoration:underline;}
+a:visited, span.MsoHyperlinkFollowed
+	{mso-style-priority:99;
+	color:purple;
+	text-decoration:underline;}
+span.EmailStyle17
+	{mso-style-type:personal-compose;
+	font-family:"Calibri","sans-serif";
+	color:windowtext;}
+.MsoChpDefault
+	{mso-style-type:export-only;
+	font-family:"Calibri","sans-serif";}
+@page WordSection1
+	{size:8.5in 11.0in;
+	margin:1.0in 1.0in 1.0in 1.0in;}
+div.WordSection1
+	{page:WordSection1;}
+--></style><!--[if gte mso 9]><xml>
+<o:shapedefaults v:ext=3D"edit" spidmax=3D"1026" />
+</xml><![endif]--><!--[if gte mso 9]><xml>
+<o:shapelayout v:ext=3D"edit">
+<o:idmap v:ext=3D"edit" data=3D"1" />
+</o:shapelayout></xml><![endif]--></head><body lang=3DEN-US link=3Dblue =
+vlink=3Dpurple><div class=3DWordSection1><p class=3DMsoNormal>I am not =
+receiving any email at Willbrook. It comes to my phone but I cant =
+download any on my laptop. It tells me it is unable to connect to the =
+pop3 server<o:p></o:p></p><p class=3DMsoNormal><o:p>&nbsp;</o:p></p><p =
+class=3DMsoNormal>V/R<o:p></o:p></p><p class=3DMsoNormal>Randy =
+Haga<o:p></o:p></p><p class=3DMsoNormal>Willbrook =
+Solutions<o:p></o:p></p><p class=3DMsoNormal>Business Area =
+Lead<o:p></o:p></p><p class=3DMsoNormal>MDA Execution<o:p></o:p></p><p =
+class=3DMsoNormal>256-541-3180<o:p></o:p></p><p =
+class=3DMsoNormal><o:p>&nbsp;</o:p></p></div></body></html>
+------=_NextPart_000_2F350_01D11176.8C44D770--
+

@@ -1,0 +1,322 @@
+From somebody@mail.cs.uah.edu  Wed Aug 20 16:08:41 2014
+Return-Path: <estest@uah.edu>
+From: "Thomas Estes" <estest@uah.edu>
+To: "Josh Jones" <jjones@cs.uah.edu>
+Cc: <wodesk@uah.edu>,
+	"David Barnes" <barnesd@uah.edu>,
+	"Andy Doll" <dolla@uah.edu>
+References: <006401cfb59e$66f6bc20$34e43460$@cs.uah.edu> <330201cfb702$6e7b0f90$4b712eb0$@cs.uah.edu> <1b2bb60502b9c537c7fa6c22710a4028@mail.gmail.com> <02c501cfbcb6$16dfcff0$449f6fd0$@cs.uah.edu>
+In-Reply-To: <02c501cfbcb6$16dfcff0$449f6fd0$@cs.uah.edu>
+Subject: RE: work order
+Date: Wed, 20 Aug 2014 15:47:09 -0500
+Message-ID: <49b296578865dc755849bc404d1b5485@mail.gmail.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_2F04E_01D11173.A3619E50"
+X-Mailer: Microsoft Outlook 14.0
+Thread-Index: AQKPayiH/jypr14r3RKCqI5oK3iNSwHbhSwfAd/4JbIC5YE/3AKdEO55
+X-OlkEid: 52A404E542CE4C7E4394754A8E741330F6A1B366
+X-UID: 35
+Status: RO
+X-Status: A
+X-Keywords:                                                                     
+Content-Length: 9598
+
+This is a multipart message in MIME format.
+
+------=_NextPart_000_2F04E_01D11173.A3619E50
+Content-Type: text/plain;
+	charset="UTF-8"
+Content-Transfer-Encoding: 8bit
+
+Josh,
+
+
+
+I just received the Service order.  When are you available to meet?  Thanks.
+
+
+
+Tom
+
+
+
+From: Josh Jones [mailto:jjones@cs.uah.edu]
+Sent: Wednesday, August 20, 2014 3:34 PM
+To: 'Thomas Estes'
+Cc: wodesk@uah.edu; 'David Barnes'; 'Andy Doll'
+Subject: RE: work order
+
+
+
+I was just checking on the status of the work order. Did it ever come 
+through?
+
+
+
+Thanks,
+
+Josh
+
+
+
+From: Thomas Estes [mailto:estest@uah.edu]
+Sent: Wednesday, August 13, 2014 2:00 PM
+To: Josh Jones
+Cc: wodesk@uah.edu; David Barnes; Andy Doll
+Subject: FW: work order
+Importance: High
+
+
+
+Josh,
+
+
+
+I’m just forwarding this to the Work Order Desk to make certain that they 
+did receive it.  As soon as it’s processed, we’ll call you and schedule a 
+meeting.  Thanks.
+
+
+
+Tom
+
+
+
+From: Josh Jones [mailto:jjones@cs.uah.edu]
+Sent: Wednesday, August 13, 2014 9:25 AM
+To: 'Thomas Estes'
+Cc: 'Andy Doll'; 'David Barnes'
+Subject: FW: work order
+Importance: High
+
+
+
+Tom,
+
+
+
+I am forwarding the work request that was submitted yesterday to you.
+
+
+
+Regards,
+
+Josh
+
+
+
+From: Maryann Bierer [mailto:biererm@cs.uah.edu]
+Sent: Monday, August 11, 2014 2:57 PM
+To: wodesk@uah.edu
+Cc: Joshua D. Jones
+Subject: work order
+Importance: High
+
+
+
+Please see attached work order from Josh Jones.
+He can be reached at ext. 6904
+
+
+
+
+
+Maryann Bierer
+
+
+
+Staff Assistant
+Computer Science Department
+The University of Alabama in Huntsville
+Technology Hall N300C
+Huntsville, AL 35899
+(256) 824-5178
+(256) 824-6239 FAX
+
+
+
+
+------=_NextPart_000_2F04E_01D11173.A3619E50
+Content-Type: text/html;
+	boundary="001a11c240e846ea56050115b579";
+	charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+<html><head><meta http-equiv=3D"Content-Type" content=3D"text/html; =
+charset=3Dutf-8"><meta name=3D"Generator" content=3D"Microsoft Word 14 =
+(filtered medium)"><style><!--
+/* Font Definitions */
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+@font-face
+	{font-family:Tahoma;
+	panose-1:2 11 6 4 3 5 4 4 2 4;}
+@font-face
+	{font-family:"Script MT Bold";
+	panose-1:3 4 6 2 4 6 7 8 9 4;}
+@font-face
+	{font-family:"Bradley Hand ITC";
+	panose-1:3 7 4 2 5 3 2 3 2 3;}
+/* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0in;
+	margin-bottom:.0001pt;
+	font-size:11.0pt;
+	font-family:"Calibri","sans-serif";}
+a:link, span.MsoHyperlink
+	{mso-style-priority:99;
+	color:blue;
+	text-decoration:underline;}
+a:visited, span.MsoHyperlinkFollowed
+	{mso-style-priority:99;
+	color:purple;
+	text-decoration:underline;}
+p.MsoAcetate, li.MsoAcetate, div.MsoAcetate
+	{mso-style-priority:99;
+	mso-style-link:"Balloon Text Char";
+	margin:0in;
+	margin-bottom:.0001pt;
+	font-size:8.0pt;
+	font-family:"Tahoma","sans-serif";}
+span.BalloonTextChar
+	{mso-style-name:"Balloon Text Char";
+	mso-style-priority:99;
+	mso-style-link:"Balloon Text";
+	font-family:"Tahoma","sans-serif";}
+span.EmailStyle19
+	{mso-style-type:personal;
+	font-family:"Calibri","sans-serif";
+	color:windowtext;}
+span.EmailStyle20
+	{mso-style-type:personal;
+	font-family:"Calibri","sans-serif";
+	color:#1F497D;}
+span.EmailStyle21
+	{mso-style-type:personal;
+	font-family:"Calibri","sans-serif";
+	color:#1F497D;}
+span.EmailStyle22
+	{mso-style-type:personal;
+	font-family:"Calibri","sans-serif";
+	color:#1F497D;}
+span.EmailStyle23
+	{mso-style-type:personal-reply;
+	font-family:"Calibri","sans-serif";
+	color:#1F497D;}
+.MsoChpDefault
+	{mso-style-type:export-only;
+	font-size:10.0pt;}
+@page WordSection1
+	{size:8.5in 11.0in;
+	margin:1.0in 1.0in 1.0in 1.0in;}
+div.WordSection1
+	{page:WordSection1;}
+--></style></head><body lang=3D"EN-US" link=3D"blue" =
+vlink=3D"purple"><div class=3D"WordSection1"><p =
+class=3D"MsoNormal"><span style=3D"color:#1f497d">Josh,</span></p><p =
+class=3D"MsoNormal"><span style=3D"color:#1f497d">=C2=A0</span></p><p =
+class=3D"MsoNormal">
+<span style=3D"color:#1f497d">I just received the Service order.=C2=A0 =
+When are you available to meet?=C2=A0 Thanks.</span></p><p =
+class=3D"MsoNormal"><span style=3D"color:#1f497d">=C2=A0</span></p><p =
+class=3D"MsoNormal"><span style=3D"color:#1f497d">Tom</span></p>
+<p class=3D"MsoNormal"><span =
+style=3D"color:#1f497d">=C2=A0</span></p><div><div =
+style=3D"border:none;border-top:solid #b5c4df 1.0pt;padding:3.0pt 0in =
+0in 0in"><p class=3D"MsoNormal"><b><span =
+style=3D"font-size:10.0pt;font-family:&quot;Tahoma&quot;,&quot;sans-serif=
+&quot;">From:</span></b><span =
+style=3D"font-size:10.0pt;font-family:&quot;Tahoma&quot;,&quot;sans-serif=
+&quot;"> Josh Jones [mailto:<a =
+href=3D"mailto:jjones@cs.uah.edu">jjones@cs.uah.edu</a>] <br>
+<b>Sent:</b> Wednesday, August 20, 2014 3:34 PM<br><b>To:</b> =
+&#39;Thomas Estes&#39;<br><b>Cc:</b> <a =
+href=3D"mailto:wodesk@uah.edu">wodesk@uah.edu</a>; &#39;David =
+Barnes&#39;; &#39;Andy Doll&#39;<br><b>Subject:</b> RE: work =
+order</span></p>
+</div></div><p class=3D"MsoNormal">=C2=A0</p><p =
+class=3D"MsoNormal"><span style=3D"color:#1f497d">I was just checking on =
+the status of the work order. Did it ever come through?</span></p><p =
+class=3D"MsoNormal"><span style=3D"color:#1f497d">=C2=A0</span></p>
+<p class=3D"MsoNormal"><span =
+style=3D"color:#1f497d">Thanks,</span></p><p class=3D"MsoNormal"><span =
+style=3D"color:#1f497d">Josh</span></p><p class=3D"MsoNormal"><span =
+style=3D"color:#1f497d">=C2=A0</span></p><div><div =
+style=3D"border:none;border-top:solid #b5c4df 1.0pt;padding:3.0pt 0in =
+0in 0in">
+<p class=3D"MsoNormal"><b><span =
+style=3D"font-size:10.0pt;font-family:&quot;Tahoma&quot;,&quot;sans-serif=
+&quot;">From:</span></b><span =
+style=3D"font-size:10.0pt;font-family:&quot;Tahoma&quot;,&quot;sans-serif=
+&quot;"> Thomas Estes [<a =
+href=3D"mailto:estest@uah.edu">mailto:estest@uah.edu</a>] <br>
+<b>Sent:</b> Wednesday, August 13, 2014 2:00 PM<br><b>To:</b> Josh =
+Jones<br><b>Cc:</b> <a =
+href=3D"mailto:wodesk@uah.edu">wodesk@uah.edu</a>; David Barnes; Andy =
+Doll<br><b>Subject:</b> FW: work order<br><b>Importance:</b> =
+High</span></p>
+</div></div><p class=3D"MsoNormal">=C2=A0</p><p =
+class=3D"MsoNormal"><span style=3D"color:#1f497d">Josh,</span></p><p =
+class=3D"MsoNormal"><span style=3D"color:#1f497d">=C2=A0</span></p><p =
+class=3D"MsoNormal"><span style=3D"color:#1f497d">I=E2=80=99m just =
+forwarding this to the Work Order Desk to make certain that they did =
+receive it.=C2=A0 As soon as it=E2=80=99s processed, we=E2=80=99ll call =
+you and schedule a meeting.=C2=A0 Thanks.</span></p>
+<p class=3D"MsoNormal"><span style=3D"color:#1f497d">=C2=A0</span></p><p =
+class=3D"MsoNormal"><span style=3D"color:#1f497d">Tom</span></p><p =
+class=3D"MsoNormal"><span =
+style=3D"color:#1f497d">=C2=A0</span></p><div><div =
+style=3D"border:none;border-top:solid #b5c4df 1.0pt;padding:3.0pt 0in =
+0in 0in">
+<p class=3D"MsoNormal"><b><span =
+style=3D"font-size:10.0pt;font-family:&quot;Tahoma&quot;,&quot;sans-serif=
+&quot;">From:</span></b><span =
+style=3D"font-size:10.0pt;font-family:&quot;Tahoma&quot;,&quot;sans-serif=
+&quot;"> Josh Jones [mailto:<a =
+href=3D"mailto:jjones@cs.uah.edu">jjones@cs.uah.edu</a>] <br>
+<b>Sent:</b> Wednesday, August 13, 2014 9:25 AM<br><b>To:</b> =
+&#39;Thomas Estes&#39;<br><b>Cc:</b> &#39;Andy Doll&#39;; &#39;David =
+Barnes&#39;<br><b>Subject:</b> FW: work order <br><b>Importance:</b> =
+High</span></p></div>
+</div><p class=3D"MsoNormal">=C2=A0</p><p class=3D"MsoNormal"><span =
+style=3D"color:#1f497d">Tom,</span></p><p class=3D"MsoNormal"><span =
+style=3D"color:#1f497d">=C2=A0</span></p><p class=3D"MsoNormal"><span =
+style=3D"color:#1f497d">I am forwarding the work request that was =
+submitted yesterday to you.</span></p>
+<p class=3D"MsoNormal"><span style=3D"color:#1f497d">=C2=A0</span></p><p =
+class=3D"MsoNormal"><span style=3D"color:#1f497d">Regards,</span></p><p =
+class=3D"MsoNormal"><span style=3D"color:#1f497d">Josh</span></p><p =
+class=3D"MsoNormal"><span style=3D"color:#1f497d">=C2=A0</span></p>
+<div><div style=3D"border:none;border-top:solid #b5c4df =
+1.0pt;padding:3.0pt 0in 0in 0in"><p class=3D"MsoNormal"><b><span =
+style=3D"font-size:10.0pt;font-family:&quot;Tahoma&quot;,&quot;sans-serif=
+&quot;">From:</span></b><span =
+style=3D"font-size:10.0pt;font-family:&quot;Tahoma&quot;,&quot;sans-serif=
+&quot;"> Maryann Bierer [<a =
+href=3D"mailto:biererm@cs.uah.edu">mailto:biererm@cs.uah.edu</a>] <br>
+<b>Sent:</b> Monday, August 11, 2014 2:57 PM<br><b>To:</b> <a =
+href=3D"mailto:wodesk@uah.edu">wodesk@uah.edu</a><br><b>Cc:</b> Joshua =
+D. Jones<br><b>Subject:</b> work order <br><b>Importance:</b> =
+High</span></p></div></div><p class=3D"MsoNormal">
+=C2=A0</p><p class=3D"MsoNormal">Please see attached work order from =
+Josh Jones. <br>He can be reached at ext. 6904</p><p =
+class=3D"MsoNormal">=C2=A0</p><p class=3D"MsoNormal"><span =
+style=3D"font-size:18.0pt;font-family:&quot;Script MT =
+Bold&quot;;color:#0b0371">=C2=A0</span></p>
+<p class=3D"MsoNormal"><span =
+style=3D"font-size:18.0pt;font-family:&quot;Script MT =
+Bold&quot;;color:#0b0371">Maryann Bierer</span></p><p =
+class=3D"MsoNormal"><span =
+style=3D"font-size:10.0pt;font-family:&quot;Bradley Hand =
+ITC&quot;">=C2=A0</span></p>
+<p class=3D"MsoNormal"><span =
+style=3D"font-size:8.0pt;font-family:&quot;Tahoma&quot;,&quot;sans-serif&=
+quot;">Staff Assistant<br>Computer Science Department<br>The University =
+of Alabama in Huntsville<br>Technology Hall N300C<br>
+Huntsville, AL 35899<br>(256) 824-5178<br>(256) 824-6239 =
+FAX</span></p><p class=3D"MsoNormal">=C2=A0</p></div></body></html>
+
+------=_NextPart_000_2F04E_01D11173.A3619E50--
+

@@ -1,0 +1,1216 @@
+From somebody@mail.cs.uah.edu  Fri Aug 22 20:49:42 2014
+Return-Path: <messages@ncas.us-cert.gov>
+Reply-To: <US-CERT@ncas.us-cert.gov>
+From: "US-CERT" <US-CERT@ncas.us-cert.gov>
+To: <jjones@cs.uah.edu>
+Subject: TA14-212A: Backoff Point-of-Sale Malware
+Date: Fri, 22 Aug 2014 20:22:28 -0500
+Message-ID: <16888163.183324@ncas.us-cert.gov>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_2F02B_01D11173.704B4F70"
+X-Mailer: Microsoft Outlook 14.0
+Thread-Index: AQJGhcynKzPSaRJAp0aKMQvodLYAjA==
+X-OlkEid: 52C403E5372FDAB729081A4EBBF4751406224BAB
+X-UID: 28
+Status: O
+X-Keywords:                                                                    
+Content-Length: 49922
+
+This is a multipart message in MIME format.
+
+------=_NextPart_000_2F02B_01D11173.704B4F70
+Content-Type: text/plain;
+	charset="UTF-8"
+Content-Transfer-Encoding: 8bit
+
+
+ NCCIC / US-CERT 
+<https://public.govdelivery.com/system/images/37745/original/BANNER_NCCIC_USC_01.png>
+
+National Cyber Awareness System:
+
+TA14-212A: Backoff Point-of-Sale Malware 
+<https://www.us-cert.gov/ncas/alerts/TA14-212A>
+07/31/2014 07:30 AM EDT
+
+Original release date: July 31, 2014 | Last revised: August 22, 2014
+
+
+Systems Affected
+
+
+Point-of-Sale Systems
+
+
+
+
+Overview
+
+
+This advisory was prepared in collaboration with the National Cybersecurity 
+and Communications Integration Center (NCCIC), United States Secret Service 
+(USSS), Financial Sector Information Sharing and Analysis Center (FS-ISAC), 
+and Trustwave Spiderlabs, a trusted partner under contract with the USSS. 
+The purpose of this release is to provide relevant and actionable technical 
+indicators for network defense against the PoS malware dubbed "Backoff" 
+which has been discovered exploiting businesses' administrator accounts 
+remotely and exfiltrating consumer payment data.
+
+Over the past year, the Secret Service has responded to network intrusions 
+at numerous businesses throughout the United States that have been impacted 
+by the “Backoff” malware. Seven PoS system providers/vendors have confirmed 
+that they have had multiple clients affected. Reporting continues on 
+additional compromised locations, involving private sector entities of all 
+sizes, and the Secret Service currently estimates that over 1,000 U.S. 
+businesses are affected.
+
+Recent investigations revealed that malicious actors are using publicly 
+available tools to locate businesses that use remote desktop applications. 
+Remote desktop solutions like Microsoft's Remote Desktop 
+<http://apps.microsoft.com/windows/en-us/app/remote-desktop/051f560e-5e9b-4dad-8b2e-fa5e0b05a480> 
+[1], Apple Remote Desktop  <https://www.apple.com/remotedesktop/> [2], 
+Chrome Remote Desktop 
+<https://chrome.google.com/webstore/category/apps?hl=en> [3], Splashtop 2 
+<http://www.splashtop.com/downloads-all>  [4], Pulseway 
+<http://apps.microsoft.com/windows/en-gb/app/pc-monitor/9efc1d1c-6816-48bc-8de7-d4b21a5b3589> 
+[5] and LogMeIn  <https://secure.logmein.com/> [6] offer the convenience and 
+efficiency of connecting to a computer from a remote location. Once these 
+applications are located, the suspects attempted to brute force the login 
+feature of the remote desktop solution. After gaining access to what was 
+often administrator or privileged access accounts, the suspects were then 
+able to deploy the point-of-sale (PoS) malware and subsequently exfiltrate 
+consumer payment data via an encrypted POST request.
+
+Organizations that believe they have been impacted should contact their 
+local Secret Service field office and may contact the NCCIC for additional 
+information.
+
+
+Description
+
+
+“Backoff” is a family of PoS malware and has been discovered recently. The 
+malware family has been witnessed on at least three separate forensic 
+investigations. Researchers have identified three primary variants to the 
+“Backoff” malware including 1.4, 1.55 (“backoff”, “goo”, “MAY”, “net”), and 
+1.56 (“LAST”).
+
+These variations have been seen as far back as October 2013 and continue to 
+operate as of July 2014. In total, the malware typically consists of the 
+following four capabilities. An exception is the earliest witnessed variant 
+(1.4) which does not include keylogging functionality. Additionally, 1.55 
+‘net’ removed the explorer.exe injection component:
+
+*	Scraping memory for track data
+*	Logging keystrokes
+*	Command & control (C2) communication
+*	Injecting malicious stub into explorer.exe
+
+The malicious stub that is injected into explorer.exe is responsible for 
+persistence in the event the malicious executable crashes or is forcefully 
+stopped. The malware is responsible for scraping memory from running 
+processes on the victim machine and searching for track data. Keylogging 
+functionality is also present in most recent variants of “Backoff”. 
+Additionally, the malware has a C2 component that is responsible for 
+uploading discovered data, updating the malware, downloading/executing 
+further malware, and uninstalling the malware.
+
+Variants
+
+Based on compiled timestamps and versioning information witnessed in the C2 
+HTTP POST requests, “Backoff” variants were analyzed over a seven month 
+period. The five variants witnessed in the “Backoff” malware family have 
+notable modifications, to include:
+
+1.55 “backoff”
+
+*	Added Local.dat temporary storage for discovered track data
+*	Added keylogging functionality
+*	Added “gr” POST parameter to include variant name
+*	Added ability to exfiltrate keylog data
+*	Supports multiple exfiltration domains
+*	Changed install path
+*	Changed User-Agent
+
+1.55 “goo”
+
+*	Attempts to remove prior version of malware
+*	Uses 8.8.8.8 as resolver
+
+1.55 “MAY”
+
+*	No significant updates other than changes to the URI and version name
+
+1.55 “net”
+
+*	Removed the explorer.exe injection component
+
+1.56 “LAST”
+
+*	Re-added the explorer.exe injection component
+*	Support for multiple domain/URI/port configurations
+*	Modified code responsible for creating exfiltration thread(s)
+*	Added persistence techniques
+
+Command & Control Communication
+
+All C2 communication for “Backoff” takes place via HTTP POST requests. A 
+number of POST parameters are included when this malware makes a request to 
+the C&C server.
+
+*	op : Static value of ‘1’
+*	id : randomly generated 7 character string
+*	ui : Victim username/hostname
+*	wv : Version of Microsoft Windows
+*	gr (Not seen in version 1.4) : Malware-specific identifier
+*	bv : Malware version
+*	data (optional) : Base64-encoded/RC4-encrypted data
+
+The ‘id’ parameter is stored in the following location, to ensure it is 
+consistent across requests:
+
+*	HKCU\SOFTWARE\Microsoft\Windows\CurrentVersion\identifier
+
+If this key doesn’t exist, the string will be generated and stored. Data is 
+encrypted using RC4 prior to being encoded with Base64. The password for RC4 
+is generated from the ‘id’ parameter, a static string of ‘jhgtsd7fjmytkr’, 
+and the ‘ui’ parameter. These values are concatenated together and then 
+hashed using the MD5 algorithm to form the RC4 password. In the above 
+example, the RC4 password would be ‘56E15A1B3CB7116CAB0268AC8A2CD943 (The 
+MD5 hash of ‘vxeyHkSjhgtsd7fjmytkrJosh @ PC123456).
+
+File Indicators:
+
+The following is a list of the Indicators of Compromise (IOCs) that should 
+be added to the network security to search to see if these indicators are on 
+their network.
+
+1.4
+
+Packed MD5: 927AE15DBF549BD60EDCDEAFB49B829E
+
+Unpacked MD5: 6A0E49C5E332DF3AF78823CA4A655AE8
+
+Install Path: %APPDATA%\AdobeFlashPlayer\mswinsvc.exe
+
+Mutexes:
+
+uhYtntr56uisGst
+
+uyhnJmkuTgD
+
+Files Written:
+
+%APPDATA%\mskrnl
+
+%APPDATA%\winserv.exe
+
+%APPDATA%\AdobeFlashPlayer\mswinsvc.exe
+
+Static String (POST Request): zXqW9JdWLM4urgjRkX
+
+Registry Keys:
+
+HKCU\SOFTWARE\Microsoft\Windows\CurrentVersion\identifier
+
+HKCU\ SOFTWARE \Microsoft\Windows\CurrentVersion\Run\Windows NT Service
+
+User-Agent: Mozilla/4.0
+
+URI(s): /aircanada/dark.php
+
+1.55 “backoff”
+
+Packed MD5: F5B4786C28CCF43E569CB21A6122A97E
+
+Unpacked MD5: CA4D58C61D463F35576C58F25916F258
+
+Install Path: %APPDATA%\AdobeFlashPlayer\mswinhost.exe
+
+Mutexes:
+
+Undsa8301nskal
+
+uyhnJmkuTgD
+
+Files Written:
+
+%APPDATA%\mskrnl
+
+%APPDATA%\winserv.exe
+
+%APPDATA%\AdobeFlashPlayer\mswinhost.exe
+
+%APPDATA%\AdobeFlashPlayer\Local.dat
+
+%APPDATA%\AdobeFlashPlayer\Log.txt
+
+Static String (POST Request): ihasd3jasdhkas
+
+Registry Keys:
+
+HKCU\SOFTWARE\Microsoft\Windows\CurrentVersion\identifier
+
+HKCU\ SOFTWARE \Microsoft\Windows\CurrentVersion\Run\Windows NT Service
+
+User-Agent: Mozilla/5.0 (Windows NT 6.1; rv:24.0) Gecko/20100101 
+Firefox/24.0
+
+URI(s): /aero2/fly.php
+
+1.55 “goo”
+
+Pa  cked MD5: 17E1173F6FC7E920405F8DBDE8C9ECAC
+
+Unpacked MD5: D397D2CC9DE41FB5B5D897D1E665C549
+
+Install Path: %APPDATA%\OracleJava\javaw.exe
+
+Mutexes:
+
+nUndsa8301nskal
+
+nuyhnJmkuTgD
+
+Files Written:
+
+%APPDATA%\nsskrnl
+
+%APPDATA%\winserv.exe
+
+%APPDATA%\OracleJava\javaw.exe
+
+%APPDATA%\OracleJava\Local.dat
+
+%APPDATA%\OracleJava\Log.txt
+
+Static String (POST Request): jhgtsd7fjmytkr
+
+Registry Keys:
+
+HKCU\SOFTWARE\Microsoft\Windows\CurrentVersion\identifier
+
+HKCU\ SOFTWARE \Microsoft\Windows\CurrentVersion\Run\Windows NT Service
+
+User-Agent:
+
+URI(s): /windows/updcheck.php
+
+1.55 “MAY”
+
+Packed MD5: 21E61EB9F5C1E1226F9D69CBFD1BF61B
+
+Unpacked MD5: CA608E7996DED0E5009DB6CC54E08749
+
+Install Path: %APPDATA%\OracleJava\javaw.exe
+
+Mutexes:
+
+nUndsa8301nskal
+
+nuyhnJmkuTgD
+
+Files Written:
+
+%APPDATA%\nsskrnl
+
+%APPDATA%\winserv.exe
+
+%APPDATA%\OracleJava\javaw.exe
+
+%APPDATA%\OracleJava\Local.dat
+
+%APPDATA%\OracleJava\Log.txt
+
+Static String (POST Request): jhgtsd7fjmytkr
+
+Registry Keys:
+
+HKCU\SOFTWARE\Microsoft\Windows\CurrentVersion\identifier
+
+HKCU\ SOFTWARE \Microsoft\Windows\CurrentVersion\Run\Windows NT Service
+
+User-Agent:
+
+URI(s): /windowsxp/updcheck.php
+
+1.55 “net”
+
+Packed MD5: 0607CE9793EEA0A42819957528D92B02
+
+Unpacked MD5: 5C1474EA275A05A2668B823D055858D9
+
+Install Path: %APPDATA%\AdobeFlashPlayer\mswinhost.exe
+
+Mutexes:
+
+nUndsa8301nskal
+
+Files Written:
+
+%APPDATA%\AdobeFlashPlayer\mswinhost.exe
+
+%APPDATA%\AdobeFlashPlayer\Local.dat
+
+%APPDATA%\AdobeFlashPlayer\Log.txt
+
+Static String (POST Request): ihasd3jasdhkas9
+
+Registry Keys:
+
+HKCU\SOFTWARE\Microsoft\Windows\CurrentVersion\identifier
+
+HKCU\ SOFTWARE \Microsoft\Windows\CurrentVersion\Run\Windows NT Service
+
+User-Agent:
+
+URI(s): /windowsxp/updcheck.php
+
+1.56 “LAST”
+
+Packed MD5: 12C9C0BC18FDF98189457A9D112EEBFC
+
+Unpacked MD5: 205947B57D41145B857DE18E43EFB794
+
+Install Path: %APPDATA%\OracleJava\javaw.exe
+
+Mutexes:
+
+nUndsa8301nskal
+
+nuyhnJmkuTgD
+
+Files Written:
+
+%APPDATA%\nsskrnl
+
+%APPDATA%\winserv.exe
+
+%APPDATA%\OracleJava\javaw.exe
+
+%APPDATA%\OracleJava\Local.dat
+
+%APPDATA%\OracleJava\Log.txt
+
+Static String (POST Request): jhgtsd7fjmytkr
+
+Registry Keys:
+
+HKCU\SOFTWARE\Microsoft\Windows\CurrentVersion\identifier
+
+HKCU\ SOFTWARE \Microsoft\Windows\CurrentVersion\Run\Windows NT Service
+
+HKLM\ SOFTWARE \Microsoft\Windows\CurrentVersion\Run\Windows NT Service
+
+HKCU\SOFTWARE\Microsoft\Active Setup\Installed 
+Components\{B3DB0D62-B481-4929-888B-49F426C1A136}\StubPath
+
+HKLM\SOFTWARE\Microsoft\Active Setup\Installed 
+Components\{B3DB0D62-B481-4929-888B-49F426C1A136}\StubPath
+
+User-Agent: Mozilla/5.0 (Windows NT 6.1; rv:24.0) Gecko/20100101 
+Firefox/24.0
+
+URI(s):  /windebug/updcheck.php
+
+
+Impact
+
+
+The impact of a compromised PoS system can affect both the businesses and 
+consumer by exposing customer data such as names, mailing addresses, 
+credit/debit card numbers, phone numbers, and e-mail addresses to criminal 
+elements. These breaches can impact a business’ brand and reputation, while 
+consumers’ information can be used to make fraudulent purchases or risk 
+compromise of bank accounts. It is critical to safeguard your corporate 
+networks and web servers to prevent any unnecessary exposure to compromise 
+or to mitigate any damage that could be occurring now.
+
+
+Solution
+
+
+At the time this advisory is released, the variants of the “Backoff’ malware 
+family are largely undetected by anti-virus (AV) vendors. However, shortly 
+following the publication of this technical analysis, AV companies will 
+quickly begin detecting the existing variants. It’s important to maintain 
+up‐to‐date AV signatures and engines as new threats such as this are 
+continually being added to your AV solution. Pending AV detection of the 
+malware variants, network defenders can apply indicators of compromise (IOC) 
+to a variety of prevention and detection strategies.[7 
+<https://blogs.rsa.com/understanding-indicators-of-compromise-ioc-part-i/> ],[8 
+<http://www.sans.org/reading-room/whitepapers/forensics/ioc-indicators-compromise-malware-forensics-34200> 
+ ],[9 
+<http://www.tripwire.com/state-of-security/security-data-protection/indicators-of-compromise-the-key-to-earlier-detection-of-breaches/> 
+ ] IOCs can be found above.
+
+The forensic investigations of compromises of retail IT/payment networks 
+indicate that the network compromises allowed the introduction of memory 
+scraping malware to the payment terminals. Information security 
+professionals recommend a defense in depth approach to mitigating risk to 
+retail payment systems. While some of the risk mitigation recommendations 
+are general in nature, the following strategies provide an approach to 
+minimize the possibility of an attack and mitigate the risk of data 
+compromise:
+
+Remote Desktop Access
+
+*	Configure the account lockout settings to lock a user account after a 
+period of time or a specified number of failed login attempts. This prevents 
+unlimited unauthorized attempts to login whether from an unauthorized user 
+or via automated attack types like brute force.[10 
+<http://technet.microsoft.com/en-us/library/cc737614%28v=ws.10%29.aspx> ]
+*	Limit the number of users and workstation who can log in using Remote 
+Desktop.
+*	Use firewalls (both software and hardware where available) to restrict 
+access to remote desktop listening ports (default is TCP 3389).[11 
+<https://security.berkeley.edu/node/94> ]
+*	Change the default Remote Desktop listening port.
+*	Define complex password parameters. Configuring an expiration time and 
+password length and complexity can decrease the amount of time in which a 
+successful attack can occur.[12 
+<http://technet.microsoft.com/en-us/library/cc780271%28v=ws.10%29.aspx> ]
+*	Require two-factor authentication (2FA) for remote desktop access.[13 
+<http://csrc.nist.gov/publications/nistpubs/800-46-rev1/sp800-46r1.pdf> ]
+*	Install a Remote Desktop Gateway to restrict access.[14 
+<http://technet.microsoft.com/en-us/library/dd983949> ]
+*	Add an extra layer of authentication and encryption by tunneling your 
+Remote Desktop through IPSec, SSH or SSL.[15 
+<http://technet.microsoft.com/en-us/network/bb531150> ],[16 
+<http://technet.microsoft.com/en-us/magazine/ff458357.aspx> ]
+*	Require 2FA when accessing payment processing networks. Even if a virtual 
+private network is used, it is important that 2FA is implemented to help 
+mitigate keylogger or credential dumping attacks.
+*	Limit administrative privileges for users and applications.
+*	Periodically review systems (local and domain controllers) for unknown and 
+dormant users.
+
+Network Security
+
+*	Review firewall configurations and ensure that only allowed ports, 
+services and Internet protocol (IP) addresses are communicating with your 
+network. This is especially critical for outbound (e.g., egress) firewall 
+rules in which compromised entities allow ports to communicate to any IP 
+address on the Internet. Hackers leverage this configuration to exfiltrate 
+data to their IP addresses.
+*	Segregate payment processing networks from other networks.
+*	Apply access control lists (ACLs) on the router configuration to limit 
+unauthorized traffic to payment processing networks.
+*	Create strict ACLs segmenting public-facing systems and back-end database 
+systems that house payment card data.
+*	Implement data leakage prevention/detection tools to detect and help 
+prevent data exfiltration.
+*	Implement tools to detect anomalous network traffic and anomalous behavior 
+by legitimate users (compromised credentials).
+
+Cash Register and PoS Security
+
+*	Implement hardware-based point-to-point encryption. It is recommended that 
+EMV-enabled PIN entry devices or other credit-only accepting devices have 
+Secure Reading and Exchange of Data (SRED) capabilities. SRED-approved 
+devices can be found at the Payment Card Industry Security Standards 
+website.
+*	Install Payment Application Data Security Standard-compliant payment 
+applications.
+*	Deploy the latest version of an operating system and ensure it is up to 
+date with security patches, anti-virus software, file integrity monitoring 
+and a host-based intrusion-detection system.
+*	Assign a strong password to security solutions to prevent application 
+modification. Use two-factor authentication (2FA) where feasible.
+*	Perform a binary or checksum comparison to ensure unauthorized files are 
+not installed.
+*	Ensure any automatic updates from third parties are validated. This means 
+performing a checksum comparison on the updates prior to deploying them on 
+PoS systems. It is recommended that merchants work with their PoS vendors to 
+obtain signatures and hash values to perform this checksum validation.
+*	Disable unnecessary ports and services, null sessions, default users and 
+guests.
+*	Enable logging of events and make sure there is a process to monitor logs 
+on a daily basis.
+*	Implement least privileges and ACLs on users and applications on the 
+system.
+
+
+References
+
+
+*	[1] Windows Remote Desktop 
+<http://apps.microsoft.com/windows/en-us/app/remote-desktop/051f560e-5e9b-4dad-8b2e-fa5e0b05a480>
+*	[2] Apple Remote Desktop <https://www.apple.com/remotedesktop/>
+*	[3] Chrome Remote Desktop 
+<https://chrome.google.com/webstore/category/apps?hl=en>
+*	[4] Splashtop <http://www.splashtop.com/downloads-all>
+*	[5] Windows Pulseway 
+<http://apps.microsoft.com/windows/en-gb/app/pc-monitor/9efc1d1c-6816-48bc-8de7-d4b21a5b3589>
+*	[6] LogMeIn Official Site <https://secure.logmein.com/>
+*	[7] Understanding Indicators of Compromise (IOC) 
+<https://blogs.rsa.com/understanding-indicators-of-compromise-ioc-part-i/>
+*	[8] Using Indicators of Compromise in Malware Forensics 
+<http://www.sans.org/reading-room/whitepapers/forensics/ioc-indicators-compromise-malware-forensics-34200>
+*	[9] Indicators of Compromise: The Key to Early Detection 
+<http://www.tripwire.com/state-of-security/security-data-protection/indicators-of-compromise-the-key-to-earlier-detection-of-breaches/>
+*	[10] Configuring Account Lockout 
+<http://technet.microsoft.com/en-us/library/cc737614%28v=ws.10%29.aspx>
+*	[11] Securing Remote Desktop for System Administrators 
+<https://security.berkeley.edu/node/94>
+*	[12] Account Lockout and Password Concepts 
+<http://technet.microsoft.com/en-us/library/cc780271%28v=ws.10%29.aspx>
+*	[13] NIST Guide to Enterprise Telework and Remote Access Security 
+<http://csrc.nist.gov/publications/nistpubs/800-46-rev1/sp800-46r1.pdf>
+*	[14] Installing RD Gateway 
+<http://technet.microsoft.com/en-us/library/dd983949>
+*	[15] Networking and Access Technologies 
+<http://technet.microsoft.com/en-us/network/bb531150>
+*	[16] Secure RDS Connections with SSL 
+<http://technet.microsoft.com/en-us/magazine/ff458357.aspx>
+
+
+Revision History
+
+
+*	July, 31 2014 - Initial Release
+*	August 18, 2014 - Minor revision to remote desktop solutions list
+*	August 22, 2014 - Changes to the Overview section
+
+  _____
+
+This product is provided subject to this Notification 
+<http://www.us-cert.gov/privacy/notification>  and this Privacy 
+<http://www.us-cert.gov/privacy/> & Use policy.
+
+  _____
+
+OTHER RESOURCES:Contact 
+Us <http://www.us-cert.gov/contact-us/>  | Security Publications 
+<http://www.us-cert.gov/security-publications>  | Alerts and Tips 
+<http://www.us-cert.gov/ncas>  | Related Resources 
+<http://www.us-cert.gov/related-resources>
+STAY CONNECTED: <http://public.govdelivery.com/accounts/USDHSUSCERT/subscriber/new> Sign up for email updates
+
+SUBSCRIBER SERVICES:
+Manage Preferences 
+<http://public.govdelivery.com/accounts/USDHSUSCERT/subscribers/new?preferences=true> 
+|  Unsubscribe 
+<https://public.govdelivery.com/accounts/USDHSUSCERT/subscriber/one_click_unsubscribe?verification=5.6821794667e36c08f1e3ca39d3241dfa&destination=jjones@cs.uah.edu> 
+|  Help <https://subscriberhelp.govdelivery.com/>
+
+  _____
+
+This email was sent to jjones@cs.uah.edu using GovDelivery, on behalf of: 
+United States Computer Emergency Readiness Team (US-CERT) · 245 Murray Lane 
+SW Bldg 410 · Washington, DC 20598 · (703) 235-5110<http://www.govdelivery.com/portals/powered-by> 
+Powered by GovDelivery
+------=_NextPart_000_2F02B_01D11173.704B4F70
+Content-Type: text/html;
+	boundary="----=_NextPart_8B1_BA62_06BCA9FB.2299B6B4";
+	charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns=3D"http://www.w3.org/1999/xhtml" xml:lang=3D"en" =
+lang=3D"en">
+<head>
+<title>    TA14-212A: Backoff Point-of-Sale Malware
+</title>
+</head>
+<body>
+      <table width=3D"700" border=3D"0" cellspacing=3D"0" =
+cellpadding=3D"0" align=3D"center">
+        <tr>
+          <td>
+
+
+
+
+  <p><img =
+src=3D"https://public.govdelivery.com/system/images/37745/original/BANNER=
+_NCCIC_USC_01.png" alt=3D"NCCIC / US-CERT" width=3D"700" height=3D"100" =
+/></p>
+  <p>National Cyber Awareness System:</p>
+<div class=3D"rss_item" style=3D"margin-bottom: 2em;">
+<div class=3D"rss_title" style=3D"font-weight: bold; font-size: 120%; =
+margin: 0 0 0.3em; padding: 0;"><a =
+href=3D"https://www.us-cert.gov/ncas/alerts/TA14-212A">TA14-212A: =
+Backoff Point-of-Sale Malware</a></div>
+<div class=3D"rss_pub_date" style=3D"font-size: 90%; font-style: italic; =
+color: #666666; margin: 0 0 0.3em; padding: 0;">07/31/2014 07:30 AM =
+EDT</div>
+<br />
+<div class=3D"rss_description" style=3D"margin: 0 0 0.3em; padding: =
+0;">Original release date: July 31, 2014 | Last revised: August 22, =
+2014<br />
+<h3>Systems Affected</h3>
+<p>Point-of-Sale Systems</p>
+<p>&nbsp;</p>
+<h3>Overview</h3>
+<p>This advisory was prepared in collaboration with the National =
+Cybersecurity and Communications Integration Center (NCCIC), United =
+States Secret Service (USSS), Financial Sector Information Sharing and =
+Analysis Center (FS-ISAC), and Trustwave Spiderlabs, a trusted partner =
+under contract with the USSS.&nbsp; The purpose of this release is to =
+provide relevant and actionable technical indicators for network defense =
+against the PoS malware dubbed "Backoff" which has been discovered =
+exploiting businesses' administrator accounts remotely and exfiltrating =
+consumer payment data.</p>
+<p>Over the past year, the Secret Service has responded to network =
+intrusions at numerous businesses throughout the United States that have =
+been impacted by the &ldquo;Backoff&rdquo; malware. Seven PoS system =
+providers/vendors have confirmed that they have had multiple clients =
+affected. Reporting continues on additional compromised locations, =
+involving private sector entities of all sizes, and the Secret Service =
+currently estimates that over 1,000 U.S. businesses are affected.</p>
+<p>Recent investigations revealed that malicious actors are using =
+publicly available tools to locate businesses that use remote desktop =
+applications. Remote desktop solutions like <a =
+href=3D"http://apps.microsoft.com/windows/en-us/app/remote-desktop/051f56=
+0e-5e9b-4dad-8b2e-fa5e0b05a480">Microsoft's Remote Desktop </a>[1], <a =
+href=3D"https://www.apple.com/remotedesktop/">Apple Remote Desktop =
+</a>[2], <a =
+href=3D"https://chrome.google.com/webstore/category/apps?hl=3Den">Chrome =
+Remote Desktop </a>[3], <a =
+href=3D"http://www.splashtop.com/downloads-all">Splashtop 2</a> [4], <a =
+href=3D"http://apps.microsoft.com/windows/en-gb/app/pc-monitor/9efc1d1c-6=
+816-48bc-8de7-d4b21a5b3589">Pulseway</a> [5] and <a =
+href=3D"https://secure.logmein.com/">LogMeIn </a>[6] offer the =
+convenience and efficiency of connecting to a computer from a remote =
+location. Once these applications are located, the suspects attempted to =
+brute force the login feature of the remote desktop solution. After =
+gaining access to what was often administrator or privileged access =
+accounts, the suspects were then able to deploy the point-of-sale (PoS) =
+malware and subsequently exfiltrate consumer payment data via an =
+encrypted POST request.</p>
+<p>Organizations that believe they have been impacted should contact =
+their local Secret Service field office and may contact the NCCIC for =
+additional information.</p>
+<h3>Description</h3>
+<p>&ldquo;Backoff&rdquo; is a family of PoS malware and has been =
+discovered recently. The malware family has been witnessed on at least =
+three separate forensic investigations. Researchers have identified =
+three primary variants to the &ldquo;Backoff&rdquo; malware including =
+1.4, 1.55 (&ldquo;backoff&rdquo;, &ldquo;goo&rdquo;, &ldquo;MAY&rdquo;, =
+&ldquo;net&rdquo;), and 1.56 (&ldquo;LAST&rdquo;).</p>
+<p>These variations have been seen as far back as October 2013 and =
+continue to operate as of July 2014. In total, the malware typically =
+consists of the following four capabilities. An exception is the =
+earliest witnessed variant (1.4) which does not include keylogging =
+functionality. Additionally, 1.55 &lsquo;net&rsquo; removed the =
+explorer.exe injection component:</p>
+<ul>
+<li>Scraping memory for track data</li>
+<li>Logging keystrokes</li>
+<li>Command &amp; control (C2) communication</li>
+<li>Injecting malicious stub into explorer.exe</li>
+</ul>
+<p>The malicious stub that is injected into explorer.exe is responsible =
+for persistence in the event the malicious executable crashes or is =
+forcefully stopped. The malware is responsible for scraping memory from =
+running processes on the victim machine and searching for track data. =
+Keylogging functionality is also present in most recent variants of =
+&ldquo;Backoff&rdquo;. Additionally, the malware has a C2 component that =
+is responsible for uploading discovered data, updating the malware, =
+downloading/executing further malware, and uninstalling the malware.</p>
+<p><strong><u>Variants</u></strong></p>
+<p>Based on compiled timestamps and versioning information witnessed in =
+the C2 HTTP POST requests, &ldquo;Backoff&rdquo; variants were analyzed =
+over a seven month period. The five variants witnessed in the =
+&ldquo;Backoff&rdquo; malware family have notable modifications, to =
+include:</p>
+<p><strong><em>1.55 &ldquo;backoff&rdquo; </em></strong></p>
+<ul>
+<li>Added Local.dat temporary storage for discovered track data</li>
+<li>Added keylogging functionality</li>
+<li>Added &ldquo;gr&rdquo; POST parameter to include variant name</li>
+<li>Added ability to exfiltrate keylog data</li>
+<li>Supports multiple exfiltration domains</li>
+<li>Changed install path</li>
+<li>Changed User-Agent</li>
+</ul>
+<p><strong><em>1.55 &ldquo;goo&rdquo; </em></strong></p>
+<ul>
+<li>Attempts to remove prior version of malware</li>
+<li>Uses 8.8.8.8 as resolver</li>
+</ul>
+<p><strong><em>1.55 &ldquo;MAY&rdquo; </em></strong></p>
+<ul>
+<li>No significant updates other than changes to the URI and version =
+name</li>
+</ul>
+<p><strong><em>1.55 &ldquo;net&rdquo; </em></strong></p>
+<ul>
+<li>Removed the explorer.exe injection component</li>
+</ul>
+<p><strong><em>1.56 &ldquo;LAST&rdquo; </em></strong></p>
+<ul>
+<li>Re-added the explorer.exe injection component</li>
+<li>Support for multiple domain/URI/port configurations</li>
+<li>Modified code responsible for creating exfiltration thread(s)</li>
+<li>Added persistence techniques</li>
+</ul>
+<p><strong><u>Command &amp; Control Communication</u></strong></p>
+<p>All C2 communication for &ldquo;Backoff&rdquo; takes place via HTTP =
+POST requests. A number of POST parameters are included when this =
+malware makes a request to the C&amp;C server.</p>
+<ul>
+<li>op : Static value of &lsquo;1&rsquo;</li>
+<li>id : randomly generated 7 character string</li>
+<li>ui : Victim username/hostname</li>
+<li>wv : Version of Microsoft Windows</li>
+<li>gr (Not seen in version 1.4) : Malware-specific identifier</li>
+<li>bv : Malware version</li>
+<li>data (optional) : Base64-encoded/RC4-encrypted data</li>
+</ul>
+<p>The &lsquo;id&rsquo; parameter is stored in the following location, =
+to ensure it is consistent across requests:</p>
+<ul>
+<li>HKCU\SOFTWARE\Microsoft\Windows\CurrentVersion\identifier</li>
+</ul>
+<p>If this key doesn&rsquo;t exist, the string will be generated and =
+stored. Data is encrypted using RC4 prior to being encoded with Base64. =
+The password for RC4 is generated from the &lsquo;id&rsquo; parameter, a =
+static string of &lsquo;jhgtsd7fjmytkr&rsquo;, and the &lsquo;ui&rsquo; =
+parameter. These values are concatenated together and then hashed using =
+the MD5 algorithm to form the RC4 password. In the above example, the =
+RC4 password would be &lsquo;56E15A1B3CB7116CAB0268AC8A2CD943 (The MD5 =
+hash of &lsquo;vxeyHkSjhgtsd7fjmytkrJosh @ PC123456).</p>
+<p><strong><u>File Indicators:</u></strong></p>
+<p>The following is a list of the Indicators of Compromise (IOCs) that =
+should be added to the network security to search to see if these =
+indicators are on their network.</p>
+<p><strong><em>1.4</em></strong></p>
+<p style=3D"margin-left: 0.5in;"><strong>Packed MD5:</strong> =
+927AE15DBF549BD60EDCDEAFB49B829E</p>
+<p style=3D"margin-left: 0.5in;"><strong>Unpacked MD5:</strong> =
+6A0E49C5E332DF3AF78823CA4A655AE8</p>
+<p style=3D"margin-left: 0.5in;"><strong>Install Path:</strong> =
+%APPDATA%\AdobeFlashPlayer\mswinsvc.exe</p>
+<p style=3D"margin-left: 0.5in;"><strong>Mutexes: </strong></p>
+<p style=3D"margin-left: 0.5in;">uhYtntr56uisGst</p>
+<p style=3D"margin-left: 0.5in;">uyhnJmkuTgD</p>
+<p style=3D"margin-left: 0.5in;"><strong>Files Written: </strong></p>
+<p style=3D"margin-left: 0.5in;">%APPDATA%\mskrnl</p>
+<p style=3D"margin-left: 0.5in;">%APPDATA%\winserv.exe</p>
+<p style=3D"margin-left: =
+0.5in;">%APPDATA%\AdobeFlashPlayer\mswinsvc.exe</p>
+<p style=3D"margin-left: 0.5in;"><strong>Static String (POST =
+Request):</strong> zXqW9JdWLM4urgjRkX</p>
+<p style=3D"margin-left: 0.5in;"><strong>Registry Keys:</strong></p>
+<p style=3D"margin-left: =
+0.5in;">HKCU\SOFTWARE\Microsoft\Windows\CurrentVersion\identifier</p>
+<p style=3D"margin-left: 0.5in;">HKCU\ SOFTWARE =
+\Microsoft\Windows\CurrentVersion\Run\Windows NT Service</p>
+<p style=3D"margin-left: 0.5in;"><strong>User-Agent:</strong> =
+Mozilla/4.0</p>
+<p style=3D"margin-left: 0.5in;"><strong>URI(s):</strong> =
+/aircanada/dark.php</p>
+<p><strong><em>1.55 &ldquo;backoff&rdquo;</em></strong></p>
+<p style=3D"margin-left: 0.5in;"><strong>Packed MD5:</strong> =
+F5B4786C28CCF43E569CB21A6122A97E</p>
+<p style=3D"margin-left: 0.5in;"><strong>Unpacked MD5:</strong> =
+CA4D58C61D463F35576C58F25916F258</p>
+<p style=3D"margin-left: 0.5in;"><strong>Install Path:</strong> =
+%APPDATA%\AdobeFlashPlayer\mswinhost.exe</p>
+<p style=3D"margin-left: 0.5in;"><strong>Mutexes: </strong></p>
+<p style=3D"margin-left: 0.5in;">Undsa8301nskal</p>
+<p style=3D"margin-left: 0.5in;">uyhnJmkuTgD</p>
+<p style=3D"margin-left: 0.5in;"><strong>Files Written: </strong></p>
+<p style=3D"margin-left: 0.5in;">%APPDATA%\mskrnl</p>
+<p style=3D"margin-left: 0.5in;">%APPDATA%\winserv.exe</p>
+<p style=3D"margin-left: =
+0.5in;">%APPDATA%\AdobeFlashPlayer\mswinhost.exe</p>
+<p style=3D"margin-left: =
+0.5in;">%APPDATA%\AdobeFlashPlayer\Local.dat</p>
+<p style=3D"margin-left: 0.5in;">%APPDATA%\AdobeFlashPlayer\Log.txt</p>
+<p style=3D"margin-left: 0.5in;"><strong>Static String (POST =
+Request):</strong> ihasd3jasdhkas</p>
+<p style=3D"margin-left: 0.5in;"><strong>Registry Keys:</strong></p>
+<p style=3D"margin-left: =
+0.5in;">HKCU\SOFTWARE\Microsoft\Windows\CurrentVersion\identifier</p>
+<p style=3D"margin-left: 0.5in;">HKCU\ SOFTWARE =
+\Microsoft\Windows\CurrentVersion\Run\Windows NT Service</p>
+<p style=3D"margin-left: 0.5in;"><strong>User-Agent:</strong> =
+Mozilla/5.0 (Windows NT 6.1; rv:24.0) Gecko/20100101 Firefox/24.0</p>
+<p style=3D"margin-left: 0.5in;"><strong>URI(s):</strong> =
+/aero2/fly.php</p>
+<p><strong><em>1.55 &ldquo;goo&rdquo;</em></strong></p>
+<p style=3D"margin-left: 0.5in;"><strong>Pa&nbsp; cked MD5:</strong> =
+17E1173F6FC7E920405F8DBDE8C9ECAC</p>
+<p style=3D"margin-left: 0.5in;"><strong>Unpacked MD5:</strong> =
+D397D2CC9DE41FB5B5D897D1E665C549</p>
+<p style=3D"margin-left: 0.5in;"><strong>Install Path:</strong> =
+%APPDATA%\OracleJava\javaw.exe</p>
+<p style=3D"margin-left: 0.5in;"><strong>Mutexes: </strong></p>
+<p style=3D"margin-left: 0.5in;">nUndsa8301nskal</p>
+<p style=3D"margin-left: 0.5in;">nuyhnJmkuTgD</p>
+<p style=3D"margin-left: 0.5in;"><strong>Files Written: </strong></p>
+<p style=3D"margin-left: 0.5in;">%APPDATA%\nsskrnl</p>
+<p style=3D"margin-left: 0.5in;">%APPDATA%\winserv.exe</p>
+<p style=3D"margin-left: 0.5in;">%APPDATA%\OracleJava\javaw.exe</p>
+<p style=3D"margin-left: 0.5in;">%APPDATA%\OracleJava\Local.dat</p>
+<p style=3D"margin-left: 0.5in;">%APPDATA%\OracleJava\Log.txt</p>
+<p style=3D"margin-left: 0.5in;"><strong>Static String (POST =
+Request):</strong> jhgtsd7fjmytkr</p>
+<p style=3D"margin-left: 0.5in;"><strong>Registry Keys:</strong></p>
+<p style=3D"margin-left: =
+0.5in;">HKCU\SOFTWARE\Microsoft\Windows\CurrentVersion\identifier</p>
+<p style=3D"margin-left: 0.5in;">HKCU\ SOFTWARE =
+\Microsoft\Windows\CurrentVersion\Run\Windows NT Service</p>
+<p style=3D"margin-left: 0.5in;"><strong>User-Agent: </strong></p>
+<p style=3D"margin-left: 0.5in;"><strong>URI(s):</strong> =
+/windows/updcheck.php</p>
+<p><strong><em>1.55 &ldquo;MAY&rdquo;</em></strong></p>
+<p style=3D"margin-left: 0.5in;"><strong>Packed MD5:</strong> =
+21E61EB9F5C1E1226F9D69CBFD1BF61B</p>
+<p style=3D"margin-left: 0.5in;"><strong>Unpacked MD5:</strong> =
+CA608E7996DED0E5009DB6CC54E08749</p>
+<p style=3D"margin-left: 0.5in;"><strong>Install Path:</strong> =
+%APPDATA%\OracleJava\javaw.exe</p>
+<p style=3D"margin-left: 0.5in;"><strong>Mutexes: </strong></p>
+<p style=3D"margin-left: 0.5in;">nUndsa8301nskal</p>
+<p style=3D"margin-left: 0.5in;">nuyhnJmkuTgD</p>
+<p style=3D"margin-left: 0.5in;"><strong>Files Written: </strong></p>
+<p style=3D"margin-left: 0.5in;">%APPDATA%\nsskrnl</p>
+<p style=3D"margin-left: 0.5in;">%APPDATA%\winserv.exe</p>
+<p style=3D"margin-left: 0.5in;">%APPDATA%\OracleJava\javaw.exe</p>
+<p style=3D"margin-left: 0.5in;">%APPDATA%\OracleJava\Local.dat</p>
+<p style=3D"margin-left: 0.5in;">%APPDATA%\OracleJava\Log.txt</p>
+<p style=3D"margin-left: 0.5in;"><strong>Static String (POST =
+Request):</strong> jhgtsd7fjmytkr</p>
+<p style=3D"margin-left: 0.5in;"><strong>Registry Keys:</strong></p>
+<p style=3D"margin-left: =
+0.5in;">HKCU\SOFTWARE\Microsoft\Windows\CurrentVersion\identifier</p>
+<p style=3D"margin-left: 0.5in;">HKCU\ SOFTWARE =
+\Microsoft\Windows\CurrentVersion\Run\Windows NT Service</p>
+<p style=3D"margin-left: 0.5in;"><strong>User-Agent: </strong></p>
+<p style=3D"margin-left: 0.5in;"><strong>URI(s):</strong> =
+/windowsxp/updcheck.php</p>
+<p><strong><em>1.55 &ldquo;net&rdquo;</em></strong></p>
+<p style=3D"margin-left: 0.5in;"><strong>Packed MD5:</strong> =
+0607CE9793EEA0A42819957528D92B02</p>
+<p style=3D"margin-left: 0.5in;"><strong>Unpacked MD5:</strong> =
+5C1474EA275A05A2668B823D055858D9</p>
+<p style=3D"margin-left: 0.5in;"><strong>Install Path:</strong> =
+%APPDATA%\AdobeFlashPlayer\mswinhost.exe</p>
+<p style=3D"margin-left: 0.5in;"><strong>Mutexes: </strong></p>
+<p style=3D"margin-left: 0.5in;">nUndsa8301nskal</p>
+<p style=3D"margin-left: 0.5in;"><strong>Files Written: </strong></p>
+<p style=3D"margin-left: =
+0.5in;">%APPDATA%\AdobeFlashPlayer\mswinhost.exe</p>
+<p style=3D"margin-left: =
+0.5in;">%APPDATA%\AdobeFlashPlayer\Local.dat</p>
+<p style=3D"margin-left: 0.5in;">%APPDATA%\AdobeFlashPlayer\Log.txt</p>
+<p style=3D"margin-left: 0.5in;"><strong>Static String (POST =
+Request</strong>): ihasd3jasdhkas9</p>
+<p style=3D"margin-left: 0.5in;"><strong>Registry Keys:</strong></p>
+<p style=3D"margin-left: =
+0.5in;">HKCU\SOFTWARE\Microsoft\Windows\CurrentVersion\identifier</p>
+<p style=3D"margin-left: 0.5in;">HKCU\ SOFTWARE =
+\Microsoft\Windows\CurrentVersion\Run\Windows NT Service</p>
+<p style=3D"margin-left: 0.5in;"><strong>User-Agent: </strong></p>
+<p style=3D"margin-left: 0.5in;"><strong>URI(s):</strong> =
+/windowsxp/updcheck.php</p>
+<p><strong><em>1.56 &ldquo;LAST&rdquo;</em></strong></p>
+<p style=3D"margin-left: 0.5in;"><strong>Packed MD5:</strong> =
+12C9C0BC18FDF98189457A9D112EEBFC</p>
+<p style=3D"margin-left: 0.5in;"><strong>Unpacked MD5:</strong> =
+205947B57D41145B857DE18E43EFB794</p>
+<p style=3D"margin-left: 0.5in;"><strong>Install Path:</strong> =
+%APPDATA%\OracleJava\javaw.exe</p>
+<p style=3D"margin-left: 0.5in;"><strong>Mutexes: </strong></p>
+<p style=3D"margin-left: 0.5in;">nUndsa8301nskal</p>
+<p style=3D"margin-left: 0.5in;">nuyhnJmkuTgD</p>
+<p style=3D"margin-left: 0.5in;"><strong>Files Written: </strong></p>
+<p style=3D"margin-left: 0.5in;">%APPDATA%\nsskrnl</p>
+<p style=3D"margin-left: 0.5in;">%APPDATA%\winserv.exe</p>
+<p style=3D"margin-left: 0.5in;">%APPDATA%\OracleJava\javaw.exe</p>
+<p style=3D"margin-left: 0.5in;">%APPDATA%\OracleJava\Local.dat</p>
+<p style=3D"margin-left: 0.5in;">%APPDATA%\OracleJava\Log.txt</p>
+<p style=3D"margin-left: 0.5in;"><strong>Static String (POST =
+Request):</strong> jhgtsd7fjmytkr</p>
+<p style=3D"margin-left: 0.5in;"><strong>Registry Keys:</strong></p>
+<p style=3D"margin-left: =
+0.5in;">HKCU\SOFTWARE\Microsoft\Windows\CurrentVersion\identifier</p>
+<p style=3D"margin-left: 0.5in;">HKCU\ SOFTWARE =
+\Microsoft\Windows\CurrentVersion\Run\Windows NT Service</p>
+<p style=3D"margin-left: 0.5in;">HKLM\ SOFTWARE =
+\Microsoft\Windows\CurrentVersion\Run\Windows NT Service</p>
+<p style=3D"margin-left: 0.5in;">HKCU\SOFTWARE\Microsoft\Active =
+Setup\Installed =
+Components\{B3DB0D62-B481-4929-888B-49F426C1A136}\StubPath</p>
+<p style=3D"margin-left: 0.5in;">HKLM\SOFTWARE\Microsoft\Active =
+Setup\Installed =
+Components\{B3DB0D62-B481-4929-888B-49F426C1A136}\StubPath</p>
+<p style=3D"margin-left: 0.5in;"><strong>User-Agent:</strong> =
+Mozilla/5.0 (Windows NT 6.1; rv:24.0) Gecko/20100101 Firefox/24.0</p>
+<p style=3D"margin-left: 0.5in;"><strong>URI(s):</strong>&nbsp; =
+/windebug/updcheck.php</p>
+<h3>Impact</h3>
+<p>The impact of a compromised PoS system can affect both the businesses =
+and consumer by exposing customer data such as names, mailing addresses, =
+credit/debit card numbers, phone numbers, and e-mail addresses to =
+criminal elements. These breaches can impact a business&rsquo; brand and =
+reputation, while consumers&rsquo; information can be used to make =
+fraudulent purchases or risk compromise of bank accounts. It is critical =
+to safeguard your corporate networks and web servers to prevent any =
+unnecessary exposure to compromise or to mitigate any damage that could =
+be occurring now.</p>
+<h3>Solution</h3>
+<p>At the time this advisory is released, the variants of the =
+&ldquo;Backoff&rsquo; malware family are largely undetected by =
+anti-virus (AV) vendors. However, shortly following the publication of =
+this technical analysis, AV companies will quickly begin detecting the =
+existing variants. It&rsquo;s important to maintain =
+up=E2=80=90to=E2=80=90date AV signatures and engines as new threats such =
+as this are continually being added to your AV solution. Pending AV =
+detection of the malware variants, network defenders can apply =
+indicators of compromise (IOC) to a variety of prevention and detection =
+strategies.[<a =
+href=3D"https://blogs.rsa.com/understanding-indicators-of-compromise-ioc-=
+part-i/">7</a>],[<a =
+href=3D"http://www.sans.org/reading-room/whitepapers/forensics/ioc-indica=
+tors-compromise-malware-forensics-34200">8</a>],[<a =
+href=3D"http://www.tripwire.com/state-of-security/security-data-protectio=
+n/indicators-of-compromise-the-key-to-earlier-detection-of-breaches/">9</=
+a>] IOCs can be found above.</p>
+<p>The forensic investigations of compromises of retail IT/payment =
+networks indicate that the network compromises allowed the introduction =
+of memory scraping malware to the payment terminals. Information =
+security professionals recommend a defense in depth approach to =
+mitigating risk to retail payment systems. While some of the risk =
+mitigation recommendations are general in nature, the following =
+strategies provide an approach to minimize the possibility of an attack =
+and mitigate the risk of data compromise:</p>
+<p><strong><u>Remote Desktop Access </u></strong></p>
+<ul>
+<li>Configure the account lockout settings to lock a user account after =
+a period of time or a specified number of failed login attempts. This =
+prevents unlimited unauthorized attempts to login whether from an =
+unauthorized user or via automated attack types like brute force.[<a =
+href=3D"http://technet.microsoft.com/en-us/library/cc737614%28v=3Dws.10%2=
+9.aspx">10</a>]</li>
+<li>Limit the number of users and workstation who can log in using =
+Remote Desktop.</li>
+<li>Use firewalls (both software and hardware where available) to =
+restrict access to remote desktop listening ports (default is TCP =
+3389).[<a href=3D"https://security.berkeley.edu/node/94">11</a>]</li>
+<li>Change the default Remote Desktop listening port.</li>
+<li>Define complex password parameters. Configuring an expiration time =
+and password length and complexity can decrease the amount of time in =
+which a successful attack can occur.[<a =
+href=3D"http://technet.microsoft.com/en-us/library/cc780271%28v=3Dws.10%2=
+9.aspx">12</a>]</li>
+<li>Require two-factor authentication (2FA) for remote desktop =
+access.[<a =
+href=3D"http://csrc.nist.gov/publications/nistpubs/800-46-rev1/sp800-46r1=
+.pdf">13</a>]</li>
+<li>Install a Remote Desktop Gateway to restrict access.[<a =
+href=3D"http://technet.microsoft.com/en-us/library/dd983949">14</a>]</li>=
+
+<li>Add an extra layer of authentication and encryption by tunneling =
+your Remote Desktop through IPSec, SSH or SSL.[<a =
+href=3D"http://technet.microsoft.com/en-us/network/bb531150">15</a>],[<a =
+href=3D"http://technet.microsoft.com/en-us/magazine/ff458357.aspx">16</a>=
+]</li>
+<li>Require 2FA when accessing payment processing networks. Even if a =
+virtual private network is used, it is important that 2FA is implemented =
+to help mitigate keylogger or credential dumping attacks.</li>
+<li>Limit administrative privileges for users and applications.</li>
+<li>Periodically review systems (local and domain controllers) for =
+unknown and dormant users.</li>
+</ul>
+<p><strong><u>Network Security </u></strong></p>
+<ul>
+<li>Review firewall configurations and ensure that only allowed ports, =
+services and Internet protocol (IP) addresses are communicating with =
+your network. This is especially critical for outbound (e.g., egress) =
+firewall rules in which compromised entities allow ports to communicate =
+to any IP address on the Internet. Hackers leverage this configuration =
+to exfiltrate data to their IP addresses.</li>
+<li>Segregate payment processing networks from other networks.</li>
+<li>Apply access control lists (ACLs) on the router configuration to =
+limit unauthorized traffic to payment processing networks.</li>
+<li>Create strict ACLs segmenting public-facing systems and back-end =
+database systems that house payment card data.</li>
+<li>Implement data leakage prevention/detection tools to detect and help =
+prevent data exfiltration.</li>
+<li>Implement tools to detect anomalous network traffic and anomalous =
+behavior by legitimate users (compromised credentials).</li>
+</ul>
+<p><strong><u>Cash Register and PoS Security </u></strong></p>
+<ul>
+<li>Implement hardware-based point-to-point encryption. It is =
+recommended that EMV-enabled PIN entry devices or other credit-only =
+accepting devices have Secure Reading and Exchange of Data (SRED) =
+capabilities. SRED-approved devices can be found at the Payment Card =
+Industry Security Standards website.</li>
+<li>Install Payment Application Data Security Standard-compliant payment =
+applications.</li>
+<li>Deploy the latest version of an operating system and ensure it is up =
+to date with security patches, anti-virus software, file integrity =
+monitoring and a host-based intrusion-detection system.</li>
+<li>Assign a strong password to security solutions to prevent =
+application modification. Use two-factor authentication (2FA) where =
+feasible.</li>
+<li>Perform a binary or checksum comparison to ensure unauthorized files =
+are not installed.</li>
+<li>Ensure any automatic updates from third parties are validated. This =
+means performing a checksum comparison on the updates prior to deploying =
+them on PoS systems. It is recommended that merchants work with their =
+PoS vendors to obtain signatures and hash values to perform this =
+checksum validation.</li>
+<li>Disable unnecessary ports and services, null sessions, default users =
+and guests.</li>
+<li>Enable logging of events and make sure there is a process to monitor =
+logs on a daily basis.</li>
+<li>Implement least privileges and ACLs on users and applications on the =
+system.</li>
+</ul>
+<h3>References</h3>
+<ul>
+<li><a =
+href=3D"http://apps.microsoft.com/windows/en-us/app/remote-desktop/051f56=
+0e-5e9b-4dad-8b2e-fa5e0b05a480">[1] Windows Remote Desktop</a></li>
+<li><a href=3D"https://www.apple.com/remotedesktop/">[2] Apple Remote =
+Desktop</a></li>
+<li><a =
+href=3D"https://chrome.google.com/webstore/category/apps?hl=3Den">[3] =
+Chrome Remote Desktop</a></li>
+<li><a href=3D"http://www.splashtop.com/downloads-all">[4] =
+Splashtop</a></li>
+<li><a =
+href=3D"http://apps.microsoft.com/windows/en-gb/app/pc-monitor/9efc1d1c-6=
+816-48bc-8de7-d4b21a5b3589">[5] Windows Pulseway</a></li>
+<li><a href=3D"https://secure.logmein.com/">[6] LogMeIn Official =
+Site</a></li>
+<li><a =
+href=3D"https://blogs.rsa.com/understanding-indicators-of-compromise-ioc-=
+part-i/">[7] Understanding Indicators of Compromise (IOC)</a></li>
+<li><a =
+href=3D"http://www.sans.org/reading-room/whitepapers/forensics/ioc-indica=
+tors-compromise-malware-forensics-34200">[8] Using Indicators of =
+Compromise in Malware Forensics</a></li>
+<li><a =
+href=3D"http://www.tripwire.com/state-of-security/security-data-protectio=
+n/indicators-of-compromise-the-key-to-earlier-detection-of-breaches/">[9]=
+ Indicators of Compromise: The Key to Early Detection</a></li>
+<li><a =
+href=3D"http://technet.microsoft.com/en-us/library/cc737614%28v=3Dws.10%2=
+9.aspx">[10] Configuring Account Lockout</a></li>
+<li><a href=3D"https://security.berkeley.edu/node/94">[11] Securing =
+Remote Desktop for System Administrators</a></li>
+<li><a =
+href=3D"http://technet.microsoft.com/en-us/library/cc780271%28v=3Dws.10%2=
+9.aspx">[12] Account Lockout and Password Concepts</a></li>
+<li><a =
+href=3D"http://csrc.nist.gov/publications/nistpubs/800-46-rev1/sp800-46r1=
+.pdf">[13] NIST Guide to Enterprise Telework and Remote Access =
+Security</a></li>
+<li><a href=3D"http://technet.microsoft.com/en-us/library/dd983949">[14] =
+Installing RD Gateway</a></li>
+<li><a href=3D"http://technet.microsoft.com/en-us/network/bb531150">[15] =
+Networking and Access Technologies</a></li>
+<li><a =
+href=3D"http://technet.microsoft.com/en-us/magazine/ff458357.aspx">[16] =
+Secure RDS Connections with SSL</a></li>
+</ul>
+<h3>Revision History</h3>
+<ul>
+<li>July, 31 2014 - Initial Release</li>
+<li>August 18, 2014 - Minor revision to remote desktop solutions =
+list</li>
+<li>August 22, 2014 - Changes to the Overview section</li>
+</ul>
+<hr />
+<p>This product is provided subject to this <a =
+href=3D"http://www.us-cert.gov/privacy/notification">Notification</a> =
+and this <a href=3D"http://www.us-cert.gov/privacy/">Privacy &amp; =
+Use</a> policy.</p>
+</div>
+</div>
+ =20
+
+
+<div id=3D"mail_footer">
+    <hr />
+<table style=3D"width: 400px;" border=3D"0" cellspacing=3D"0" =
+cellpadding=3D"0">
+<tbody>
+<tr>
+<td style=3D"color: #666666; font-family: Arial, sans-serif; font-size: =
+12px;" valign=3D"bottom" height=3D"24">OTHER RESOURCES:</td>
+</tr>
+<tr>
+<td style=3D"color: #666666; font-family: Arial, sans-serif; font-size: =
+12px;" valign=3D"middle" height=3D"24"><a =
+href=3D"http://www.us-cert.gov/contact-us/" target=3D"_blank">Contact =
+Us</a> | <a href=3D"http://www.us-cert.gov/security-publications" =
+target=3D"_blank">Security Publications</a> | <a =
+href=3D"http://www.us-cert.gov/ncas" target=3D"_blank">Alerts and =
+Tips</a> | <a href=3D"http://www.us-cert.gov/related-resources" =
+target=3D"_blank">Related Resources</a></td>
+</tr>
+</tbody>
+</table>
+<table style=3D"width: 150px;" border=3D"0" cellspacing=3D"0" =
+cellpadding=3D"0">
+<tbody>
+<tr>
+<td style=3D"color: #666666; font-family: Arial, sans-serif; font-size: =
+12px;" colspan=3D"7" valign=3D"bottom" height=3D"24">STAY =
+CONNECTED:</td>
+</tr>
+<tr>
+<td width=3D"41"><a =
+href=3D"http://public.govdelivery.com/accounts/USDHSUSCERT/subscriber/new=
+"><img =
+src=3D"https://service.govdelivery.com/banners/GOVDELIVERY/SOCIAL_MEDIA/e=
+nvelope.gif" border=3D"0" alt=3D"Sign up for email updates" width=3D"25" =
+height=3D"25" /></a></td>
+</tr>
+</tbody>
+</table>
+<p style=3D"color: #666666; font-family: Arial, sans-serif; font-size: =
+12px;">SUBSCRIBER SERVICES:<br /><a =
+href=3D"http://public.govdelivery.com/accounts/USDHSUSCERT/subscribers/ne=
+w?preferences=3Dtrue" target=3D"_blank">Manage =
+Preferences</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a =
+href=3D"https://public.govdelivery.com/accounts/USDHSUSCERT/subscriber/on=
+e_click_unsubscribe?verification=3D5.6821794667e36c08f1e3ca39d3241dfa&des=
+tination=3Djjones@cs.uah.edu" =
+target=3D"_blank">Unsubscribe</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a =
+href=3D"https://subscriberhelp.govdelivery.com/">Help</a></p>
+
+</div>
+<div id=3D"tagline">
+    <hr />
+<table style=3D"width: 100%;" border=3D"0" cellspacing=3D"0" =
+cellpadding=3D"0">
+<tbody>
+<tr>
+<td style=3D"color: gray; font-size: 10px; font-family: Arial;" =
+width=3D"89%">This email was sent to jjones@cs.uah.edu using =
+GovDelivery, on behalf of: United States Computer Emergency Readiness =
+Team (US-CERT) &middot; 245 Murray Lane SW Bldg 410 &middot; Washington, =
+DC 20598 &middot; (703) 235-5110</td>
+<td align=3D"right" width=3D"11%"><a =
+href=3D"http://www.govdelivery.com/portals/powered-by" =
+target=3D"_blank"><img =
+src=3D"https://service.govdelivery.com/banners/GOVDELIVERY/logo_gd_powere=
+dby.gif" border=3D"0" alt=3D"Powered by GovDelivery" width=3D"115" =
+height=3D"35" /></a></td>
+</tr>
+</tbody>
+</table>
+
+</div>
+          </td>
+        </tr>
+      </table>
+
+</body>
+</html>
+=0A=
+
+------=_NextPart_000_2F02B_01D11173.704B4F70--
+

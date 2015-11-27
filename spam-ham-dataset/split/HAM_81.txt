@@ -1,0 +1,345 @@
+From somebody@mail.cs.uah.edu  Tue Jul 28 13:34:01 2015
+Return-Path: <gainesc@uah.edu>
+From: "Clifford Gaines" <gainesc@uah.edu>
+To: "Helpdesk" <helpdesk@uah.edu>,
+	"Will Schumacher" <wcs0022@uah.edu>,
+	"Josh Jones" <jjones@cs.uah.edu>
+References: <CVivk3qCxwZZgHwkUfF0yeoPXZIiBLB4wuWi96p4ATw=@notify.parature.com>
+In-Reply-To: <CVivk3qCxwZZgHwkUfF0yeoPXZIiBLB4wuWi96p4ATw=@notify.parature.com>
+Subject: Re: Ticket #8231-35617: Dead network drop - Posted Internal Comment
+Date: Tue, 28 Jul 2015 13:33:56 -0500
+Message-ID: <CAGbVDEggy8FxUS8M4vjPdYMgEoGXVfXC9gwmG4U3t2-yWrsKLg@mail.gmail.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_2F382_01D11176.BD0353A0"
+X-Mailer: Microsoft Outlook 14.0
+Thread-Index: AQGzSmS33s/nBk+Jbg8VC1ExEyMaNQI2TLrH
+X-OlkEid: 524423E537C73267669798488373046E8EA0F751
+X-UID: 81
+Status: RO
+X-Keywords:                                                                    
+Content-Length: 10366
+
+This is a multipart message in MIME format.
+
+------=_NextPart_000_2F382_01D11176.BD0353A0
+Content-Type: text/plain;
+	charset="UTF-8"
+Content-Transfer-Encoding: 8bit
+
+Yes, someone had cut the cable in the wiring closet N 309. We couldn't 
+repair it, but he had another drop in the room that can be used.  Josh is 
+looking for a long Ethernet cable (25 - 30 ft.).  Got one?
+
+Clifford
+gainesc@uah.edu
+256-824-2631
+
+
+
+On Tue, Jul 28, 2015 at 1:20 PM, University of Alabama in Huntsville - UAH 
+OIT Help Desk <helpdesk@uah.edu> wrote:
+
+
+Current ticket owner: UAH - Clifford Gaines
+
+Internal comment added by UAH - Will Schumacher
+
+
+
+Hi Clifford,
+
+Were you able to get over to TH and find out what happened to the network 
+connection?
+
+Please let me know, I have another ticket open from Dr. Rochowiak's 
+secretary about the same issue.
+
+Thanks,
+
+Will
+
+
+
+
+The following Customers have been CC'ed:
+The following CSR(s) have been CC'ed: gainesc@uah.edu,hf0002@uah.edu
+
+Customer DetailsFirst 
+Name	 Josh
+
+Last Name
+	JonesEmail 
+jjones@cs.uah.edu
+
+Primary Phone
+
+User TypeTicket Information:
+Ticket #:	8231-35617
+Date Created:	 7/27/2015 04:34 PM CDTIncident 
+TypeCategory
+
+Sub-CategorySummary	 Dead network drop
+
+Request Description	 We have a dead network drop in room N-340, in Dr. 
+Rochowiak’s office. - JoshTo access the Ticket:
+
+
+*	Go to: https://bbcrm.edusupportcenter.com/link/desk/8231/8572/Ticket/35617
+
+
+
+
+
+
+
+
+-- 
+
+
+
+Clifford Gaines
+Field Service Technician II
+OIT Network Services
+
+VBRH, Annex B-1
+256-824-2631
+clifford.gaines@uah.edu
+
+  <https://lh6.googleusercontent.com/-jhaBRJ3CrCo/UoESCaPzU0I/AAAAAAAAAZc/0pw2TUXxxok/s288/Office%2520of%2520Info%2520Tech_logo.png>
+
+
+
+
+
+------=_NextPart_000_2F382_01D11176.BD0353A0
+Content-Type: text/html;
+	boundary="001a11440f9c7cbfe9051bf3b6f6";
+	charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr">Yes, someone had cut the cable in the wiring closet N =
+309. We couldn&#39;t repair it, but he had another drop in the room that =
+can be used.=C2=A0 Josh is looking for a long Ethernet cable (25 - 30 =
+ft.).=C2=A0 Got one?<div><br></div><div>Clifford</div><div><a =
+href=3D"mailto:gainesc@uah.edu">gainesc@uah.edu</a></div><div>256-824-263=
+1</div><div><br></div><div><br></div></div><div =
+class=3D"gmail_extra"><br><div class=3D"gmail_quote">On Tue, Jul 28, =
+2015 at 1:20 PM, University of Alabama in Huntsville - UAH OIT Help Desk =
+<span dir=3D"ltr">&lt;<a href=3D"mailto:helpdesk@uah.edu" =
+target=3D"_blank">helpdesk@uah.edu</a>&gt;</span> wrote:<br><blockquote =
+class=3D"gmail_quote" style=3D"margin:0 0 0 .8ex;border-left:1px #ccc =
+solid;padding-left:1ex"><div name=3D"Automated Notification-">
+
+
+
+
+
+<div style=3D"font-size:10pt;color:#555555;font-family:Arial,Verdana">
+ <p><span><b>Current ticket owner: UAH - Clifford Gaines</b></span></p>
+ <p>Internal comment added by UAH - Will Schumacher</p>
+ <p>
+</p><p>Hi Clifford,</p>
+<p>Were you able to get over to TH and find out what happened to the =
+network connection?</p>
+<p>Please let me know, I have another ticket open from Dr. =
+Rochowiak&#39;s secretary about the same issue.</p>
+<p>Thanks,</p>
+<p>Will</p>
+<br><p></p>
+ <p>The following Customers have been CC&#39;ed: <br>The following =
+CSR(s) have been CC&#39;ed: <a href=3D"mailto:gainesc@uah.edu" =
+target=3D"_blank">gainesc@uah.edu</a>,<a href=3D"mailto:hf0002@uah.edu" =
+target=3D"_blank">hf0002@uah.edu</a></p>
+  <table cellspacing=3D"1" cellpadding=3D"3" =
+style=3D"font-size:9pt;color:#555555;font-family:Arial,Verdana">
+   <tbody><tr>
+    <td colspan=3D"2" align=3D"left" =
+style=3D"font-size:9pt;font-weight:bold" nowrap>
+	Customer Details</td>
+   </tr>
+   <tr>
+    <td style=3D"background-color:#eeeeee;border:1px solid #ffffff" =
+nowrap>
+	<span>First Name</span></td>
+    <td>Josh<span><br>
+	</span></td>
+   </tr>
+   <tr>
+    <td style=3D"background-color:#eeeeee;border:1px solid #ffffff" =
+nowrap>
+	Last Name<span><br>
+	</span></td>
+    <td>Jones</td>
+   </tr>
+   <tr>
+    <td style=3D"background-color:#eeeeee;border:1px solid #ffffff" =
+nowrap>
+	Email</td>
+    <td><a href=3D"mailto:jjones@cs.uah.edu" =
+target=3D"_blank">jjones@cs.uah.edu</a><span><br>
+	</span></td>
+   </tr>
+   <tr>
+    <td style=3D"background-color:#eeeeee;border:1px solid #ffffff" =
+nowrap>
+	Primary Phone<span><br>
+	</span></td>
+    <td></td>
+   </tr>
+   <tr>
+    <td style=3D"background-color:#eeeeee;border:1px solid #ffffff" =
+nowrap>
+	User Type</td>
+    <td></td>
+   </tr>
+  </tbody></table>
+ <p><br>
+	</p>
+  <table cellspacing=3D"1" cellpadding=3D"3" =
+style=3D"font-size:9pt;color:#555555;font-family:Arial,Verdana">
+   <tbody><tr>
+    <td colspan=3D"2" align=3D"left" =
+style=3D"font-size:9pt;font-weight:bold" nowrap>Ticket Information:</td>
+   </tr>
+   <tr><td><span>Ticket #:</span></td>
+   </tr><tr>
+    <td style=3D"background-color:#eeeeee;border:1px solid #ffffff" =
+nowrap>
+	</td><td>8231-35617</td>
+   </tr>
+   <tr>
+    <td style=3D"background-color:#eeeeee;border:1px solid #ffffff" =
+nowrap>Date Created:</td>
+    <td>7/27/2015 04:34 PM CDT</td>
+   </tr>
+   <tr>
+    <td style=3D"background-color:#eeeeee;border:1px solid #ffffff" =
+nowrap>
+	 Incident Type</td>
+    <td><span><br>
+	</span></td>
+   </tr>
+   <tr>
+    <td style=3D"background-color:#eeeeee;border:1px solid #ffffff" =
+nowrap>
+	Category</td>
+    <td><span><br>
+	</span></td>
+   </tr>
+   <tr>
+    <td style=3D"background-color:#eeeeee;border:1px solid #ffffff" =
+nowrap>
+	Sub-Category</td>
+    <td><span><br>
+	</span></td>
+   </tr>
+   <tr>
+    <td style=3D"background-color:#eeeeee;border:1px solid #ffffff" =
+nowrap>
+	Summary</td>
+    <td>Dead network drop<span><br>
+	</span></td>
+   </tr>
+   <tr>
+    <td style=3D"background-color:#eeeeee;border:1px solid #ffffff" =
+nowrap>
+	Request Description</td>
+    <td style=3D"white-space:pre-wrap">We have a dead network drop in =
+room N-340, in Dr. Rochowiak=E2=80=99s office.
+=20
+- Josh</td>
+   </tr>
+  =20
+  </tbody></table>
+<br>
+ <p>
+  </p><table cellspacing=3D"0" cellpadding=3D"0" border=3D"0" =
+style=3D"font-size:9pt;color:#555555;font-family:Arial,Verdana">
+   <tbody><tr>
+    <td align=3D"left" =
+style=3D"font-size:10pt;font-weight:bold;color:#000000" nowrap>To access =
+the Ticket:</td>
+  </tr>
+  <tr>
+   <td>
+    <ul>
+     <li>Go to: <a =
+href=3D"https://bbcrm.edusupportcenter.com/link/desk/8231/8572/Ticket/356=
+17" =
+target=3D"_blank">https://bbcrm.edusupportcenter.com/link/desk/8231/8572/=
+Ticket/35617</a></li>
+    </ul>
+   </td>
+  </tr>
+ </tbody></table>
+<p></p>
+<div =
+name=3D"-ParatureDataBegin-0073006B0072005A0048006C0053005A00360034004400=
+6E006A005600630073007100740039004A007300450039007700460073004B0062006C007=
+3004200670066006400510070004400680052003100790057006B00570044006600420044=
+006D00570068006D00650077006C00390077006C003100580041007200310044004200550=
+02F004E004C00380048006900390053004300540047006B004B002B006900540030002F00=
+6A00710051006C0042006300440033006600500043004B005500780035006400730047003=
+100450061005900560051006E004C005A004C0052004C007400720054006D005500580076=
+00770078005500510068003300310035004D004100590035004D00630061007A005500570=
+0410075003000660072004E004B006C0071006A006A0064007A0053006A004D0075006500=
+6300700035004E004A004E007500650057004B004B002F006200700052004F00570070005=
+6004F006500790066003100760075004900550049003200380048006200360030006B0039=
+00320061004500590079007200690043006E006E005800770048006F004D006A006E00450=
+0440051003D003D-ParatureDataEnd-">=C2=A0</div></div></div></blockquote></=
+div><br><br clear=3D"all"><div><br></div>-- <br><div =
+class=3D"gmail_signature"><div dir=3D"ltr"><span =
+style=3D"BORDER-COLLAPSE:collapse;FONT-FAMILY:arial,sans-serif;COLOR:rgb(=
+80,0,80);FONT-SIZE:18px"><br><div style=3D"MARGIN:0px"><i><span =
+style=3D"COLOR:rgb(0,0,255)">Clifford Gaines</span></i></div>
+<div style=3D"MARGIN:0px"><i><span =
+style=3D"COLOR:rgb(0,0,255)"></span></i><b><i><span =
+style=3D"COLOR:rgb(34,36,98)"><font size=3D"2" face=3D"arial, helvetica, =
+sans-serif"><span style=3D"FONT-SIZE:small">Field Service Technician =
+II</span></font></span></i></b></div>
+<div style=3D"MARGIN:0px"><i =
+style=3D"font-size:small;font-family:arial,helvetica,sans-serif;color:rgb=
+(34,36,98)">OIT Network Services</i><br></div><div =
+style=3D"MARGIN:0px"><b><i><span style=3D"COLOR:rgb(34,36,98)"><font =
+size=3D"2" face=3D"arial, helvetica, sans-serif"><span =
+style=3D"FONT-SIZE:small"></span></font></span></i></b><span =
+style=3D"BORDER-COLLAPSE:collapse;FONT-FAMILY:arial,sans-serif;COLOR:rgb(=
+80,0,80);FONT-SIZE:18px"><span style=3D"COLOR:rgb(34,36,98)"><font =
+size=3D"2" face=3D"arial, helvetica, sans-serif"><span =
+style=3D"FONT-SIZE:small"><i>VBRH, Annex =
+B-1</i></span></font></span></span></div>
+<div style=3D"MARGIN:0px"><span =
+style=3D"BORDER-COLLAPSE:collapse;FONT-FAMILY:arial,sans-serif;COLOR:rgb(=
+80,0,80);FONT-SIZE:18px"><span style=3D"COLOR:rgb(34,36,98)"><font =
+size=3D"2" face=3D"arial, helvetica, sans-serif"><span =
+style=3D"FONT-SIZE:small"></span></font></span></span></div></span><span =
+style=3D"COLOR:rgb(34,36,98)"><font size=3D"2" face=3D"arial, helvetica, =
+sans-serif"><span =
+style=3D"FONT-SIZE:small"><i>256-824-2631</i></span></font></span>=20
+<div style=3D"MARGIN:0px"><em><span style=3D"COLOR:rgb(34,36,98)"><font =
+size=3D"2" face=3D"arial, helvetica, sans-serif"><span =
+style=3D"FONT-SIZE:small"><a href=3D"mailto:clifford.gaines@uah.edu" =
+target=3D"_blank">clifford.gaines@uah.edu</a></span></font></span></em></=
+div>
+<div style=3D"MARGIN:0px"><em><span style=3D"COLOR:rgb(34,36,98)"><font =
+size=3D"2" face=3D"arial, helvetica, sans-serif"><span =
+style=3D"FONT-SIZE:small"></span></font></span></em><em><font =
+color=3D"#222462"><font size=3D"2" face=3D"arial, helvetica, =
+sans-serif"><span =
+style=3D"FONT-SIZE:small"></span></font></font></em>=C2=A0</div><div =
+style=3D"MARGIN:0px"><img =
+src=3D"https://lh6.googleusercontent.com/-jhaBRJ3CrCo/UoESCaPzU0I/AAAAAAA=
+AAZc/0pw2TUXxxok/s288/Office%2520of%2520Info%2520Tech_logo.png"><br></div=
+><span =
+style=3D"BORDER-COLLAPSE:collapse;FONT-FAMILY:arial,sans-serif;COLOR:rgb(=
+80,0,80);FONT-SIZE:18px"><div>
+<p style=3D"MARGIN:0px"><font color=3D"#222462"><font size=3D"2" =
+face=3D"arial, helvetica, sans-serif"><span =
+style=3D"FONT-SIZE:small"></span></font></font>=C2=A0</p></div></span>
+<p></p><p></p>
+<p></p><p></p></div></div>
+</div>
+
+------=_NextPart_000_2F382_01D11176.BD0353A0--
+

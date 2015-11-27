@@ -1,0 +1,130 @@
+From somebody@mail.cs.uah.edu  Thu Nov 15 14:51:09 2012
+Return-Path: <d1g1talfr3ak@gmail.com>
+From: "Josh Jones" <d1g1talfr3ak@gmail.com>
+To: <heath.hannum@willbrook.com>
+Cc: "Josh Jones" <josh.jones@willbrook.com>,
+	"John Smith" <john.smith@willbrook.com>,
+	"Sandy Claunch" <sandy.claunch@willbrook.com>
+References: <000501cdc36a$32438d50$96caa7f0$@willbrook.com>
+In-Reply-To: <000501cdc36a$32438d50$96caa7f0$@willbrook.com>
+Subject: Re: Info on adding a Domain
+Date: Thu, 15 Nov 2012 15:03:03 -0500
+Message-ID: <CAJQmzAR8kug+8Q8ZSTHOZpVBhy1AaLB7_jmooP7u6+NNwAixJQ@mail.gmail.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_2F337_01D11176.24F7D590"
+X-Mailer: Microsoft Outlook 14.0
+Thread-Index: AQFqRZGjVNiAQXbn7YdzwsICCNgiJQGshozo
+X-OlkEid: 52A421E57EDA3E9E9C78C841B75998686E355D90
+X-UID: 69
+Status: O
+X-Keywords:                                                                     
+Content-Length: 3875
+
+This is a multipart message in MIME format.
+
+------=_NextPart_000_2F337_01D11176.24F7D590
+Content-Type: text/plain;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: 7bit
+
+I'll take care of it, thanks for the info!
+
+- Josh
+
+
+On Thu, Nov 15, 2012 at 1:48 PM, <heath.hannum@willbrook.com> wrote:
+
+
+Josh,
+
+ 
+
+As you know from this morning, we were and are having some issues with PEO
+AVN email accounts. I sent an email to Al Morris who works for PEO AVN or
+at least in that environment and told him our issue. He wrote me back and
+said we needed to register our domain with their filtering company. Which
+is the barracuda company. The link to register our Willbrook Domain and
+Server is below. This may cost you $20.00. But this really should be
+completed by you or the Willbrook IT person. It will be so we can continue
+to correspond with the Army Customers that we have. If you have any
+questions please let me know. Thanks
+
+ 
+
+http://www.emailreg.org/index.cgi?p=home 
+
+ 
+
+ 
+
+ 
+
+Heath Hannum
+
+Trainer/ Analyst
+
+Willbrook Solutions Inc.
+
+Heath.d.hannum@us.army.mil 
+
+Heath.hannum@willbrook.com
+
+Cell: (931)561-8449 <tel:%28931%29561-8449> 
+
+Office: (256)864-8731 Ext. 126 <tel:%28256%29864-8731%20Ext.%20126> 
+
+ 
+
+
+
+------=_NextPart_000_2F337_01D11176.24F7D590
+Content-Type: text/html;
+	boundary="e89a8ff1c3948f066004ce8e230b";
+	charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+I&#39;ll take care of it, thanks for the info!<div><br></div><div>- =
+Josh<br><br><div class=3D"gmail_quote">On Thu, Nov 15, 2012 at 1:48 PM,  =
+<span dir=3D"ltr">&lt;<a href=3D"mailto:heath.hannum@willbrook.com" =
+target=3D"_blank">heath.hannum@willbrook.com</a>&gt;</span> wrote:<br>
+<blockquote class=3D"gmail_quote" style=3D"margin:0 0 0 =
+.8ex;border-left:1px #ccc solid;padding-left:1ex"><div lang=3D"EN-US" =
+link=3D"blue" vlink=3D"purple"><div><p =
+class=3D"MsoNormal">Josh,<u></u><u></u></p><p =
+class=3D"MsoNormal"><u></u>=A0<u></u></p>
+<p class=3D"MsoNormal">As you know from this morning, we were and are =
+having some issues with PEO AVN email accounts. I sent an email to Al =
+Morris who works for PEO AVN or at least in that environment and told =
+him our issue. He wrote me back and said we needed to register our =
+domain with their filtering company. Which is the barracuda company. The =
+link to register our Willbrook Domain and Server is below. This may cost =
+you $20.00. But this really should be completed by you or the Willbrook =
+IT person. It will be so we can continue to correspond with the Army =
+Customers that we have. If you have any questions please let me know. =
+Thanks<u></u><u></u></p>
+<p class=3D"MsoNormal"><u></u>=A0<u></u></p><p class=3D"MsoNormal"><a =
+href=3D"http://www.emailreg.org/index.cgi?p=3Dhome" =
+target=3D"_blank">http://www.emailreg.org/index.cgi?p=3Dhome</a> =
+<u></u><u></u></p><p class=3D"MsoNormal"><u></u>=A0<u></u></p>
+<p class=3D"MsoNormal"><u></u>=A0<u></u></p><p =
+class=3D"MsoNormal"><u></u>=A0<u></u></p><p class=3D"MsoNormal">Heath =
+Hannum<u></u><u></u></p><p class=3D"MsoNormal">Trainer/ =
+Analyst<u></u><u></u></p><p class=3D"MsoNormal">Willbrook Solutions =
+Inc.<u></u><u></u></p>
+<p class=3D"MsoNormal"><a href=3D"mailto:Heath.d.hannum@us.army.mil" =
+target=3D"_blank">Heath.d.hannum@us.army.mil</a> <u></u><u></u></p><p =
+class=3D"MsoNormal"><a href=3D"mailto:Heath.hannum@willbrook.com" =
+target=3D"_blank">Heath.hannum@willbrook.com</a><u></u><u></u></p>
+<p class=3D"MsoNormal">Cell: <a href=3D"tel:%28931%29561-8449" =
+value=3D"+19315618449" =
+target=3D"_blank">(931)561-8449</a><u></u><u></u></p><p =
+class=3D"MsoNormal">Office: <a =
+href=3D"tel:%28256%29864-8731%20Ext.%20126" value=3D"+12568648731" =
+target=3D"_blank">(256)864-8731 Ext. 126</a><u></u><u></u></p>
+<p =
+class=3D"MsoNormal"><u></u>=A0<u></u></p></div></div></blockquote></div><=
+br></div>
+
+------=_NextPart_000_2F337_01D11176.24F7D590--
+

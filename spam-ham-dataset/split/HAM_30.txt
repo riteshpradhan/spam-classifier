@@ -1,0 +1,83 @@
+From somebody@mail.cs.uah.edu  Fri Aug 22 11:24:00 2014
+Return-Path: <jonesjd+caf_=jjones=cs.uah.edu@uah.edu>
+From: "Reece Johnston" <rgj0001@uah.edu>
+To: "DR KIM" <arcticc.spear@gmail.com>,
+	"Joshua D Jones" <jonesjd@uah.edu>
+References: <CAMFSJZQB=Q+fLf9_rkyNCANH-=x89B6ouxTR93cSOZWpCjWsMw@mail.gmail.com>
+In-Reply-To: <CAMFSJZQB=Q+fLf9_rkyNCANH-=x89B6ouxTR93cSOZWpCjWsMw@mail.gmail.com>
+Subject: Re: Multi-Cloud APIs
+Date: Fri, 22 Aug 2014 11:02:08 -0500
+Message-ID: <CAMFSJZTAP4gs0o76L45fZ6VhJO01t6UFhLQeyCLK5L=kGd2gjQ@mail.gmail.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_2F032_01D11173.7B9C5810"
+X-Mailer: Microsoft Outlook 14.0
+Thread-Index: AQJr3n28qyS2neHDWFUIRaOzVKDAtAH+TaQ1
+X-OlkEid: 520404E5F3960E5B7695F9449276EDAE067814D4
+X-UID: 30
+Status: RO
+X-Keywords:                                                                     
+Content-Length: 2155
+
+This is a multipart message in MIME format.
+
+------=_NextPart_000_2F032_01D11173.7B9C5810
+Content-Type: text/plain;
+	charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+You will need to look at the sitemap for some of those links to find the 
+developer relevant aspects since some of them are trying to sell client 
+applications.
+
+
+On Fri, Aug 22, 2014 at 10:42 AM, Reece Johnston <rgj0001@uah.edu> wrote:
+
+
+These are the most promising candidates I've come across. It will depend on 
+what we decide to develop in and which clouds we decide to use.
+
+http://storagemadeeasy.com/pricing/#features
+
+http://jclouds.apache.org/
+
+http://libcloud.apache.org/
+
+https://www.eldos.com/sbb/desc-cloud.php
+
+
+
+
+------=_NextPart_000_2F032_01D11173.7B9C5810
+Content-Type: text/html;
+	boundary="e89a8fb1f0a29a74d9050139f590";
+	charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr">You will need to look at the sitemap for some of those =
+links to find the developer relevant aspects since some of them are =
+trying to sell client applications.</div><div =
+class=3D"gmail_extra"><br><br><div class=3D"gmail_quote">
+On Fri, Aug 22, 2014 at 10:42 AM, Reece Johnston <span =
+dir=3D"ltr">&lt;<a href=3D"mailto:rgj0001@uah.edu" =
+target=3D"_blank">rgj0001@uah.edu</a>&gt;</span> wrote:<br><blockquote =
+class=3D"gmail_quote" style=3D"margin:0 0 0 .8ex;border-left:1px #ccc =
+solid;padding-left:1ex">
+<div dir=3D"ltr">These are the most promising candidates I&#39;ve come =
+across. It will depend on what we decide to develop in and which clouds =
+we decide to use.<div><br></div><div><a =
+href=3D"http://storagemadeeasy.com/pricing/#features" =
+target=3D"_blank">http://storagemadeeasy.com/pricing/#features</a><br>
+
+</div><div><a href=3D"http://jclouds.apache.org/" =
+target=3D"_blank">http://jclouds.apache.org/</a><br></div><div><a =
+href=3D"http://libcloud.apache.org/" =
+target=3D"_blank">http://libcloud.apache.org/</a><br></div><div><a =
+href=3D"https://www.eldos.com/sbb/desc-cloud.php" =
+target=3D"_blank">https://www.eldos.com/sbb/desc-cloud.php</a><br>
+
+</div></div>
+</blockquote></div><br></div>
+
+------=_NextPart_000_2F032_01D11173.7B9C5810--
+

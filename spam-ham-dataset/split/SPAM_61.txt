@@ -1,0 +1,46 @@
+From somebody@linux.cs.uah.edu  Wed Jul 23 03:45:53 2014
+Return-Path: <patricia@fullsleek.us>
+From: "Patricia" <patricia@fullsleek.us>
+To: <jjones@cs.uah.edu>
+Subject: Salutations
+Date: Wed, 23 Jul 2014 03:31:43 -0500
+Message-ID: <19786922.3888730@fullsleek.us>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_28E4D_01CFBDFC.D6BAD350"
+X-Mailer: Microsoft Outlook 14.0
+thread-index: AQLyTPX3+0WpVMNr6ZVymbFQxu+/vA==
+X-OlkEid: 5204D62FC710FC453F3C1546B31E189AA80AA0CA
+X-UID: 62
+Status: O
+X-Keywords:                                                                      
+Content-Length: 683
+
+This is a multipart message in MIME format.
+
+------=_NextPart_000_28E4D_01CFBDFC.D6BAD350
+Content-Type: text/plain;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: 7bit
+
+  <http://www.sixbrag.us/unsubscribe.php?email=jjones@cs.uah.edu> 
+
+------=_NextPart_000_28E4D_01CFBDFC.D6BAD350
+Content-Type: text/html;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+
+<html>
+<head>
+<meta content=3D"text/html; charset=3Dutf-8" =
+http-equiv=3D"content-type">
+<meta http-equiv=3D"Content-Language" content=3D"en-us"/>
+</head>
+<body>
+<img =
+src=3D"http://www.sixbrag.us/unsubscribe.php?email=3Djjones@cs.uah.edu">
+</body>
+</html>
+------=_NextPart_000_28E4D_01CFBDFC.D6BAD350--
+

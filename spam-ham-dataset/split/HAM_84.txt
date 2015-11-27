@@ -1,0 +1,26 @@
+From somebody@mail.cs.uah.edu  Tue Jul 28 11:11:56 2015
+Return-Path: <mmceniry@itsc.uah.edu>
+From: "McEniry, Michael" <mmceniry@itsc.uah.edu>
+To: "ITSC SysAdmin" <sysadmin@itsc.uah.edu>
+Cc: <jjones@cs.uah.edu>
+Subject: ladder lending
+Date: Tue, 28 Jul 2015 11:11:52 -0500
+Message-ID: <9D521BA1-915A-4047-8D78-F53DA47B95F1@itsc.uah.edu>
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="us-ascii"
+Content-Transfer-Encoding: 7bit
+Content-ID: <8CDB5DB87E8EBC4E9FB3329B42BF53C1@itsc.uah.edu>
+X-Mailer: Microsoft Outlook 14.0
+Thread-Index: AQIg0UgiOKvfJJzHSpdqyh+3zQFu5g==
+Content-Language: en-us
+X-OlkEid: 52A423E5FC5824426D2CAB448A8A48B0E8FB920A
+X-UID: 84
+Status: RO
+X-Keywords:                                                                       
+Content-Length: 54
+
+FYI
+
+Josh Jones is borrowing the ladder from TH s314.
+

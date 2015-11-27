@@ -1,0 +1,49 @@
+From somebody@mail.cs.uah.edu  Sun Oct 11 11:07:46 2015
+Return-Path: <ak0066@uah.edu>
+From: "Abhibandu Kafle" <ak0066@uah.edu>
+To: "Josh Jones" <jjones@cs.uah.edu>
+Cc: "Josh Jones" <d1g1talfr3ak@gmail.com>
+Subject: regarding class tomorrow
+Date: Sun, 11 Oct 2015 11:07:53 -0500
+Message-ID: <CAMTebQ7MSPn9cFHvFt9c917wvNXUfsUTUYnWh2zYiKU8es8rNg@mail.gmail.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_2F3F9_01D11177.2B9AA2F0"
+X-Mailer: Microsoft Outlook 14.0
+Thread-Index: AQHiQPld40W4L0WlDGIwdhY6WYWCuA==
+X-OlkEid: 52A425E55E323AD14863444DA366A2893AEBFD0F
+X-UID: 100
+Status: RO
+X-Status: A
+X-Keywords:                                                                      
+Content-Length: 724
+
+This is a multipart message in MIME format.
+
+------=_NextPart_000_2F3F9_01D11177.2B9AA2F0
+Content-Type: text/plain;
+	charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Hi Josh,
+
+Do we have class tomorrow (Monday, 12th Oct) ?
+
+If we don't, I'll have to make an announcement in canvas. 
+
+
+Thanks, 
+Abhi
+
+------=_NextPart_000_2F3F9_01D11177.2B9AA2F0
+Content-Type: text/html;
+	boundary="047d7b343402439cf80521d66ac2";
+	charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr">Hi Josh,<br><br>Do we have class tomorrow (Monday, 12th =
+Oct) ?<br><br>If we don&#39;t, I&#39;ll have to make an announcement in =
+canvas.=C2=A0<br><br><br>Thanks,=C2=A0<br>Abhi</div>
+
+------=_NextPart_000_2F3F9_01D11177.2B9AA2F0--
+

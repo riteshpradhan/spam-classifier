@@ -1,0 +1,335 @@
+From somebody@mail.cs.uah.edu  Mon Jun 02 09:58:08 2014
+Return-Path: <JToone@itsc.uah.edu>
+From: "Toone, Jason" <JToone@itsc.uah.edu>
+To: <jjones@cs.uah.edu>
+References: <91051D2F6177F94DA3FEF59CEEA2036A187A5DD8@thex2.itsc.uah.edu> <003101cf6ded$f9673100$ec359300$@uah.edu> <91051D2F6177F94DA3FEF59CEEA2036A187A5DF6@thex2.itsc.uah.edu> <003c01cf6def$bb01c360$31054a20$@uah.edu> <91051D2F6177F94DA3FEF59CEEA2036A187A5E11@thex2.itsc.uah.edu> <006501cf6dfb$10727870$31576950$@uah.edu> <91051D2F6177F94DA3FEF59CEEA2036A187A6EA7@thex2.itsc.uah.edu> <007701cf6e00$4f0dbef0$ed293cd0$@uah.edu> <91051D2F6177F94DA3FEF59CEEA2036A187A6F0E@thex2.itsc.uah.edu> <009401cf6e11$78a655e0$69f301a0$@uah.edu> <91051D2F6177F94DA3FEF59CEEA2036A1A4E7A29@thex2.itsc.uah.edu> <00ea01cf7e7a$1fdf9510$5f9ebf30$@uah.edu>
+In-Reply-To: <00ea01cf7e7a$1fdf9510$5f9ebf30$@uah.edu>
+Subject: FW: Surplus Equipment
+Date: Mon, 2 Jun 2014 10:53:50 -0500
+Message-ID: <91051D2F6177F94DA3FEF59CEEA2036A1A4E9A78@thex2.itsc.uah.edu>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_2F39F_01D11176.D0234300"
+X-Mailer: Microsoft Outlook 14.0
+Thread-Index: AQM+LROW2DklKtih95ARBGeLuhH84gFa5M9IAk2T4goBpRDMrAJ+w4emAytcV18CX4iZHgHl+Dd2AgiYhF8CWxNYdAG/RreCAqjhQPEBwrFMbQ==
+Content-Language: en-us
+X-OlkEid: 520424E5F69400ED64B2E8478572E1C04E21EC69
+X-UID: 87
+Status: RO
+X-Status: A
+X-Keywords:                                                                     
+Content-Length: 9467
+
+This is a multipart message in MIME format.
+
+------=_NextPart_000_2F39F_01D11176.D0234300
+Content-Type: text/plain;
+	charset="us-ascii"
+Content-Transfer-Encoding: 7bit
+
+Apparently the hardware is in a holding pattern right now.  Sounds like as
+soon as it's released, I can give it to you.
+
+ 
+
+--Jason Toone
+
+jtoone@itsc.uah.edu
+
+ 
+
+From: Sandlin, Scott (UAH) [mailto:scott.sandlin@uah.edu] 
+Sent: Monday, June 02, 2014 10:49
+To: Toone, Jason
+Subject: RE: Surplus Equipment
+
+ 
+
+As long as the property is still owed to the government, we cannot
+transfer internally.  Once the items have been donated to the University,
+we can give it to anyone on campus that needs it.  I am still waiting to
+hear back from the agency regarding donation.
+
+ 
+
+For now, we're going to have to keep the items together until we receive a
+resolution.  However, we can certainly earmark any items that have
+received internal requests if and when we do get the donation.
+
+ 
+
+Thank you.
+
+Scott Sandlin
+
+ 
+
+From: Toone, Jason [mailto:JToone@itsc.uah.edu] 
+Sent: 02 June, 2014 10:18
+To: 'scott.sandlin@uah.edu'
+Subject: RE: Surplus Equipment
+
+ 
+
+Scott,
+
+Josh Jones in the CS department has expressed interest in the GOV tagged
+equipment we wanted to surplus.  OIT has already declined wanting that
+equipment.  Can we proceed with transferring the equipment to the CS
+department?
+
+ 
+
+--Jason Toone
+
+jtoone@itsc.uah.edu
+
+ 
+
+ 
+
+
+------=_NextPart_000_2F39F_01D11176.D0234300
+Content-Type: text/html;
+	boundary="_000_91051D2F6177F94DA3FEF59CEEA2036A1A4E9A78thex2itscuahedu_";
+	charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+<html xmlns:v=3D"urn:schemas-microsoft-com:vml" =
+xmlns:o=3D"urn:schemas-microsoft-com:office:office" =
+xmlns:w=3D"urn:schemas-microsoft-com:office:word" =
+xmlns:m=3D"http://schemas.microsoft.com/office/2004/12/omml" =
+xmlns=3D"http://www.w3.org/TR/REC-html40">
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; =
+charset=3Dus-ascii">
+<meta name=3D"Generator" content=3D"Microsoft Word 14 (filtered =
+medium)">
+<style><!--
+/* Font Definitions */
+@font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+@font-face
+	{font-family:Tahoma;
+	panose-1:2 11 6 4 3 5 4 4 2 4;}
+/* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0in;
+	margin-bottom:.0001pt;
+	font-size:11.0pt;
+	font-family:"Calibri","sans-serif";}
+a:link, span.MsoHyperlink
+	{mso-style-priority:99;
+	color:blue;
+	text-decoration:underline;}
+a:visited, span.MsoHyperlinkFollowed
+	{mso-style-priority:99;
+	color:purple;
+	text-decoration:underline;}
+p.MsoAcetate, li.MsoAcetate, div.MsoAcetate
+	{mso-style-priority:99;
+	mso-style-link:"Balloon Text Char";
+	margin:0in;
+	margin-bottom:.0001pt;
+	font-size:8.0pt;
+	font-family:"Tahoma","sans-serif";}
+span.BalloonTextChar
+	{mso-style-name:"Balloon Text Char";
+	mso-style-priority:99;
+	mso-style-link:"Balloon Text";
+	font-family:"Tahoma","sans-serif";}
+span.EmailStyle19
+	{mso-style-type:personal;
+	font-family:"Calibri","sans-serif";
+	color:windowtext;}
+span.EmailStyle20
+	{mso-style-type:personal;
+	font-family:"Cambria Math","serif";
+	color:#00337F;
+	font-weight:normal;
+	font-style:normal;
+	text-decoration:none none;}
+span.EmailStyle21
+	{mso-style-type:personal;
+	font-family:"Calibri","sans-serif";
+	color:#1F497D;}
+span.EmailStyle22
+	{mso-style-type:personal;
+	font-family:"Cambria Math","serif";
+	color:#00337F;
+	font-weight:normal;
+	font-style:normal;
+	text-decoration:none none;}
+span.EmailStyle23
+	{mso-style-type:personal;
+	font-family:"Calibri","sans-serif";
+	color:#1F497D;}
+span.EmailStyle24
+	{mso-style-type:personal;
+	font-family:"Cambria Math","serif";
+	color:#00337F;
+	font-weight:normal;
+	font-style:normal;
+	text-decoration:none none;}
+span.EmailStyle25
+	{mso-style-type:personal;
+	font-family:"Calibri","sans-serif";
+	color:#1F497D;}
+span.EmailStyle26
+	{mso-style-type:personal;
+	font-family:"Cambria Math","serif";
+	color:#00337F;
+	font-weight:normal;
+	font-style:normal;
+	text-decoration:none none;}
+span.EmailStyle27
+	{mso-style-type:personal;
+	font-family:"Calibri","sans-serif";
+	color:#1F497D;}
+span.EmailStyle28
+	{mso-style-type:personal;
+	font-family:"Cambria Math","serif";
+	color:#00337F;
+	font-weight:normal;
+	font-style:normal;
+	text-decoration:none none;}
+span.EmailStyle29
+	{mso-style-type:personal;
+	font-family:"Cambria Math","serif";
+	color:#00337F;
+	font-weight:normal;
+	font-style:normal;
+	text-decoration:none none;}
+span.EmailStyle30
+	{mso-style-type:personal;
+	font-family:"Calibri","sans-serif";
+	color:#1F497D;}
+span.EmailStyle31
+	{mso-style-type:personal;
+	font-family:"Cambria Math","serif";
+	color:#00337F;
+	font-weight:normal;
+	font-style:normal;
+	text-decoration:none none;}
+span.EmailStyle32
+	{mso-style-type:personal-reply;
+	font-family:"Calibri","sans-serif";
+	color:#1F497D;}
+.MsoChpDefault
+	{mso-style-type:export-only;
+	font-size:10.0pt;}
+@page WordSection1
+	{size:8.5in 11.0in;
+	margin:1.0in 1.0in 1.0in 1.0in;}
+div.WordSection1
+	{page:WordSection1;}
+--></style><!--[if gte mso 9]><xml>
+<o:shapedefaults v:ext=3D"edit" spidmax=3D"1026" />
+</xml><![endif]--><!--[if gte mso 9]><xml>
+<o:shapelayout v:ext=3D"edit">
+<o:idmap v:ext=3D"edit" data=3D"1" />
+</o:shapelayout></xml><![endif]-->
+</head>
+<body lang=3D"EN-US" link=3D"blue" vlink=3D"purple">
+<div class=3D"WordSection1">
+<p class=3D"MsoNormal"><span style=3D"color:#1F497D">Apparently the =
+hardware is in a holding pattern right now.&nbsp; Sounds like as soon as =
+it&#8217;s released, I can give it to you.<o:p></o:p></span></p>
+<p class=3D"MsoNormal"><span =
+style=3D"color:#1F497D"><o:p>&nbsp;</o:p></span></p>
+<div>
+<p class=3D"MsoNormal"><span style=3D"color:#1F497D">--Jason =
+Toone<o:p></o:p></span></p>
+<p class=3D"MsoNormal"><span =
+style=3D"color:#1F497D">jtoone@itsc.uah.edu<o:p></o:p></span></p>
+</div>
+<p class=3D"MsoNormal"><span =
+style=3D"color:#1F497D"><o:p>&nbsp;</o:p></span></p>
+<div>
+<div style=3D"border:none;border-top:solid #B5C4DF 1.0pt;padding:3.0pt =
+0in 0in 0in">
+<p class=3D"MsoNormal"><b><span =
+style=3D"font-size:10.0pt;font-family:&quot;Tahoma&quot;,&quot;sans-serif=
+&quot;">From:</span></b><span =
+style=3D"font-size:10.0pt;font-family:&quot;Tahoma&quot;,&quot;sans-serif=
+&quot;"> Sandlin, Scott (UAH) [mailto:scott.sandlin@uah.edu]
+<br>
+<b>Sent:</b> Monday, June 02, 2014 10:49<br>
+<b>To:</b> Toone, Jason<br>
+<b>Subject:</b> RE: Surplus Equipment<o:p></o:p></span></p>
+</div>
+</div>
+<p class=3D"MsoNormal"><o:p>&nbsp;</o:p></p>
+<p class=3D"MsoNormal"><span =
+style=3D"font-size:10.0pt;font-family:&quot;Cambria =
+Math&quot;,&quot;serif&quot;;color:#00337F">As long as the property is =
+still owed to the government, we cannot transfer internally.&nbsp; Once =
+the items have been donated to the University, we can give it
+ to anyone on campus that needs it.&nbsp; I am still waiting to hear =
+back from the agency regarding donation.<o:p></o:p></span></p>
+<p class=3D"MsoNormal"><span =
+style=3D"font-size:10.0pt;font-family:&quot;Cambria =
+Math&quot;,&quot;serif&quot;;color:#00337F"><o:p>&nbsp;</o:p></span></p>
+<p class=3D"MsoNormal"><span =
+style=3D"font-size:10.0pt;font-family:&quot;Cambria =
+Math&quot;,&quot;serif&quot;;color:#00337F">For now, we&#8217;re going =
+to have to keep the items together until we receive a resolution.&nbsp; =
+However, we can certainly earmark any items that have received internal
+ requests if and when we do get the donation.<o:p></o:p></span></p>
+<p class=3D"MsoNormal"><span =
+style=3D"font-size:10.0pt;font-family:&quot;Cambria =
+Math&quot;,&quot;serif&quot;;color:#00337F"><o:p>&nbsp;</o:p></span></p>
+<div>
+<p class=3D"MsoNormal"><span =
+style=3D"font-size:10.0pt;font-family:&quot;Cambria =
+Math&quot;,&quot;serif&quot;;color:#00337F">Thank =
+you.<o:p></o:p></span></p>
+<p class=3D"MsoNormal"><span =
+style=3D"font-size:10.0pt;font-family:&quot;Cambria =
+Math&quot;,&quot;serif&quot;;color:#00337F">Scott =
+Sandlin<o:p></o:p></span></p>
+</div>
+<p class=3D"MsoNormal"><span =
+style=3D"font-size:10.0pt;font-family:&quot;Cambria =
+Math&quot;,&quot;serif&quot;;color:#00337F"><o:p>&nbsp;</o:p></span></p>
+<div>
+<div style=3D"border:none;border-top:solid #E1E1E1 1.0pt;padding:3.0pt =
+0in 0in 0in">
+<p class=3D"MsoNormal"><b>From:</b> Toone, Jason [<a =
+href=3D"mailto:JToone@itsc.uah.edu">mailto:JToone@itsc.uah.edu</a>]
+<br>
+<b>Sent:</b> 02 June, 2014 10:18<br>
+<b>To:</b> 'scott.sandlin@uah.edu'<br>
+<b>Subject:</b> RE: Surplus Equipment<o:p></o:p></p>
+</div>
+</div>
+<p class=3D"MsoNormal"><o:p>&nbsp;</o:p></p>
+<p class=3D"MsoNormal"><span =
+style=3D"color:#1F497D">Scott,<o:p></o:p></span></p>
+<p class=3D"MsoNormal"><span style=3D"color:#1F497D">Josh Jones in the =
+CS department has expressed interest in the GOV tagged equipment we =
+wanted to surplus.&nbsp; OIT has already declined wanting that =
+equipment.&nbsp; Can we proceed with transferring the equipment to the
+ CS department?<o:p></o:p></span></p>
+<p class=3D"MsoNormal"><span =
+style=3D"color:#1F497D"><o:p>&nbsp;</o:p></span></p>
+<div>
+<p class=3D"MsoNormal"><span style=3D"color:#1F497D">--Jason =
+Toone<o:p></o:p></span></p>
+<p class=3D"MsoNormal"><span style=3D"color:#1F497D"><a =
+href=3D"mailto:jtoone@itsc.uah.edu">jtoone@itsc.uah.edu</a><o:p></o:p></s=
+pan></p>
+</div>
+<p class=3D"MsoNormal"><span =
+style=3D"color:#1F497D"><o:p>&nbsp;</o:p></span></p>
+<p class=3D"MsoNormal"><o:p>&nbsp;</o:p></p>
+</div>
+</body>
+</html>
+
+------=_NextPart_000_2F39F_01D11176.D0234300--
+

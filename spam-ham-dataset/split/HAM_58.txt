@@ -1,0 +1,80 @@
+From somebody@mail.cs.uah.edu  Mon Aug 27 13:29:03 2012
+Return-Path: <jtoone@cs.uah.edu>
+From: "Joe Toone" <jtoone@cs.uah.edu>
+To: "'C. Scherr'" <cas0008@cs.uah.edu>,
+	<jjones@cs.uah.edu>
+Cc: <tcs0004@cs.uah.edu>
+References: <20120827175459.M28742@email.cs.uah.edu>
+In-Reply-To: <20120827175459.M28742@email.cs.uah.edu>
+Subject: RE: Critical Java Exploit
+Date: Mon, 27 Aug 2012 13:38:34 -0500
+Message-ID: <001e01cd8483$2a518460$7ef48d20$@cs.uah.edu>
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="us-ascii"
+Content-Transfer-Encoding: 7bit
+X-Mailer: Microsoft Outlook 14.0
+Thread-Index: AQIWzWM0gbMQHKuXaT4l82axXLR0egHfkC3Y
+Content-Language: en-us
+X-OlkEid: 524420E502159167ECDA8E4792FDB78D4C14EC8F
+X-UID: 58
+Status: RO
+X-Keywords:                                                                     
+Content-Length: 1614
+
+Cody, the lab machines have Java JRE 7u5.  Which version should they be
+running to be safe?
+
+I have 7u6 on my office PC.
+
++++++++++++++++++++++++++++++++++++++
+Joe Toone
+jtoone@cs.uah.edu
+Systems Administrator
+Computer Science Department
+University of Alabama in Huntsville
+Phone UAH (256)824-6904
+FAX (256)824-6904
++++++++++++++++++++++++++++++++++++++
+
+-----Original Message-----
+From: C. Scherr [mailto:cas0008@cs.uah.edu] 
+Sent: Monday, August 27, 2012 1:11 PM
+To: jtoone@cs.uah.edu; jjones@cs.uah.edu
+Cc: tcs0004@cs.uah.edu
+Subject: Critical Java Exploit
+
+Afternoon Gentlemen,
+
+Just a little heads up: 
+
+http://arstechnica.com/security/2012/08/critical-flaw-under-active-attack-
+pr
+ompts-calls-to-disable-java/
+
+Can someone pull the current version number for JVE we have around the
+domain, please?
+
+I've been keeping an eye on Zenith's logs remotely when I'm off-shift due
+to
+being the WINSEC contact in the office (Tim should be aware this does
+affect
+GNU\Linux as well), which has been clear thus far other than a dormant
+piece
+of old malware on REMUS being caught (that slipped in while it was under
+McAfee ePO). However, that may very well change as this code starts to
+circulate before Oracle releases a CUP. As soon as it's available @
+(http://www.oracle.com/technetwork/topics/security/alerts-086861.html) , I
+would request that we do a quick manual deployment.
+
+
+Mr. Jones, if you'd like to access the aforementioned logs without having
+to
+RDP in and start the management console, please let myself or Mr. Toone
+know
+for the link and menu path.
+
+-C. Scherr
+UAH Computer Science
+System Support Office
+

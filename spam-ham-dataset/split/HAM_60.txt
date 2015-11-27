@@ -1,0 +1,40 @@
+From somebody@mail.cs.uah.edu  Mon Oct 20 19:19:44 2014
+Return-Path: <infosec_club@uah.edu>
+From: "Information Security Club" <infosec_club@uah.edu>
+To: "undisclosed-recipients:"
+Subject: ISC Meeting of October 23
+Date: Mon, 20 Oct 2014 19:19:13 -0500
+Message-ID: <CAP1Ncu+gSeBtTpZ2-13W8opCLSPKp8BarPd3i18zB9e0N3Y17A@mail.gmail.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_2F2FC_01D11175.D94C7F10"
+X-Mailer: Microsoft Outlook 14.0
+Thread-Index: AQJZCL3pnk8hRZsWue/pvP8ypUTKzQ==
+X-OlkEid: 528420E53EF7A835B28C4B4A95D2BFFDE996A0D7
+X-UID: 60
+Status: RO
+X-Keywords:                                                                      
+Content-Length: 612
+
+This is a multipart message in MIME format.
+
+------=_NextPart_000_2F2FC_01D11175.D94C7F10
+Content-Type: text/plain;
+	charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Meetings have moved to Thursdays. This weeks meeting is at 7.15 on the 23rd, 
+room C-12 of VBRH.
+
+
+------=_NextPart_000_2F2FC_01D11175.D94C7F10
+Content-Type: text/html;
+	boundary="047d7b3a911cf0fb8c0505e3c71f";
+	charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr">Meetings have moved to Thursdays. This weeks meeting is =
+at 7.15 on the 23rd, room C-12 of VBRH.<br></div>
+
+------=_NextPart_000_2F2FC_01D11175.D94C7F10--
+

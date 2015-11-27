@@ -1,0 +1,83 @@
+From somebody@mail.cs.uah.edu  Thu May 28 20:03:09 2015
+Return-Path: <evm0001@uah.edu>
+From: "Erik Macintyre" <evm0001@uah.edu>
+To: "Josh Jones" <jjones@cs.uah.edu>
+Subject: Status Report 05/28/2015
+Date: Thu, 28 May 2015 20:03:09 -0500
+Message-ID: <CAKRje0EXkPpwbSqLieG+rWWwpJZByk6bQqNRP_96Pn44W=gv6w@mail.gmail.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_2EFDE_01D11172.DEE24610"
+X-Mailer: Microsoft Outlook 14.0
+Thread-Index: AQIdOONpmA21YgCrtkkC3T7GWlCjCA==
+X-OlkEid: 52C400E527984CC88D6F97428761496DCD861D30
+X-UID: 4
+Status: RO
+X-Keywords:                                                                     
+Content-Length: 2186
+
+This is a multipart message in MIME format.
+
+------=_NextPart_000_2EFDE_01D11172.DEE24610
+Content-Type: text/plain;
+	charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Updated the DNS entries for the teamX records. I removed the extra records 
+(team8, team9, etc) from DNS. The new records point to the server IP for 
+that team.
+
+Started working on setting up the new HP machines for N327.
+BIOS Changes:
+
+*	Security Tab
+
+*	Setup Password
+
+*	Set BIOS password
+
+*	Secure Boot Configuration
+
+*	Enable Legacy Boot
+*	Disable Secure Boot
+*	Disable Fast Boot
+
+*	System Security
+
+*	Enable Visualization Technology (VTx/VTd)
+
+Installed Windows 7 Enterpise 64-bit with GPT for UEFI computers. Currently 
+static'd the IP to 146.229.236.249, which I was last using for the GameLab 
+Image machine.
+Installed drivers and ran windows updates. I also installed Visual Studio 
+2010 & 2012 Ultimate.
+
+No other major announcements.
+
+-Erik MacIntyre
+
+------=_NextPart_000_2EFDE_01D11172.DEE24610
+Content-Type: text/html;
+	boundary="----=_NextPart_000_E28D_01D09C46.19AF5870";
+	charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr">Updated the DNS entries for the teamX records. I =
+removed the extra records (team8, team9, etc) from DNS. The new records =
+point to the server IP for that team.<div><br></div><div>Started working =
+on setting up the new HP machines for N327.</div><div>BIOS =
+Changes:</div><div><ul><li>Security Tab</li><ul><li>Setup =
+Password</li><ul><li>Set BIOS password</li></ul><li>Secure Boot =
+Configuration</li><ul><li>Enable Legacy Boot</li><li>Disable Secure =
+Boot</li><li>Disable Fast Boot</li></ul><li>System =
+Security</li><ul><li>Enable Visualization Technology =
+(VTx/VTd)</li></ul></ul></ul></div><div>Installed Windows 7 Enterpise =
+64-bit with GPT for UEFI computers. Currently static&#39;d the IP to =
+146.229.236.249, which I was last using for the GameLab Image =
+machine.</div><div>Installed drivers and ran windows updates. I also =
+installed Visual Studio 2010 &amp; 2012 =
+Ultimate.</div><div><br></div><div>No other major =
+announcements.</div><div><br></div><div>-Erik MacIntyre</div></div>
+
+------=_NextPart_000_2EFDE_01D11172.DEE24610--
+

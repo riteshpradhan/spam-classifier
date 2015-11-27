@@ -1,0 +1,274 @@
+From somebody@mail.cs.uah.edu  Tue Aug 12 14:03:17 2014
+Return-Path: <jonesjd+caf_=jjones=cs.uah.edu@uah.edu>
+From: "David Dionne" <dtd0012@uah.edu>
+To: "Jason Winningham" <jason.winningham@uah.edu>
+Cc: "Brian Swan" <bcs0002@uah.edu>,
+	"systemadmin" <systemadmin@uah.edu>
+References: <1407857579.25885.7.camel@eusebius.nsstc.uah.edu>	<B4E18FFE-139E-4605-BE79-8CC2BFE0AABB@uah.edu>
+In-Reply-To: <B4E18FFE-139E-4605-BE79-8CC2BFE0AABB@uah.edu>
+Subject: Re: [SYSADMIN-L] What do you use for remote monitoring?
+Date: Tue, 12 Aug 2014 13:43:34 -0500
+Message-ID: <CAN=CLkSsg=22t5=+6NKYO19AV6-wWL0GDJXFSim7xynk2ZNW-A@mail.gmail.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_2F080_01D11173.F4B726D0"
+X-Mailer: Microsoft Outlook 14.0
+List-Unsubscribe: <mailto:googlegroups-manage+354606006801+unsubscribe@googlegroups.com>, <http://groups.google.com/a/uah.edu/group/systemadmin/subscribe>
+Thread-Index: AQNPw7xMzG5wgNlD9s1XKtW0Mkiy1wIy5CCTAYvT6Tg=
+List-Help: <http://support.google.com/a/uah.edu/bin/topic.py?topic=25838>, <mailto:systemadmin+help@uah.edu>
+X-OlkEid: 52E405E5157AB8C5B02FD94EAECF1C1585D6A191
+X-UID: 45
+Status: O
+X-Keywords:                                                                    
+Content-Length: 10526
+
+This is a multipart message in MIME format.
+
+------=_NextPart_000_2F080_01D11173.F4B726D0
+Content-Type: text/plain;
+	charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Yeah, nagios like 99% of the open source "brand" introduces and ceaselessly 
+perpetuates the "single point of failure" aka "job security :)" condition 
+with staggering ferocity.
+
+
+On Tue, Aug 12, 2014 at 1:12 PM, Jason Winningham <jason.winningham@uah.edu> 
+wrote:
+
+
+
+On Aug 12, 2014, at 10:32 AM, Brian Swan <bcs0002@uah.edu> wrote:
+
+> What do you guys like for a free monitoring software?
+
+Nagios - at the moment monitoring 109 hosts and 564 services on my primary 
+nagios instance.  Can't function without it.  I have a second small monitor 
+on my desk dedicated to showing the nagios problems summary, and it's the 
+first thing I look at every time I sit down.  It's also the first thing I 
+look at when I'm getting a problem reported.
+
+Nagios worked well enough that I never looked at anything else, although 
+other packages may work as well or better, be easier to configure, etc.
+
+I use nagios to:
+
+- make sure servers/networks are up (duh)
+
+- monitor disk space, CPU utilization, etc
+
+- monitor temperature (and lately humidity) in the server room and some 
+labs - EB216 hit 76.4 degrees while I was typing. (ask me about my $125 PoE 
+powered temperature, humidity, and light sensor Arduino stack from Sparkfun, 
+another $20 to add airflow sensing.  enterprise datacenter monitoring on a 
+university budget)
+
+- monitor the UPS farm that's running the server farm (2 units currently 
+showing a warning state of "Status=Online, Replace Battery")
+
+- use a separate nagios instance to monitor lab computers.  the nagios 
+configuration also includes "Action URLs" for every computer and lab that 
+allows us to send wake-on-LAN packets to individual machines or to the 
+entire lab with one click - know what systems are up, and wake them if 
+they're not, when you are ready to do maintenance. don't waste time walking 
+around the lab poking power buttons. (administer remotely and don't waste 
+time walking around period, but that's a different discussion.)
+
+- Quis custodiet ipsos custodes? I have a separate machine that watches the 
+primary nagios server to make sure I'm not blind.
+
+- monitor printers - know that they're low on toner or out of paper ('cause 
+users usually won't bother to report it unless it's a crisis for them). 
+optionally send the report directly to your student assistant for action (if 
+you have that luxury, I don't)
+
+
+
+Nagios configuration tips:
+
+go slowly, look at check intervals and dependencies. build the "parent" 
+dependencies from nagios outward. If you're not careful, nagios will make so 
+much noise that all you really know is "there's a problem".  e.g. make sure 
+that the host ping check will report the host down _before_ the HTTP check 
+reports that the web service is down, and make sure you know the apache 
+server is running before you send reports of 20 virtual hosts being down. 
+Make sure you can see the LAN before you report that you can't get to 
+google. etc.
+
+make sure the reports get to you - test your configuration, end-to-end.
+
+think about reporting windows - I don't care about printers except 8-5 M-F. 
+maybe some servers I care about 6am-6pm x365.  I care about server room 
+temperature 24x7 (experience has taught me I have about 15 minutes before 
+it's 90 degrees in there, and in 30 minutes I'm losing hardware to the 
+heat).
+
+-Jason
+----------------------------------------
+Jason Winningham
+Computer Systems Engineer
+Electrical and Computer Engineering
+The University of Alabama in Huntsville
+
+--
+You received this message because you are subscribed to the Google Groups 
+"systemadmin" group.
+To unsubscribe from this group and stop receiving emails from it, send an 
+email to systemadmin+unsubscribe@uah.edu 
+<mailto:systemadmin%2Bunsubscribe@uah.edu> .
+To post to this group, send email to systemadmin@uah.edu.
+Visit this group at http://groups.google.com/a/uah.edu/group/systemadmin/.
+For more options, visit https://groups.google.com/a/uah.edu/d/optout.
+
+
+
+-- 
+You received this message because you are subscribed to the Google Groups 
+"systemadmin" group.
+To unsubscribe from this group and stop receiving emails from it, send an 
+email to systemadmin+unsubscribe@uah.edu.
+To post to this group, send email to systemadmin@uah.edu.
+Visit this group at http://groups.google.com/a/uah.edu/group/systemadmin/.
+For more options, visit https://groups.google.com/a/uah.edu/d/optout.
+
+
+------=_NextPart_000_2F080_01D11173.F4B726D0
+Content-Type: text/html;
+	boundary="047d7b673a4e7c35550500730c81";
+	charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr">Yeah, nagios like 99% of the open source =
+&quot;brand&quot; introduces and ceaselessly perpetuates the =
+&quot;single point of failure&quot; aka &quot;job security :)&quot; =
+condition with staggering ferocity.</div>
+<div class=3D"gmail_extra"><br><br><div class=3D"gmail_quote">On Tue, =
+Aug 12, 2014 at 1:12 PM, Jason Winningham <span dir=3D"ltr">&lt;<a =
+href=3D"mailto:jason.winningham@uah.edu" =
+target=3D"_blank">jason.winningham@uah.edu</a>&gt;</span> wrote:<br>
+<blockquote class=3D"gmail_quote" style=3D"margin:0 0 0 =
+.8ex;border-left:1px #ccc solid;padding-left:1ex"><br>
+On Aug 12, 2014, at 10:32 AM, Brian Swan &lt;<a =
+href=3D"mailto:bcs0002@uah.edu">bcs0002@uah.edu</a>&gt; wrote:<br>
+<br>
+&gt; What do you guys like for a free monitoring software?<br>
+<br>
+Nagios - at the moment monitoring 109 hosts and 564 services on my =
+primary nagios instance. =C2=A0Can&#39;t function without it. =C2=A0I =
+have a second small monitor on my desk dedicated to showing the nagios =
+problems summary, and it&#39;s the first thing I look at every time I =
+sit down. =C2=A0It&#39;s also the first thing I look at when I&#39;m =
+getting a problem reported.<br>
+
+<br>
+Nagios worked well enough that I never looked at anything else, although =
+other packages may work as well or better, be easier to configure, =
+etc.<br>
+<br>
+I use nagios to:<br>
+<br>
+- make sure servers/networks are up (duh)<br>
+<br>
+- monitor disk space, CPU utilization, etc<br>
+<br>
+- monitor temperature (and lately humidity) in the server room and some =
+labs - EB216 hit 76.4 degrees while I was typing. (ask me about my $125 =
+PoE powered temperature, humidity, and light sensor Arduino stack from =
+Sparkfun, another $20 to add airflow sensing. =C2=A0enterprise =
+datacenter monitoring on a university budget)<br>
+
+<br>
+- monitor the UPS farm that&#39;s running the server farm (2 units =
+currently showing a warning state of &quot;Status=3DOnline, Replace =
+Battery&quot;)<br>
+<br>
+- use a separate nagios instance to monitor lab computers. =C2=A0the =
+nagios configuration also includes &quot;Action URLs&quot; for every =
+computer and lab that allows us to send wake-on-LAN packets to =
+individual machines or to the entire lab with one click - know what =
+systems are up, and wake them if they&#39;re not, when you are ready to =
+do maintenance. don&#39;t waste time walking around the lab poking power =
+buttons. (administer remotely and don&#39;t waste time walking around =
+period, but that&#39;s a different discussion.)<br>
+
+<br>
+- Quis custodiet ipsos custodes? I have a separate machine that watches =
+the primary nagios server to make sure I&#39;m not blind.<br>
+<br>
+- monitor printers - know that they&#39;re low on toner or out of paper =
+(&#39;cause users usually won&#39;t bother to report it unless it&#39;s =
+a crisis for them). =C2=A0optionally send the report directly to your =
+student assistant for action (if you have that luxury, I don&#39;t)<br>
+
+<br>
+<br>
+<br>
+Nagios configuration tips:<br>
+<br>
+go slowly, look at check intervals and dependencies. build the =
+&quot;parent&quot; dependencies from nagios outward. If you&#39;re not =
+careful, nagios will make so much noise that all you really know is =
+&quot;there&#39;s a problem&quot;. =C2=A0e.g. make sure that the host =
+ping check will report the host down _before_ the HTTP check reports =
+that the web service is down, and make sure you know the apache server =
+is running before you send reports of 20 virtual hosts being down. =
+=C2=A0Make sure you can see the LAN before you report that you can&#39;t =
+get to google. etc.<br>
+
+<br>
+make sure the reports get to you - test your configuration, =
+end-to-end.<br>
+<br>
+think about reporting windows - I don&#39;t care about printers except =
+8-5 M-F. =C2=A0maybe some servers I care about 6am-6pm x365. =C2=A0I =
+care about server room temperature 24x7 (experience has taught me I have =
+about 15 minutes before it&#39;s 90 degrees in there, and in 30 minutes =
+I&#39;m losing hardware to the heat).<br>
+
+<br>
+-Jason<br>
+----------------------------------------<br>
+Jason Winningham<br>
+Computer Systems Engineer<br>
+Electrical and Computer Engineering<br>
+The University of Alabama in Huntsville<br>
+<span class=3D"HOEnZb"><font color=3D"#888888"><br>
+--<br>
+You received this message because you are subscribed to the Google =
+Groups &quot;systemadmin&quot; group.<br>
+To unsubscribe from this group and stop receiving emails from it, send =
+an email to <a =
+href=3D"mailto:systemadmin%2Bunsubscribe@uah.edu">systemadmin+unsubscribe=
+@uah.edu</a>.<br>
+To post to this group, send email to <a =
+href=3D"mailto:systemadmin@uah.edu">systemadmin@uah.edu</a>.<br>
+Visit this group at <a =
+href=3D"http://groups.google.com/a/uah.edu/group/systemadmin/" =
+target=3D"_blank">http://groups.google.com/a/uah.edu/group/systemadmin/</=
+a>.<br>
+For more options, visit <a =
+href=3D"https://groups.google.com/a/uah.edu/d/optout" =
+target=3D"_blank">https://groups.google.com/a/uah.edu/d/optout</a>.<br>
+</font></span></blockquote></div><br></div>
+
+<p></p>
+
+-- <br />
+You received this message because you are subscribed to the Google =
+Groups &quot;systemadmin&quot; group.<br />
+To unsubscribe from this group and stop receiving emails from it, send =
+an email to <a =
+href=3D"mailto:systemadmin+unsubscribe@uah.edu">systemadmin+unsubscribe@u=
+ah.edu</a>.<br />
+To post to this group, send email to <a =
+href=3D"mailto:systemadmin@uah.edu">systemadmin@uah.edu</a>.<br />
+Visit this group at <a =
+href=3D"http://groups.google.com/a/uah.edu/group/systemadmin/">http://gro=
+ups.google.com/a/uah.edu/group/systemadmin/</a>.<br />
+For more options, visit <a =
+href=3D"https://groups.google.com/a/uah.edu/d/optout">https://groups.goog=
+le.com/a/uah.edu/d/optout</a>.<br />
+
+------=_NextPart_000_2F080_01D11173.F4B726D0--
+

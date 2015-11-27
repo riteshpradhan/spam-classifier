@@ -1,0 +1,175 @@
+From somebody@mail.cs.uah.edu  Thu Aug 21 16:43:04 2014
+Return-Path: <jonesjd+caf_=jjones=cs.uah.edu@uah.edu>
+From: "William Eubank" <william.eubank@uah.edu>
+To: "systemadmin" <systemadmin@uah.edu>
+Subject: [SYSADMIN-L] barracuda to smtp migration
+Date: Thu, 21 Aug 2014 16:21:19 -0500
+Message-ID: <CANe+k3xYanccXQJRHtKe4S-UZ-ZXnZHAdJD_SP_vubq2fwSJQQ@mail.gmail.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_2F039_01D11173.8E181830"
+X-Mailer: Microsoft Outlook 14.0
+List-Unsubscribe: <mailto:googlegroups-manage+354606006801+unsubscribe@googlegroups.com>, <http://groups.google.com/a/uah.edu/group/systemadmin/subscribe>
+Thread-Index: AQEgyM1npBNq2GUYBe1I83AeLwpXWA==
+List-Help: <http://support.google.com/a/uah.edu/bin/topic.py?topic=25838>, <mailto:systemadmin+help@uah.edu>
+X-OlkEid: 524404E51958BE38AEB9914EB345F9F8A6E836CD
+X-UID: 32
+Status: O
+X-Keywords:                                                                     
+Content-Length: 6150
+
+This is a multipart message in MIME format.
+
+------=_NextPart_000_2F039_01D11173.8E181830
+Content-Type: text/plain;
+	charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Hi all,
+
+
+If you are not involved with any systems that use 
+barracuda1.uah.edu/barracuda2.uah.edu/email.uah.edu for outbound email 
+relay, you can ignore this message.
+
+
+We have setup a service named smtp.uah.edu to provide non-authenticated, 
+non-tls/ssl, "soft" smtp relay.  This is to take the place of the barracuda 
+email appliances as well as any of you still using the old email server, 
+email.uah.edu, as outbound relay.
+
+
+This is not intended for use in desktop clients, sending via gmail is the 
+preferred solution for that use case.
+
+
+This service is for servers, scanners, printers, etc., that cannot make use 
+of Google's smtp servers.  Often due to the limitations of the client in 
+their support of authenticated, tls/ssl, smtp relay that Google requires.
+
+
+Both smtp.uah.edu and the barracuda[1-2].uah.edu are available at this time. 
+At some future date the barracuda's will be retired.  We may change the 
+barracuda DNS entries to point to the smtp.uah.edu host as well, but that is 
+not planned as yet.
+
+
+Please use smtp.uah.edu port 25, no auth, going forward instead of the 
+barracuda[1-2] or email.uah.edu servers.  And please change existing systems 
+when convenient.
+
+
+If you have trouble connecting, please contact me and also send me the 
+client ip of the server so I can ensure it is allowed to connect.  The ip's 
+currently allowed in the barracuda's should alredy be allowed in the smtp 
+service, but I could have missed one or had a type-o.
+
+
+This is not urgent at this time, I mainly want to use the new service going 
+forward starting now.  New xerox printer setups and such.  It may become 
+more urgent at a later date.
+
+
+The new service is rate controlled BTW.
+
+
+Thanks,
+William
+
+
+-- 
+William Eubank
+Sr Software Development Lead
+VBRH, C-2A
+Office of Information Technology (OIT)
+University of Alabama in Huntsville
+256-824-5375
+william.eubank@uah.edu
+
+
+
+
+
+
+-- 
+You received this message because you are subscribed to the Google Groups 
+"systemadmin" group.
+To unsubscribe from this group and stop receiving emails from it, send an 
+email to systemadmin+unsubscribe@uah.edu.
+To post to this group, send email to systemadmin@uah.edu.
+Visit this group at http://groups.google.com/a/uah.edu/group/systemadmin/.
+For more options, visit https://groups.google.com/a/uah.edu/d/optout.
+
+
+------=_NextPart_000_2F039_01D11173.8E181830
+Content-Type: text/html;
+	boundary="089e0149422a3744ab05012a4d33";
+	charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr"><div><div><div>Hi all,<br><br></div>If you are not =
+involved with any systems that use <a =
+href=3D"http://barracuda1.uah.edu/barracuda2.uah.edu/email.uah.edu">barra=
+cuda1.uah.edu/barracuda2.uah.edu/email.uah.edu</a> for outbound email =
+relay, you can ignore this message.<br>
+<br></div>We have setup a service named <a =
+href=3D"http://smtp.uah.edu">smtp.uah.edu</a> to provide =
+non-authenticated, non-tls/ssl, &quot;soft&quot; smtp relay.=C2=A0 This =
+is to take the place of the barracuda email appliances as well as any of =
+you still using the old email server, <a =
+href=3D"http://email.uah.edu">email.uah.edu</a>, as outbound relay.<br>
+<br></div>This is not intended for use in desktop clients, sending via =
+gmail is the preferred solution for that use case.<br =
+clear=3D"all"><div><div><div><div><div><br></div><div>This service is =
+for servers, scanners, printers, etc., that cannot make use of =
+Google&#39;s smtp servers.=C2=A0 Often due to the limitations of the =
+client in their support of authenticated, tls/ssl, smtp relay that =
+Google requires.<br>
+<br></div><div>Both <a href=3D"http://smtp.uah.edu">smtp.uah.edu</a> and =
+the barracuda[1-2].<a href=3D"http://uah.edu">uah.edu</a> are available =
+at this time.=C2=A0 At some future date the barracuda&#39;s will be =
+retired.=C2=A0 We may change the barracuda DNS entries to point to the =
+<a href=3D"http://smtp.uah.edu">smtp.uah.edu</a> host as well, but that =
+is not planned as yet.<br>
+<br></div><div>Please use <a =
+href=3D"http://smtp.uah.edu">smtp.uah.edu</a> port 25, no auth, going =
+forward instead of the barracuda[1-2] or <a =
+href=3D"http://email.uah.edu">email.uah.edu</a> servers.=C2=A0 And =
+please change existing systems when convenient.<br>
+<br></div><div>If you have trouble connecting, please contact me and =
+also send me the client ip of the server so I can ensure it is allowed =
+to connect.=C2=A0 The ip&#39;s currently allowed in the barracuda&#39;s =
+should alredy be allowed in the smtp service, but I could have missed =
+one or had a type-o.<br>
+=C2=A0<br></div><div>This is not urgent at this time, I mainly want to =
+use the new service going forward starting now.=C2=A0 New xerox printer =
+setups and such.=C2=A0 It may become more urgent at a later =
+date.<br><br></div><div>The new service is rate controlled BTW.<br>
+<br></div><div>Thanks,<br>William<br><br></div><div>-- <br>William =
+Eubank<br>Sr Software Development Lead<br>VBRH, C-2A<br>Office of =
+Information Technology (OIT)<br>University of Alabama in =
+Huntsville<br>256-824-5375<br><a href=3D"mailto:william.eubank@uah.edu" =
+target=3D"_blank">william.eubank@uah.edu</a><br>
+<br><br>=C2=A0 <br><br>
+</div></div></div></div></div></div>
+
+<p></p>
+
+-- <br />
+You received this message because you are subscribed to the Google =
+Groups &quot;systemadmin&quot; group.<br />
+To unsubscribe from this group and stop receiving emails from it, send =
+an email to <a =
+href=3D"mailto:systemadmin+unsubscribe@uah.edu">systemadmin+unsubscribe@u=
+ah.edu</a>.<br />
+To post to this group, send email to <a =
+href=3D"mailto:systemadmin@uah.edu">systemadmin@uah.edu</a>.<br />
+Visit this group at <a =
+href=3D"http://groups.google.com/a/uah.edu/group/systemadmin/">http://gro=
+ups.google.com/a/uah.edu/group/systemadmin/</a>.<br />
+For more options, visit <a =
+href=3D"https://groups.google.com/a/uah.edu/d/optout">https://groups.goog=
+le.com/a/uah.edu/d/optout</a>.<br />
+
+------=_NextPart_000_2F039_01D11173.8E181830--
+

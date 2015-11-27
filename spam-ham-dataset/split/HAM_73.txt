@@ -1,0 +1,308 @@
+From somebody@mail.cs.uah.edu  Mon Feb 18 16:39:06 2013
+Return-Path: <edward.w.mccomas@nasa.gov>
+From: "McComas, Edward W. \(MSFC-EV43\)[ESSSA]" <edward.w.mccomas@nasa.gov>
+To: "Josh Jones" <josh.jones@willbrook.com>,
+	"Ramsey, Matthew N. \(MSFC-EV71\)[ESSSA]" <matthew.n.ramsey@nasa.gov>
+References: <40C2A75D67B9D14797A1939E7D144E910109BC33A7B5@NDMSSCC04.ndc.nasa.gov> <76E49B2FF96CBE4CB1DB0C8D3E7D9017D51B5D3C4D@NDMSSCC06.ndc.nasa.gov> <D5F2C6B7A30D58489EF42F83534D99C5F8E529AD58@NDMSSCC03.ndc.nasa.gov> <D483C873-00A2-40A2-9514-3BF085066014@willbrook.com>
+In-Reply-To: <D483C873-00A2-40A2-9514-3BF085066014@willbrook.com>
+Subject: RE: NASA Email
+Date: Mon, 18 Feb 2013 16:30:38 -0500
+Message-ID: <76E49B2FF96CBE4CB1DB0C8D3E7D9017D51B6649BC@NDMSSCC06.ndc.nasa.gov>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_2F357_01D11176.8C4C0360"
+X-Mailer: Microsoft Outlook 14.0
+Thread-Index: AQGxOGGXQV8nGb1aro5kFaJ0wGeoTAIk6+o9ApJVyNYC4nnMNgJb8IqN
+Content-Language: en-us
+X-OlkEid: 524422E51D7E8102B1181F45BE1B1A37041BB090
+X-UID: 73
+Status: RO
+X-Keywords:                                                                    
+Content-Length: 10010
+
+This is a multipart message in MIME format.
+
+------=_NextPart_000_2F357_01D11176.8C4C0360
+Content-Type: text/plain;
+	charset="UTF-8"
+Content-Transfer-Encoding: 8bit
+
+Seems to be working now.  I am getting my Willbrook email forwarded to my 
+NASA account.
+
+
+
+Well done Josh.
+
+
+
+From: Josh Jones [mailto:josh.jones@willbrook.com]
+Sent: Thursday, February 14, 2013 2:11 PM
+To: Ramsey, Matthew N. (MSFC-EV71)[ESSSA]
+Cc: McComas, Edward W. (MSFC-EV43)[ESSSA]
+Subject: Re: NASA Email
+
+
+
+I will contact Rodney directly.
+
+Sent from my iPhone
+
+
+On Feb 14, 2013, at 1:19 PM, "Ramsey, Matthew N. (MSFC-EV71)[ESSSA]" 
+<matthew.n.ramsey@nasa.gov> wrote:
+
+Thanks Ed.
+
+
+
+Matt Ramsey
+SLS Systems Analysis
+Willbrook Solutions Inc.
+256.544.5936 (w)
+256.603.8563 (c)
+matthew.n.ramsey@nasa.gov
+matthew.ramsey@willbrook.com
+
+
+
+From: McComas, Edward W. (MSFC-EV43)[ESSSA]
+Sent: Thursday, February 14, 2013 1:18 PM
+To: 'Josh' (josh.jones@willbrook.com) (josh.jones@willbrook.com)
+Cc: Ramsey, Matthew N. (MSFC-EV71)[ESSSA]
+Subject: FW: NASA Email
+
+
+
+Josh, Matt;
+
+
+
+Here is the response on my trouble ticket.
+
+
+
+Josh, perhaps you can work directly with Rodney Womack on this.
+
+
+
+Ed
+
+
+
+From: Womack, Rodney (MSFC-IS40)[EMCO TECHNOLOGIES INC]
+Sent: Thursday, February 14, 2013 1:15 PM
+To: McComas, Edward W. (MSFC-EV43)[ESSSA]
+Subject: NASA Email
+
+
+
+Edward,
+
+
+
+In reference to your below request, your NASA email is setup and configured 
+properly. If your company made some updates to their exchange servers and 
+now you aren’t receiving forwarded messages from them, indicates something 
+on their side is broke.
+
+
+
+His company updated their exchange server and now their email is not being 
+forwarded to his NASA email accounnt.
+
+
+
+His companies admins said that the settings are correct and asked him to 
+have the NASA NOMAD admins to check on their side for issues.
+
+
+
+Rodney W. Womack
+
+NASA Email (NOMAD) and WebEx Administration
+
+NASA/HP ACES
+
+rodney.womack-1@nasa.gov
+
+
+
+
+------=_NextPart_000_2F357_01D11176.8C4C0360
+Content-Type: text/html;
+	boundary="_000_76E49B2FF96CBE4CB1DB0C8D3E7D9017D51B6649BCNDMSSCC06ndcn_";
+	charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+<html xmlns:v=3D"urn:schemas-microsoft-com:vml" =
+xmlns:o=3D"urn:schemas-microsoft-com:office:office" =
+xmlns:w=3D"urn:schemas-microsoft-com:office:word" =
+xmlns:m=3D"http://schemas.microsoft.com/office/2004/12/omml" =
+xmlns=3D"http://www.w3.org/TR/REC-html40"><head><meta =
+http-equiv=3DContent-Type content=3D"text/html; charset=3Dutf-8"><meta =
+name=3DGenerator content=3D"Microsoft Word 14 (filtered =
+medium)"><style><!--
+/* Font Definitions */
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+@font-face
+	{font-family:Tahoma;
+	panose-1:2 11 6 4 3 5 4 4 2 4;}
+@font-face
+	{font-family:"Monotype Corsiva";
+	panose-1:3 1 1 1 1 2 1 1 1 1;}
+/* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0in;
+	margin-bottom:.0001pt;
+	font-size:11.0pt;
+	font-family:"Calibri","sans-serif";}
+a:link, span.MsoHyperlink
+	{mso-style-priority:99;
+	color:blue;
+	text-decoration:underline;}
+a:visited, span.MsoHyperlinkFollowed
+	{mso-style-priority:99;
+	color:purple;
+	text-decoration:underline;}
+p.MsoAcetate, li.MsoAcetate, div.MsoAcetate
+	{mso-style-priority:99;
+	mso-style-link:"Balloon Text Char";
+	margin:0in;
+	margin-bottom:.0001pt;
+	font-size:8.0pt;
+	font-family:"Tahoma","sans-serif";}
+span.BalloonTextChar
+	{mso-style-name:"Balloon Text Char";
+	mso-style-priority:99;
+	mso-style-link:"Balloon Text";
+	font-family:"Tahoma","sans-serif";}
+span.EmailStyle19
+	{mso-style-type:personal;
+	font-family:"Calibri","sans-serif";
+	color:windowtext;}
+span.EmailStyle20
+	{mso-style-type:personal;
+	font-family:"Calibri","sans-serif";
+	color:#1F497D;}
+span.EmailStyle21
+	{mso-style-type:personal;
+	font-family:"Calibri","sans-serif";
+	color:#1F497D;}
+span.EmailStyle22
+	{mso-style-type:personal-reply;
+	font-family:"Calibri","sans-serif";
+	color:#1F497D;}
+.MsoChpDefault
+	{mso-style-type:export-only;
+	font-size:10.0pt;}
+@page WordSection1
+	{size:8.5in 11.0in;
+	margin:1.0in 1.0in 1.0in 1.0in;}
+div.WordSection1
+	{page:WordSection1;}
+--></style><!--[if gte mso 9]><xml>
+<o:shapedefaults v:ext=3D"edit" spidmax=3D"1026" />
+</xml><![endif]--><!--[if gte mso 9]><xml>
+<o:shapelayout v:ext=3D"edit">
+<o:idmap v:ext=3D"edit" data=3D"1" />
+</o:shapelayout></xml><![endif]--></head><body lang=3DEN-US link=3Dblue =
+vlink=3Dpurple><div class=3DWordSection1><p class=3DMsoNormal><span =
+style=3D'color:#1F497D'>Seems to be working now.=C2=A0 I am getting my =
+Willbrook email forwarded to my NASA account.<o:p></o:p></span></p><p =
+class=3DMsoNormal><span =
+style=3D'color:#1F497D'><o:p>&nbsp;</o:p></span></p><p =
+class=3DMsoNormal><span style=3D'color:#1F497D'>Well done =
+Josh.<o:p></o:p></span></p><p class=3DMsoNormal><span =
+style=3D'color:#1F497D'><o:p>&nbsp;</o:p></span></p><div><div =
+style=3D'border:none;border-top:solid #B5C4DF 1.0pt;padding:3.0pt 0in =
+0in 0in'><p class=3DMsoNormal><b><span =
+style=3D'font-size:10.0pt;font-family:"Tahoma","sans-serif"'>From:</span>=
+</b><span style=3D'font-size:10.0pt;font-family:"Tahoma","sans-serif"'> =
+Josh Jones [mailto:josh.jones@willbrook.com] <br><b>Sent:</b> Thursday, =
+February 14, 2013 2:11 PM<br><b>To:</b> Ramsey, Matthew N. =
+(MSFC-EV71)[ESSSA]<br><b>Cc:</b> McComas, Edward W. =
+(MSFC-EV43)[ESSSA]<br><b>Subject:</b> Re: NASA =
+Email<o:p></o:p></span></p></div></div><p =
+class=3DMsoNormal><o:p>&nbsp;</o:p></p><div><p class=3DMsoNormal>I will =
+contact Rodney directly.<br><br>Sent from my =
+iPhone<o:p></o:p></p></div><div><p class=3DMsoNormal =
+style=3D'margin-bottom:12.0pt'><br>On Feb 14, 2013, at 1:19 PM, =
+&quot;Ramsey, Matthew N. (MSFC-EV71)[ESSSA]&quot; &lt;<a =
+href=3D"mailto:matthew.n.ramsey@nasa.gov">matthew.n.ramsey@nasa.gov</a>&g=
+t; wrote:<o:p></o:p></p></div><blockquote =
+style=3D'margin-top:5.0pt;margin-bottom:5.0pt'><div><p =
+class=3DMsoNormal><span style=3D'color:#1F497D'>Thanks =
+Ed.</span><o:p></o:p></p><p class=3DMsoNormal><span =
+style=3D'color:#1F497D'>&nbsp;</span><o:p></o:p></p><div><p =
+class=3DMsoNormal><span =
+style=3D'font-size:10.0pt;font-family:"Arial","sans-serif";color:#1F497D'=
+>Matt Ramsey<br>SLS Systems Analysis<br>Willbrook Solutions =
+Inc.<br>256.544.5936 (w)<br>256.603.8563 (c)<br><a =
+href=3D"mailto:matthew.n.ramsey@nasa.gov">matthew.n.ramsey@nasa.gov</a><b=
+r><a =
+href=3D"mailto:matthew.ramsey@willbrook.com">matthew.ramsey@willbrook.com=
+</a></span><o:p></o:p></p></div><p class=3DMsoNormal><span =
+style=3D'color:#1F497D'>&nbsp;</span><o:p></o:p></p><div><div =
+style=3D'border:none;border-top:solid #B5C4DF 1.0pt;padding:3.0pt 0in =
+0in 0in'><p class=3DMsoNormal><b><span =
+style=3D'font-size:10.0pt;font-family:"Tahoma","sans-serif"'>From:</span>=
+</b><span style=3D'font-size:10.0pt;font-family:"Tahoma","sans-serif"'> =
+McComas, Edward W. (MSFC-EV43)[ESSSA] <br><b>Sent:</b> Thursday, =
+February 14, 2013 1:18 PM<br><b>To:</b> 'Josh' (<a =
+href=3D"mailto:josh.jones@willbrook.com">josh.jones@willbrook.com</a>) =
+(<a =
+href=3D"mailto:josh.jones@willbrook.com">josh.jones@willbrook.com</a>)<br=
+><b>Cc:</b> Ramsey, Matthew N. (MSFC-EV71)[ESSSA]<br><b>Subject:</b> FW: =
+NASA Email</span><o:p></o:p></p></div></div><p =
+class=3DMsoNormal>&nbsp;<o:p></o:p></p><p class=3DMsoNormal><span =
+style=3D'color:#1F497D'>Josh, Matt;</span><o:p></o:p></p><p =
+class=3DMsoNormal><span =
+style=3D'color:#1F497D'>&nbsp;</span><o:p></o:p></p><p =
+class=3DMsoNormal><span style=3D'color:#1F497D'>Here is the response on =
+my trouble ticket.</span><o:p></o:p></p><p class=3DMsoNormal><span =
+style=3D'color:#1F497D'>&nbsp;</span><o:p></o:p></p><p =
+class=3DMsoNormal><span style=3D'color:#1F497D'>Josh, perhaps you can =
+work directly with Rodney Womack on this.</span><o:p></o:p></p><p =
+class=3DMsoNormal><span =
+style=3D'color:#1F497D'>&nbsp;</span><o:p></o:p></p><p =
+class=3DMsoNormal><span =
+style=3D'color:#1F497D'>Ed</span><o:p></o:p></p><p =
+class=3DMsoNormal><span =
+style=3D'color:#1F497D'>&nbsp;</span><o:p></o:p></p><div><div =
+style=3D'border:none;border-top:solid #B5C4DF 1.0pt;padding:3.0pt 0in =
+0in 0in'><p class=3DMsoNormal><b><span =
+style=3D'font-size:10.0pt;font-family:"Tahoma","sans-serif"'>From:</span>=
+</b><span style=3D'font-size:10.0pt;font-family:"Tahoma","sans-serif"'> =
+Womack, Rodney (MSFC-IS40)[EMCO TECHNOLOGIES INC] <br><b>Sent:</b> =
+Thursday, February 14, 2013 1:15 PM<br><b>To:</b> McComas, Edward W. =
+(MSFC-EV43)[ESSSA]<br><b>Subject:</b> NASA =
+Email</span><o:p></o:p></p></div></div><p =
+class=3DMsoNormal>&nbsp;<o:p></o:p></p><p =
+class=3DMsoNormal>Edward,<o:p></o:p></p><p =
+class=3DMsoNormal>&nbsp;<o:p></o:p></p><p class=3DMsoNormal>In reference =
+to your below request, your NASA email is setup and configured properly. =
+If your company made some updates to their exchange servers and now you =
+aren=E2=80=99t receiving forwarded messages from them, indicates =
+something on their side is broke. <o:p></o:p></p><p =
+class=3DMsoNormal>&nbsp;<o:p></o:p></p><p class=3DMsoNormal>His company =
+updated their exchange server and now their email is not being forwarded =
+to his NASA email accounnt.<o:p></o:p></p><p =
+class=3DMsoNormal>&nbsp;<o:p></o:p></p><p class=3DMsoNormal>His =
+companies admins said that the settings are correct and asked him to =
+have the NASA NOMAD admins to check on their side for =
+issues.<o:p></o:p></p><p class=3DMsoNormal>&nbsp;<o:p></o:p></p><p =
+class=3DMsoNormal><span style=3D'font-family:"Monotype Corsiva"'>Rodney =
+W. Womack</span><o:p></o:p></p><p class=3DMsoNormal><span =
+style=3D'font-size:10.0pt'>NASA Email (NOMAD) and WebEx =
+Administration</span><o:p></o:p></p><p class=3DMsoNormal><span =
+style=3D'font-size:10.0pt'>NASA/HP ACES </span><o:p></o:p></p><p =
+class=3DMsoNormal><span style=3D'font-size:10.0pt'><a =
+href=3D"mailto:rodney.womack-1@nasa.gov">rodney.womack-1@nasa.gov</a></sp=
+an><o:p></o:p></p><p =
+class=3DMsoNormal>&nbsp;<o:p></o:p></p></div></blockquote></div></body></=
+html>
+------=_NextPart_000_2F357_01D11176.8C4C0360--
+

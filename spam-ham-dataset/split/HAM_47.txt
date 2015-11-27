@@ -1,0 +1,121 @@
+From somebody@linux.cs.uah.edu  Thu Aug 07 09:12:15 2014
+Return-Path: <jonesjd+caf_=jjones=cs.uah.edu@uah.edu>
+Reply-To: <Russell.Ward@uah.edu>
+From: "Russ Ward" <rww0007@uah.edu>
+To: "systemadmin" <systemadmin@uah.edu>
+References: <CAO8Ywne=ziuoOFsU0Y_Mx17giFVptqmEUVinwxhwRy32a87z7A@mail.gmail.com>	<CAO8YwncydsjsVF5Xh9xsNBLB8k8vHeHYpT4_BVAmHL3O-KThVw@mail.gmail.com>
+In-Reply-To: <CAO8YwncydsjsVF5Xh9xsNBLB8k8vHeHYpT4_BVAmHL3O-KThVw@mail.gmail.com>
+Subject: [SYSADMIN-L] Fwd: Important: Phishing Email about "Off-Campus Access"
+Date: Thu, 7 Aug 2014 08:53:07 -0500
+Message-ID: <CAO8Ywndf2ZU=S++e91TrG_4pmJEyyo_hv=uJmb_8+HTgG3Q+8w@mail.gmail.com>
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="UTF-8"
+Content-Transfer-Encoding: 8bit
+X-Mailer: Microsoft Outlook 14.0
+List-Help: <http://support.google.com/a/uah.edu/bin/topic.py?topic=25838>, <mailto:systemadmin+help@uah.edu>
+List-Unsubscribe: <mailto:googlegroups-manage+354606006801+unsubscribe@googlegroups.com>, <http://groups.google.com/a/uah.edu/group/systemadmin/subscribe>
+thread-index: AQKK6JQ1MFVkILFztqr3VT3Iqyir2wEK0+cmAfU9g9s=
+X-OlkEid: 5284892F96607767B70DD647806C781DCEEA8966
+X-UID: 47
+Status: RO
+X-Keywords:                                                                     
+Content-Length: 3103
+
+SYSADMINS,
+
+FYI, There was an excellent phishing attempt against 38 people in our
+gmail instance and 9 more at NSSTC yesterday, thanks to Shane for
+bringing this to my attention!  I sent an email notifying the people
+that received the email, that it is in fact a phishing attempt.
+Several already responded and let me know that they did enter their
+charger credentials, and have now changed their password.
+
+I have also contacted the company that appears to be the hosting site
+used by the phishers and requested that they take the site down, but
+have not heard anything back from them.  Jerry R has blacklisted the
+DNS for the phishing site to redirect anyone that tries to look up the
+URL through our DNS servers.
+
+If you have email servers that you support and want to see if any of
+your users received the message, it was from:
+eduain@server.98mizban.com.  It included a link to:
+http://elib.uah.edu.scrv.tk
+
+Please let me know if you need any further information.
+
+Thanks
+-Russ
+
+
+---------- Forwarded message ----------
+From: Russ Ward <rww0007@uah.edu>
+Date: Wed, Aug 6, 2014 at 3:49 PM
+Subject: Important: Phishing Email about "Off-Campus Access"
+To: Russ Ward <Russell.Ward@uah.edu>
+
+
+All,
+
+I wanted to make sure you were all aware that the email that you
+received around 1:30pm this afternoon about "Off-Campus Access" was a
+phishing attempt.  It is one of the best attempts that I have seen to
+fool users.  Please discard the message.
+
+If you did click on the link and enter your username and password,
+please go to the OIT Portal and change your password.
+
+I have requested that the hosting provider remove the website, but I
+have not heard back form the provider.
+
+Please let me know if you have any questions.
+
+Phishing message follows(with removed URL):
+
+--------------------
+    Subject: Off-Campus Access
+
+    Dear User,
+
+    Your off-campus access to electronic resources is expiring soon nd
+it won’t be accessible for you. You must reactivate your account in
+order to continue to have access to this service. For this purpose,
+click the web address below or copy and paste it into your web
+browser. After logging in, your access is reactivated and you will be
+redirected to the library resources.
+
+    URL
+
+    If you are not able to login, please contact Access Services
+Manager at Jason.Glover@uah.edu.
+
+    Sincerely,
+
+    Jason Glover
+    Access Services Manager
+    User Services
+    University of Alabama in Huntsville
+    824-6983
+    Jason.Glover@uah.edu
+
+--------------------
+
+Thanks
+-Russ
+
+--
+Russ Ward, GSE CISSP
+Chief Information Security Officer (CISO)
+Office of Information Technology (OIT)
+University of Alabama in Huntsville
+russell.ward@uah.edu
+
+-- 
+You received this message because you are subscribed to the Google Groups 
+"systemadmin" group.
+To unsubscribe from this group and stop receiving emails from it, send an 
+email to systemadmin+unsubscribe@uah.edu.
+To post to this group, send email to systemadmin@uah.edu.
+Visit this group at http://groups.google.com/a/uah.edu/group/systemadmin/.
+For more options, visit https://groups.google.com/a/uah.edu/d/optout.
+

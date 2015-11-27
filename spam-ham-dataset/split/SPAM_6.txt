@@ -1,0 +1,37 @@
+From somebody@mail.cs.uah.edu  Mon Jul 28 12:19:33 2014
+Return-Path: <ivan.yudianto@fe.unpad.ac.id>
+Reply-To: <account_cc@noreply.com>
+From: "University of Alabama in Huntsville Admin" <ivan.yudianto@fe.unpad.ac.id>
+To: "Recipients" <info@admin.com>
+Subject: Attention user
+Date: Mon, 28 Jul 2014 12:03:40 -0500
+Message-ID: <53d682a7.e311460a.1740.ffffb4cc@mx.google.com>
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: 8bit
+X-Mailer: Microsoft Outlook 14.0
+Thread-Index: AQKuKfzJ7R/a5aq3in/RGeqYXF2gnQ==
+X-OlkEid: 52C41FBE35D56737EB53D74B93B04B96C71D0D3A
+X-UID: 6
+Status: RO
+X-Keywords:                                                                     
+Content-Length: 549
+
+Attention user
+
+This is a courtesy notice that you are approaching the limit of 2GB data
+plan. Your e-mail account would be blocked from sending and receiving
+emails, If your email account is not verified within 24 hours.
+
+You will not be able to send or receive new mail until you upgrade your
+email quota.
+You may click on the verification link below to reactivate your account
+
+http://universityofalabamainhuntsville.yolasite.com/
+
+* Important:
+In general, within 24 hours your account will be activated.
+
+Service Providers International. © 2014
+

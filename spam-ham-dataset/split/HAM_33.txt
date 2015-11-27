@@ -1,0 +1,51 @@
+From somebody@mail.cs.uah.edu  Wed Aug 20 22:56:26 2014
+Return-Path: <breckbachle@gmail.com>
+From: "Breck Bachle" <bb0032@cs.uah.edu>
+Sender: <breckbachle@gmail.com>
+To: <support@cs.uah.edu>
+Subject: Status Report
+Date: Wed, 20 Aug 2014 22:36:42 -0500
+Message-ID: <CANJUaKMTHs=Dm=mMCZ4SoGdv5j34yCZu6q8HOUaHp-N6DFhBCQ@mail.gmail.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_2F040_01D11173.9C32C820"
+X-Mailer: Microsoft Outlook 14.0
+Thread-Index: AQJdckIMOd/319rpqOmGZgP9xgilfQ==
+X-OlkEid: 526404E56F9D7FB8183156468CF1E51EB1C83835
+X-UID: 33
+Status: RO
+X-Keywords:                                                                     
+Content-Length: 1223
+
+This is a multipart message in MIME format.
+
+------=_NextPart_000_2F040_01D11173.9C32C820
+Content-Type: text/plain;
+	charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Placed portable versions of GIMP, Inkscape, Audacity, and Blender on the K 
+drive. Tested launching each from the "somebody" account and everything 
+works. Placed shortcuts in the net apps start menu folder. Inkscape still 
+needs some tweaks so it doesn't try to save user settings to the K drive.
+
+Also, got AD authentication to work in Linux. Not as easy as we thought.
+
+
+
+------=_NextPart_000_2F040_01D11173.9C32C820
+Content-Type: text/html;
+	boundary="001a11370092d94dd205011b6d15";
+	charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr">Placed portable versions of GIMP, Inkscape, Audacity, =
+and Blender on the K drive. Tested launching each from the =
+&quot;somebody&quot; account and everything works. Placed shortcuts in =
+the net apps start menu folder. Inkscape still needs some tweaks so it =
+doesn&#39;t try to save user settings to the K drive.<div>
+<br></div><div>Also, got AD authentication to work in Linux. Not as easy =
+as we thought.<br><div><br></div></div></div>
+
+------=_NextPart_000_2F040_01D11173.9C32C820--
+

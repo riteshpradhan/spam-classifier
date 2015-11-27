@@ -1,0 +1,58 @@
+From somebody@mail.cs.uah.edu  Thu May 01 10:18:35 2014
+Return-Path: <actionline=ellucian.com__9x3plvoeb5pjom82@bdeuoumscuek.a-arvzmac.na11.bnc.salesforce.com>
+From: "Ellucian Client Support" <actionline@ellucian.com>
+To: <jjones@cs.uah.edu>
+Subject: ***From Ellucian: Your Case #01119280 has been updated. ref:_00DA0Arvz._500G0NKQ9P:ref
+Date: Thu, 1 May 2014 11:13:21 -0500
+Message-ID: <to1hp000000000000000000000000000000000000000000000N4WL2900fqGsMh0bScixLryoAAFYSA@sfdc.net>
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: 7bit
+X-Mailer: Microsoft Outlook 14.0
+Thread-Index: AQG7wFzmXIhpDoRGhJF7UyBVFxyGhQ==
+X-OlkEid: 526425E5CD3F58A1CC94354AA4A26AEF50F5D856
+X-UID: 98
+Status: RO
+X-Status: A
+X-Keywords:                                                                     
+Content-Length: 1442
+
+For your reference, the Case information is:
+Case: 01119280
+Date Opened: 5/1/2014
+Priority: 1
+Product Line: Banner
+Product: Faculty and Advisor Self-Service
+Subject: SSB - Ability to change others Grades - B,1,,University of
+Alabama in Huntsville
+Case Owner: Sue Patterson
+
+Your case has been updated on 5/1/2014 12:13 PM.
+Comment: 
+
+Josh, 
+
+You are encountering defect CR-000106348:
+Faculty are able to bypass SOAFACS grade security by editing HTML. On
+SOAFACS, the ENTERGRADES process has the Relationship flag checked. This
+should allow faculty to only enter grades for their own CRN's. However, a
+faculty member can access the Final Grades page and save the HTML source
+code to their computer. They can then edit the FORM ACTION tag to include
+the full SSB URL and update the CRN to a different class. After opening
+the modified file in their web browser, they can select a grade for a
+student, submit, and the grade will be updated on the student's record
+(assuming they are actually in the CRN). The system should double check
+security when grades are submitted to ensure that the user is allowed to
+enter grades for the given CRN.
+
+This defect was corrected with patch pcr-000105868_bwl8060002, which was
+posted to the software download area of the Ellucian Support Center on
+April 17. 
+
+Sue Patterson
+
+Please click on the link below to view this case in the Ellucian Support
+Center.
+https://ellucian.force.com/clients/500G000000NKQ9P
+

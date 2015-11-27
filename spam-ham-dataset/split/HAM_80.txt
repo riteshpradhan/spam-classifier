@@ -1,0 +1,94 @@
+From somebody@mail.cs.uah.edu  Wed Oct 28 10:58:59 2015
+Return-Path: <jonesjd+caf_=jjones=cs.uah.edu@uah.edu>
+From: "Brian Swan" <bcs0002@uah.edu>
+To: "Jason Winningham" <jason.winningham@uah.edu>,
+	"Harry Delugach" <delugach@uah.edu>
+Cc: "Penelope Lang" <langp@uah.edu>,
+	"Wendy Worlund" <wendy.worlund@uah.edu>,
+	"systemadmin" <systemadmin@uah.edu>,
+	"Brian C Penick" <bcp0001@uah.edu>,
+	"Shane Edward Smith" <ses0008@uah.edu>,
+	"Euan RJ Holton" <erh0008@uah.edu>
+References: <CAGrgJksK7NVhoiXF=RgEp07kjY-2hnR1v=HcQX_zXVdCxma-6g@mail.gmail.com>	 <2c66dfd4061b9618c0eeec367592bc41@mail.gmail.com>	 <F25F8DD0-92DB-4BB4-A1AB-DDF8D991A7F2@uah.edu>	 <1320bce4ad0a1b4609bdd7dede86f838@mail.gmail.com>	 <3A285835-A323-456F-8679-7CDDD9798201@uah.edu>	 <3A71239F-978F-4A71-ADAA-F30252A8E10B@uah.edu>
+In-Reply-To: <3A71239F-978F-4A71-ADAA-F30252A8E10B@uah.edu>
+Subject: Re: [SYSADMIN-L] Office 2016 on Chargerware now
+Date: Wed, 28 Oct 2015 10:59:08 -0500
+Message-ID: <1446047948.11257.10.camel@uah.edu>
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="UTF-8"
+Content-Transfer-Encoding: 8bit
+X-Mailer: Microsoft Outlook 14.0
+List-Unsubscribe: <mailto:googlegroups-manage+354606006801+unsubscribe@googlegroups.com>, <http://groups.google.com/a/uah.edu/group/systemadmin/subscribe>
+Thread-Index: AQGinHGmeaBKpKCrgV+/GmecmGs1CwJlI+7tAhVFrskCBdJfvAJwnUS0Ab4es2EBzzNXDA==
+List-Help: <http://support.google.com/a/uah.edu/bin/topic.py?topic=25838>, <mailto:systemadmin+help@uah.edu>
+X-OlkEid: 522423E54FF93DC12EB2BC409BC5D35CBD0BFF40
+X-UID: 80
+Status: RO
+X-Keywords:                                                                     
+Content-Length: 2006
+
+There are also those users who learn to use computers in a very
+specific way and don't like very much to change in their routines. For
+IT professionals, it can seem kind of silly. However, it is definitely
+possible for me to deal with a physicist who understand mathematics in
+ways that I cannot even begin to grasp and, at the same time, wants to
+check his email in the way that he has always checked it. Obviously, we
+can only go so far to accommodate people, but I try to make the users
+comfortable as much as I can do so reasonably.
+
+Sometimes that means Outlook on Mac :)
+
+Brian
+
+On Wed, 2015-10-28 at 07:59 -0500, Jason Winningham wrote:
+> > On Oct 28, 2015, at 7:41 AM, Harry Delugach <delugach@uah.edu>
+> > wrote:
+> >
+> > There’s an Outlook for the Mac? Why bother? :-)
+>
+> I hear it’s reasonably effective when your server infrastructure is
+> Exchange.
+>
+> Of course, ours isn’t...
+>
+> -Jason
+> ----------------------------------------
+> Jason Winningham
+> Computer Systems Engineer
+> Electrical and Computer Engineering
+> The University of Alabama in Huntsville
+>
+-- 
+
+****
+
+Brian Swan
+Systems Administrator
+The University of Alabama in Huntsville
+The Center for Space Plasma and Aeronomic Research
+320 Sparkman Drive, NSSTC 2007
+Huntsville, AL-35805
+Phone: 256-961-7787
+Fax: 256-961-7730
+bcs0002@uah.edu
+
+****
+
+"All parts should go together without forcing. You must remember that
+the parts you are reassembling were disassembled by you. Therefore, if
+you can't get them together again, there must be a reason. By all means,
+do not use a hammer."
+- IBM Manual, 1925
+
+
+
+-- 
+You received this message because you are subscribed to the Google Groups 
+"systemadmin" group.
+To unsubscribe from this group and stop receiving emails from it, send an 
+email to systemadmin+unsubscribe@uah.edu.
+To post to this group, send email to systemadmin@uah.edu.
+Visit this group at http://groups.google.com/a/uah.edu/group/systemadmin/.
+For more options, visit https://groups.google.com/a/uah.edu/d/optout.
+

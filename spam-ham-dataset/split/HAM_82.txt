@@ -1,0 +1,170 @@
+From somebody@mail.cs.uah.edu  Mon Jul 27 15:40:13 2015
+Return-Path: <gainesc@uah.edu>
+From: "Clifford Gaines" <gainesc@uah.edu>
+To: "Josh Jones" <jjones@cs.uah.edu>
+References: <3b5801d0c8aa$88d8a7c0$9a89f740$@cs.uah.edu>
+In-Reply-To: <3b5801d0c8aa$88d8a7c0$9a89f740$@cs.uah.edu>
+Subject: Re: New faculty machine
+Date: Mon, 27 Jul 2015 15:40:07 -0500
+Message-ID: <CAGbVDEhaXhiuMxfDn0owsZkP5JWa6fdXUS_iikvKD-j6YHkUiQ@mail.gmail.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_2F389_01D11176.BD39F400"
+X-Mailer: Microsoft Outlook 14.0
+Thread-Index: AQKdffg32jfRt5jMd2JHAFN1bY2Q1gIwLCn2
+X-OlkEid: 526423E5E9DC774F0066FD4CADF183190CC6AC55
+X-UID: 82
+Status: RO
+X-Keywords:                                                                     
+Content-Length: 6007
+
+This is a multipart message in MIME format.
+
+------=_NextPart_000_2F389_01D11176.BD39F400
+Content-Type: text/plain;
+	charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+I'm sorry Josh.  We have been told that all requests have to be made to the 
+Helpdesk now, with very few exceptions.  Don't like it, but Jerry Brown & I 
+had no input.  If it is something that we can or will do, it will be 
+forwarded to us from the Helpdesk.  Thanks.
+
+Clifford
+gainesc@ uah.edu
+256-824-2631
+
+
+
+On Mon, Jul 27, 2015 at 3:26 PM, Josh Jones <jjones@cs.uah.edu> wrote:
+
+
+Dr. Rochowiak got a new desktop computer for his office and his old one is 
+being surplussed.
+
+
+
+I need to change the IP 146.229.233.113 to be associated with 
+F8:B1:56:FF:0E:2C instead of his old MAC address which was 00:11:43:AF:BE:8E
+
+
+
+The 00:11:43:AF:BE:8E is the OLD one being surplussed.
+
+The F8:B1:56:FF:0E:2C is the NEW one and needs to be associated with the IP
+
+
+
+Thanks,
+
+Josh
+
+
+
+
+-- 
+
+
+
+Clifford Gaines
+Field Service Technician II
+OIT Network Services
+
+VBRH, Annex B-1
+256-824-2631
+clifford.gaines@uah.edu
+
+  <https://lh6.googleusercontent.com/-jhaBRJ3CrCo/UoESCaPzU0I/AAAAAAAAAZc/0pw2TUXxxok/s288/Office%2520of%2520Info%2520Tech_logo.png>
+
+
+
+
+
+------=_NextPart_000_2F389_01D11176.BD39F400
+Content-Type: text/html;
+	boundary="001a1135bd02f52224051be15b92";
+	charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr">I&#39;m sorry Josh.=C2=A0 We have been told that all =
+requests have to be made to the Helpdesk now, with very few =
+exceptions.=C2=A0 Don&#39;t like it, but Jerry Brown &amp; I had no =
+input.=C2=A0 If it is something that we can or will do, it will be =
+forwarded to us from the Helpdesk.=C2=A0 =
+Thanks.<div><br></div><div>Clifford</div><div>gainesc@ <a =
+href=3D"http://uah.edu">uah.edu</a></div><div>256-824-2631</div><div><br>=
+<div><br></div></div></div><div class=3D"gmail_extra"><br><div =
+class=3D"gmail_quote">On Mon, Jul 27, 2015 at 3:26 PM, Josh Jones <span =
+dir=3D"ltr">&lt;<a href=3D"mailto:jjones@cs.uah.edu" =
+target=3D"_blank">jjones@cs.uah.edu</a>&gt;</span> wrote:<br><blockquote =
+class=3D"gmail_quote" style=3D"margin:0 0 0 .8ex;border-left:1px #ccc =
+solid;padding-left:1ex"><div lang=3D"EN-US" link=3D"blue" =
+vlink=3D"purple"><div><p class=3D"MsoNormal">Dr. <span>Rochowiak</span> =
+got a new desktop computer for his office and his old one is being =
+<span>surplussed</span>.<u></u><u></u></p><p =
+class=3D"MsoNormal"><u></u>=C2=A0<u></u></p><p class=3D"MsoNormal">I =
+need to change the IP 146.229.233.113 to be associated with =
+F8:B1:56:FF:0E:2C instead of his old MAC address which was =
+00:11:43:AF:BE:8E<u></u><u></u></p><p =
+class=3D"MsoNormal"><u></u>=C2=A0<u></u></p><p class=3D"MsoNormal">The =
+00:11:43:AF:BE:8E is the OLD one being =
+<span>surplussed</span>.<u></u><u></u></p><p class=3D"MsoNormal">The =
+F8:B1:56:FF:0E:2C is the NEW one and needs to be associated with the =
+IP<u></u><u></u></p><p class=3D"MsoNormal"><u></u>=C2=A0<u></u></p><p =
+class=3D"MsoNormal">Thanks,<u></u><u></u></p><p =
+class=3D"MsoNormal">Josh<u></u><u></u></p></div></div></blockquote></div>=
+<br><br clear=3D"all"><div><br></div>-- <br><div =
+class=3D"gmail_signature"><div dir=3D"ltr"><span =
+style=3D"BORDER-COLLAPSE:collapse;FONT-FAMILY:arial,sans-serif;COLOR:rgb(=
+80,0,80);FONT-SIZE:18px"><br><div style=3D"MARGIN:0px"><i><span =
+style=3D"COLOR:rgb(0,0,255)">Clifford Gaines</span></i></div>
+<div style=3D"MARGIN:0px"><i><span =
+style=3D"COLOR:rgb(0,0,255)"></span></i><b><i><span =
+style=3D"COLOR:rgb(34,36,98)"><font size=3D"2" face=3D"arial, helvetica, =
+sans-serif"><span style=3D"FONT-SIZE:small">Field Service Technician =
+II</span></font></span></i></b></div>
+<div style=3D"MARGIN:0px"><i =
+style=3D"font-size:small;font-family:arial,helvetica,sans-serif;color:rgb=
+(34,36,98)">OIT Network Services</i><br></div><div =
+style=3D"MARGIN:0px"><b><i><span style=3D"COLOR:rgb(34,36,98)"><font =
+size=3D"2" face=3D"arial, helvetica, sans-serif"><span =
+style=3D"FONT-SIZE:small"></span></font></span></i></b><span =
+style=3D"BORDER-COLLAPSE:collapse;FONT-FAMILY:arial,sans-serif;COLOR:rgb(=
+80,0,80);FONT-SIZE:18px"><span style=3D"COLOR:rgb(34,36,98)"><font =
+size=3D"2" face=3D"arial, helvetica, sans-serif"><span =
+style=3D"FONT-SIZE:small"><i>VBRH, Annex =
+B-1</i></span></font></span></span></div>
+<div style=3D"MARGIN:0px"><span =
+style=3D"BORDER-COLLAPSE:collapse;FONT-FAMILY:arial,sans-serif;COLOR:rgb(=
+80,0,80);FONT-SIZE:18px"><span style=3D"COLOR:rgb(34,36,98)"><font =
+size=3D"2" face=3D"arial, helvetica, sans-serif"><span =
+style=3D"FONT-SIZE:small"></span></font></span></span></div></span><span =
+style=3D"COLOR:rgb(34,36,98)"><font size=3D"2" face=3D"arial, helvetica, =
+sans-serif"><span =
+style=3D"FONT-SIZE:small"><i>256-824-2631</i></span></font></span>=20
+<div style=3D"MARGIN:0px"><em><span style=3D"COLOR:rgb(34,36,98)"><font =
+size=3D"2" face=3D"arial, helvetica, sans-serif"><span =
+style=3D"FONT-SIZE:small"><a href=3D"mailto:clifford.gaines@uah.edu" =
+target=3D"_blank">clifford.gaines@uah.edu</a></span></font></span></em></=
+div>
+<div style=3D"MARGIN:0px"><em><span style=3D"COLOR:rgb(34,36,98)"><font =
+size=3D"2" face=3D"arial, helvetica, sans-serif"><span =
+style=3D"FONT-SIZE:small"></span></font></span></em><em><font =
+color=3D"#222462"><font size=3D"2" face=3D"arial, helvetica, =
+sans-serif"><span =
+style=3D"FONT-SIZE:small"></span></font></font></em>=C2=A0</div><div =
+style=3D"MARGIN:0px"><img =
+src=3D"https://lh6.googleusercontent.com/-jhaBRJ3CrCo/UoESCaPzU0I/AAAAAAA=
+AAZc/0pw2TUXxxok/s288/Office%2520of%2520Info%2520Tech_logo.png"><br></div=
+><span =
+style=3D"BORDER-COLLAPSE:collapse;FONT-FAMILY:arial,sans-serif;COLOR:rgb(=
+80,0,80);FONT-SIZE:18px"><div>
+<p style=3D"MARGIN:0px"><font color=3D"#222462"><font size=3D"2" =
+face=3D"arial, helvetica, sans-serif"><span =
+style=3D"FONT-SIZE:small"></span></font></font>=C2=A0</p></div></span>
+<p></p><p></p>
+<p></p><p></p></div></div>
+</div>
+
+------=_NextPart_000_2F389_01D11176.BD39F400--
+

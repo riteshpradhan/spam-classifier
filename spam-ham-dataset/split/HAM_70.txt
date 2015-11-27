@@ -1,0 +1,509 @@
+From somebody@mail.cs.uah.edu  Thu Nov 15 15:12:12 2012
+Return-Path: <sandy.claunch@willbrook.com>
+From: "Sandra J Claunch" <sandy.claunch@willbrook.com>
+To: <d1g1talfr3ak@gmail.com>,
+	<josh.jones@willbrook.com>
+Cc: <john.smith@willbrook.com>
+References: <20121115204614.A17A13820A9E@mail.willbrook.com>
+In-Reply-To: <20121115204614.A17A13820A9E@mail.willbrook.com>
+Subject: FW: Undelivered Mail Returned to Sender
+Date: Thu, 15 Nov 2012 15:24:07 -0500
+Message-ID: <001a01cdc36f$2a1492f0$7e3db8d0$@willbrook.com>
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="----=_NextPart_000_2F342_01D11176.2B2A7170"
+X-Mailer: Microsoft Outlook 14.0
+Thread-Index: AQJULihG35crXMYLNy+XzIeaSGrfogNrk5w4
+Content-Language: en-us
+X-OlkEid: 52C421E590D018B4E031B843A28D3FF3268ED697
+X-UID: 70
+Status: RO
+X-Keywords:                                                                    
+Content-Length: 18951
+
+This is a multipart message in MIME format.
+
+------=_NextPart_000_2F342_01D11176.2B2A7170
+Content-Type: text/plain;
+	boundary="----=_NextPart_000_001F_01CDC33C.DF814EE0";
+	charset="us-ascii"
+Content-Transfer-Encoding: 7bit
+
+Josh
+One more for you, this is our Air Force prime.
+
+Sandra Jones-Claunch
+Willbrook Solutions, Inc.
+Supporting Utility Helicopter Project Office
+4811-A Bradford Drive
+Huntsville, AL  35805
+256-864-8731 ext 118
+256-603-7890 Mobile
+
+
+-----Original Message-----
+From: Mail Delivery System [mailto:MAILER-DAEMON@mail.willbrook.com] 
+Sent: Thursday, November 15, 2012 2:46 PM
+To: sandy.claunch@willbrook.com
+Subject: Undelivered Mail Returned to Sender
+
+This is the mail system at host mail.willbrook.com.
+
+I'm sorry to have to inform you that your message could not be delivered
+to
+one or more recipients. It's attached below.
+
+For further assistance, please send mail to postmaster.
+
+If you do so, please include this problem report. You can delete your own
+text from the attached returned message.
+
+                   The mail system
+
+<dcraig@merc-mercer.org>: host vxrelay.merc-mercer.org[63.103.169.14]
+said:
+550
+    Denied by policy (in reply to end of DATA command)
+
+<krutke@merc-mercer.org>: host vxrelay.merc-mercer.org[63.103.169.14]
+said:
+550
+    Denied by policy (in reply to end of DATA command)
+
+------=_NextPart_000_2F342_01D11176.2B2A7170
+Content-Type: message/delivery-status;
+	name="details.txt"
+Content-Transfer-Encoding: 7bit
+Content-Disposition: attachment;
+	filename="details.txt"
+
+Reporting-MTA: dns; mail.willbrook.com
+X-Postfix-Queue-ID: D7A283820A5E
+X-Postfix-Sender: rfc822; sandy.claunch@willbrook.com
+Arrival-Date: Thu, 15 Nov 2012 14:45:39 -0600 (CST)
+
+Final-Recipient: rfc822; dcraig@merc-mercer.org
+Original-Recipient: rfc822;dcraig@merc-mercer.org
+Action: failed
+Status: 5.0.0
+Remote-MTA: dns; vxrelay.merc-mercer.org
+Diagnostic-Code: smtp; 550 Denied by policy
+
+Final-Recipient: rfc822; krutke@merc-mercer.org
+Original-Recipient: rfc822;krutke@merc-mercer.org
+Action: failed
+Status: 5.0.0
+Remote-MTA: dns; vxrelay.merc-mercer.org
+Diagnostic-Code: smtp; 550 Denied by policy
+
+------=_NextPart_000_2F342_01D11176.2B2A7170
+Content-Type: message/rfc822
+Content-Transfer-Encoding: 7bit
+Content-Disposition: attachment
+
+Received: from SandyClaPC (unknown [192.168.0.254])
+	by mail.willbrook.com (Postfix) with ESMTPA id D7A283820A5E;
+	Thu, 15 Nov 2012 14:45:39 -0600 (CST)
+Return-Path: <sandy.claunch@willbrook.com>
+From: "Sandra J Claunch" <sandy.claunch@willbrook.com>
+To: "'Rutke, Kathy'" <krutke@merc-mercer.org>
+Cc: "'Dave Rice'" <dave.rice@willbrook.com>,
+	<gregory.marks@willbrook.com>,
+	"'Craig, Deanna'" <dcraig@merc-mercer.org>
+References: <005101cdbc50$89437f00$9bca7d00$@willbrook.com> <0072CB76C2C41F4D97ED79CED0F4887017D86EEE@MERC-EXCH10.mercproduction.merc.mercer.edu>
+In-Reply-To: <0072CB76C2C41F4D97ED79CED0F4887017D86EEE@MERC-EXCH10.mercproduction.merc.mercer.edu>
+Subject: RE: Need information re: travel to Korea
+Date: Thu, 15 Nov 2012 14:57:34 -0500
+Message-ID: <000c01cdc36b$74adda00$5e098e00$@willbrook.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_2F33E_01D11176.2B2A7170"
+X-Mailer: Microsoft Outlook 14.0
+Thread-Index: AQIuD2/JRHvGKN9iYPMlApDxGsgPlwFpjC2NAem58RA=
+Content-Language: en-us
+
+This is a multipart message in MIME format.
+
+------=_NextPart_000_2F33E_01D11176.2B2A7170
+Content-Type: text/plain;
+	charset="us-ascii"
+Content-Transfer-Encoding: 7bit
+
+Kathy
+
+We have traveled with the Army and I worked the requirements, basically we
+had (2) sets of requirements - the POC from the unit we supported in Korea
+sent us a list of documents needed at which point we began the process and
+sent via AMRDEC safe site and he submitted to the Korean government, there
+was a 2nd set of requirements in which the Prime sent forth such as
+information for SPOT for the LOA's to be issued.I do know for a fact that
+the LOA's will have to be issued by the Prime, in this case MERC, however,
+with all of this being said I don't believe we can actually start any of
+this until we have a set date.my main question to you was what do you
+require as the Prime for the guys to travel - typically that includes DBA
+insurance information, etc.
+
+ 
+
+I am attaching a link for you that might help if this question arises with
+other contracts, it is what the guys on the Army contract use to get basic
+requirements for International Travel, also understanding that certain
+units have requirements above the ones listed on this website. I assume
+the requirements are the same regardless of branch of service but again,
+that was a question I was hoping you guys could answer, LOL.
+
+ 
+
+https://www.fcg.pentagon.mil/fcg.cfm
+
+ 
+
+Together we should be able to muddle through this hopefully with as little
+hassle to the traveler as possible.
+
+ 
+
+Sandra Jones-Claunch
+
+Willbrook Solutions, Inc.
+
+Supporting Utility Helicopter Project Office
+
+4811-A Bradford Drive
+
+Huntsville, AL  35805
+
+256-864-8731 ext 118
+
+256-603-7890 Mobile
+
+ 
+
+From: Rutke, Kathy [mailto:krutke@merc-mercer.org] 
+Sent: Thursday, November 15, 2012 1:29 PM
+To: 'Sandra J Claunch'
+Cc: Dave Rice; gregory.marks@willbrook.com; Craig, Deanna
+Subject: RE: Need information re: travel to Korea
+
+ 
+
+Sandra,
+
+ 
+
+I'm sorry to take so long to get back to you, but I was waiting to hear
+back from our contracting office and they did not know what needed to be
+done. I then contacted MSgt Hardy and he indicated that "Willbrook is very
+familiar with this process as they travel to South Korea quite often
+supporting the Army." Is it possible to speak with someone there to find
+out what is needed as far as documents for getting into S. Korea? You will
+still need to get PCO approval for the travel as usual, so you will need
+to send a travel request.
+
+ 
+
+Kathy
+
+ 
+
+ 
+
+From: Sandra J Claunch [mailto:sandy.claunch@willbrook.com] 
+Sent: Tuesday, November 06, 2012 1:57 PM
+To: Craig, Deanna; Rutke, Kathy
+Cc: Dave Rice; gregory.marks@willbrook.com
+Subject: RE: Need information re: travel to Korea
+
+ 
+
+Deanna/Kathy
+
+I just wanted to follow up on this email - looks like the travel will
+possibly take place in January, have you been able to find out any
+requirements and also what contractual requirements and paperwork will you
+need from us, I would assume as the Prime your folks would be the ones to
+request the LOA, etc. Please let me know, thanks for the help.
+
+ 
+
+Sandra Jones-Claunch
+
+Willbrook Solutions, Inc.
+
+Supporting Utility Helicopter Project Office
+
+4811-A Bradford Drive
+
+Huntsville, AL  35805
+
+256-864-8731 ext 118
+
+256-603-7890 Mobile
+
+ 
+
+From: Sandra J Claunch [mailto:sandy.claunch@willbrook.com] 
+Sent: Wednesday, October 17, 2012 1:13 PM
+To: dcraig@merc-mercer.org; krutke@merc-mercer.org
+Cc: Dave Rice (dave.rice@willbrook.com)
+Subject: Need information re: travel to Korea
+
+ 
+
+Deanna/Kathy
+
+We are anticipating travel on the IVHMS task that will include travel to
+Korea, do either of you happen to know if there are any specific
+requirements related to the contract required? We do not have a firm date
+as of yet but anticipate it will be December or January, any advice you
+have would be greatly appreciated, we just want to make sure we have all
+bases covered if the travel requirement does come thru.
+
+ 
+
+Thanks so much.
+
+ 
+
+Sandra Jones-Claunch
+
+Willbrook Solutions, Inc.
+
+Supporting Utility Helicopter Project Office
+
+4811-A Bradford Drive
+
+Huntsville, AL  35805
+
+256-864-8731 ext 118
+
+256-603-7890 Mobile
+
+ 
+
+
+------=_NextPart_000_2F33E_01D11176.2B2A7170
+Content-Type: text/html;
+	boundary="----=_NextPart_000_001B_01CDC33C.DF814EE0";
+	charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+<html xmlns:v=3D"urn:schemas-microsoft-com:vml" =
+xmlns:o=3D"urn:schemas-microsoft-com:office:office" =
+xmlns:w=3D"urn:schemas-microsoft-com:office:word" =
+xmlns:m=3D"http://schemas.microsoft.com/office/2004/12/omml" =
+xmlns=3D"http://www.w3.org/TR/REC-html40"><head><meta =
+http-equiv=3DContent-Type content=3D"text/html; =
+charset=3Dus-ascii"><meta name=3DGenerator content=3D"Microsoft Word 14 =
+(filtered medium)"><style><!--
+/* Font Definitions */
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+@font-face
+	{font-family:Tahoma;
+	panose-1:2 11 6 4 3 5 4 4 2 4;}
+/* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0in;
+	margin-bottom:.0001pt;
+	font-size:11.0pt;
+	font-family:"Calibri","sans-serif";}
+a:link, span.MsoHyperlink
+	{mso-style-priority:99;
+	color:blue;
+	text-decoration:underline;}
+a:visited, span.MsoHyperlinkFollowed
+	{mso-style-priority:99;
+	color:purple;
+	text-decoration:underline;}
+p.MsoAcetate, li.MsoAcetate, div.MsoAcetate
+	{mso-style-priority:99;
+	mso-style-link:"Balloon Text Char";
+	margin:0in;
+	margin-bottom:.0001pt;
+	font-size:8.0pt;
+	font-family:"Tahoma","sans-serif";}
+span.BalloonTextChar
+	{mso-style-name:"Balloon Text Char";
+	mso-style-priority:99;
+	mso-style-link:"Balloon Text";
+	font-family:"Tahoma","sans-serif";}
+span.EmailStyle19
+	{mso-style-type:personal;
+	font-family:"Calibri","sans-serif";
+	color:windowtext;}
+span.EmailStyle20
+	{mso-style-type:personal;
+	font-family:"Calibri","sans-serif";
+	color:#1F497D;}
+span.EmailStyle21
+	{mso-style-type:personal;
+	font-family:"Arial","sans-serif";
+	color:#1F497D;
+	font-weight:normal;
+	font-style:normal;
+	text-decoration:none none;}
+span.EmailStyle22
+	{mso-style-type:personal-reply;
+	font-family:"Calibri","sans-serif";
+	color:#1F497D;}
+.MsoChpDefault
+	{mso-style-type:export-only;
+	font-size:10.0pt;}
+@page WordSection1
+	{size:8.5in 11.0in;
+	margin:1.0in 1.0in 1.0in 1.0in;}
+div.WordSection1
+	{page:WordSection1;}
+--></style><!--[if gte mso 9]><xml>
+<o:shapedefaults v:ext=3D"edit" spidmax=3D"1026" />
+</xml><![endif]--><!--[if gte mso 9]><xml>
+<o:shapelayout v:ext=3D"edit">
+<o:idmap v:ext=3D"edit" data=3D"1" />
+</o:shapelayout></xml><![endif]--></head><body lang=3DEN-US link=3Dblue =
+vlink=3Dpurple><div class=3DWordSection1><p =
+class=3DMsoNormal>Kathy<o:p></o:p></p><p class=3DMsoNormal>We have =
+traveled with the Army and I worked the requirements, basically we had =
+(2) sets of requirements &#8211; the POC from the unit we supported in =
+Korea sent us a list of documents needed at which point we began the =
+process and sent via AMRDEC safe site and he submitted to the Korean =
+government, there was a 2<sup>nd</sup> set of requirements in which the =
+Prime sent forth such as information for SPOT for the LOA&#8217;s to be =
+issued&#8230;I do know for a fact that the LOA&#8217;s will have to be =
+issued by the Prime, in this case MERC, however, with all of this being =
+said I don&#8217;t believe we can actually start any of this until we =
+have a set date&#8230;my main question to you was what do you require as =
+the Prime for the guys to travel &#8211; typically that includes DBA =
+insurance information, etc.<o:p></o:p></p><p =
+class=3DMsoNormal><o:p>&nbsp;</o:p></p><p class=3DMsoNormal>I am =
+attaching a link for you that might help if this question arises with =
+other contracts, it is what the guys on the Army contract use to get =
+basic requirements for International Travel, also understanding that =
+certain units have requirements above the ones listed on this website. I =
+assume the requirements are the same regardless of branch of service but =
+again, that was a question I was hoping you guys could answer, =
+LOL.<o:p></o:p></p><p class=3DMsoNormal><o:p>&nbsp;</o:p></p><p =
+class=3DMsoNormal><a =
+href=3D"https://www.fcg.pentagon.mil/fcg.cfm">https://www.fcg.pentagon.mi=
+l/fcg.cfm</a><o:p></o:p></p><p class=3DMsoNormal><o:p>&nbsp;</o:p></p><p =
+class=3DMsoNormal>Together we should be able to muddle through this =
+hopefully with as little hassle to the traveler as possible.<span =
+style=3D'color:#1F497D'><o:p></o:p></span></p><p class=3DMsoNormal><span =
+style=3D'color:#1F497D'><o:p>&nbsp;</o:p></span></p><div><p =
+class=3DMsoNormal><span style=3D'color:#1F497D'>Sandra =
+Jones-Claunch<o:p></o:p></span></p><p class=3DMsoNormal><b><i><span =
+style=3D'color:#0070C0'>Willbrook Solutions, =
+Inc.<o:p></o:p></span></i></b></p><p class=3DMsoNormal><span =
+style=3D'color:#1F497D'>Supporting Utility Helicopter Project =
+Office<o:p></o:p></span></p><p class=3DMsoNormal><span =
+style=3D'color:#1F497D'>4811-A Bradford Drive<o:p></o:p></span></p><p =
+class=3DMsoNormal><span style=3D'color:#1F497D'>Huntsville, AL&nbsp; =
+35805<o:p></o:p></span></p><p class=3DMsoNormal><span =
+style=3D'color:#1F497D'>256-864-8731 ext 118<o:p></o:p></span></p><p =
+class=3DMsoNormal><span style=3D'color:#1F497D'>256-603-7890 =
+Mobile<o:p></o:p></span></p></div><p class=3DMsoNormal><span =
+style=3D'color:#1F497D'><o:p>&nbsp;</o:p></span></p><div><div =
+style=3D'border:none;border-top:solid #B5C4DF 1.0pt;padding:3.0pt 0in =
+0in 0in'><p class=3DMsoNormal><b><span =
+style=3D'font-size:10.0pt;font-family:"Tahoma","sans-serif"'>From:</span>=
+</b><span style=3D'font-size:10.0pt;font-family:"Tahoma","sans-serif"'> =
+Rutke, Kathy [mailto:krutke@merc-mercer.org] <br><b>Sent:</b> Thursday, =
+November 15, 2012 1:29 PM<br><b>To:</b> 'Sandra J Claunch'<br><b>Cc:</b> =
+Dave Rice; gregory.marks@willbrook.com; Craig, Deanna<br><b>Subject:</b> =
+RE: Need information re: travel to =
+Korea<o:p></o:p></span></p></div></div><p =
+class=3DMsoNormal><o:p>&nbsp;</o:p></p><p class=3DMsoNormal><span =
+style=3D'font-family:"Arial","sans-serif";color:#1F497D'>Sandra,<o:p></o:=
+p></span></p><p class=3DMsoNormal><span =
+style=3D'font-family:"Arial","sans-serif";color:#1F497D'><o:p>&nbsp;</o:p=
+></span></p><p class=3DMsoNormal><span =
+style=3D'font-family:"Arial","sans-serif";color:#1F497D'>I&#8217;m sorry =
+to take so long to get back to you, but I was waiting to hear back from =
+our contracting office and they did not know what needed to be done. I =
+then contacted MSgt Hardy and he indicated that &#8220;Willbrook is very =
+familiar with this process as they travel to South Korea quite often =
+supporting the Army.&#8221; Is it possible to speak with someone there =
+to find out what is needed as far as documents for getting into S. =
+Korea? You will still need to get PCO approval for the travel as usual, =
+so you will need to send a travel request.<o:p></o:p></span></p><p =
+class=3DMsoNormal><span =
+style=3D'font-family:"Arial","sans-serif";color:#1F497D'><o:p>&nbsp;</o:p=
+></span></p><p class=3DMsoNormal><span =
+style=3D'font-family:"Arial","sans-serif";color:#1F497D'>Kathy<o:p></o:p>=
+</span></p><p class=3DMsoNormal><span =
+style=3D'font-family:"Arial","sans-serif";color:#1F497D'><o:p>&nbsp;</o:p=
+></span></p><p class=3DMsoNormal><span =
+style=3D'font-family:"Arial","sans-serif";color:#1F497D'><o:p>&nbsp;</o:p=
+></span></p><div><div style=3D'border:none;border-top:solid #B5C4DF =
+1.0pt;padding:3.0pt 0in 0in 0in'><p class=3DMsoNormal><b><span =
+style=3D'font-size:10.0pt;font-family:"Tahoma","sans-serif"'>From:</span>=
+</b><span style=3D'font-size:10.0pt;font-family:"Tahoma","sans-serif"'> =
+Sandra J Claunch [<a =
+href=3D"mailto:sandy.claunch@willbrook.com">mailto:sandy.claunch@willbroo=
+k.com</a>] <br><b>Sent:</b> Tuesday, November 06, 2012 1:57 =
+PM<br><b>To:</b> Craig, Deanna; Rutke, Kathy<br><b>Cc:</b> Dave Rice; <a =
+href=3D"mailto:gregory.marks@willbrook.com">gregory.marks@willbrook.com</=
+a><br><b>Subject:</b> RE: Need information re: travel to =
+Korea<o:p></o:p></span></p></div></div><p =
+class=3DMsoNormal><o:p>&nbsp;</o:p></p><p class=3DMsoNormal><span =
+style=3D'color:#1F497D'>Deanna/Kathy<o:p></o:p></span></p><p =
+class=3DMsoNormal><span style=3D'color:#1F497D'>I just wanted to follow =
+up on this email &#8211; looks like the travel will possibly take place =
+in January, have you been able to find out any requirements and also =
+what contractual requirements and paperwork will you need from us, I =
+would assume as the Prime your folks would be the ones to request the =
+LOA, etc. Please let me know, thanks for the =
+help.<o:p></o:p></span></p><p class=3DMsoNormal><span =
+style=3D'color:#1F497D'><o:p>&nbsp;</o:p></span></p><div><p =
+class=3DMsoNormal><span style=3D'color:#1F497D'>Sandra =
+Jones-Claunch<o:p></o:p></span></p><p class=3DMsoNormal><b><i><span =
+style=3D'color:#0070C0'>Willbrook Solutions, =
+Inc.<o:p></o:p></span></i></b></p><p class=3DMsoNormal><span =
+style=3D'color:#1F497D'>Supporting Utility Helicopter Project =
+Office<o:p></o:p></span></p><p class=3DMsoNormal><span =
+style=3D'color:#1F497D'>4811-A Bradford Drive<o:p></o:p></span></p><p =
+class=3DMsoNormal><span style=3D'color:#1F497D'>Huntsville, AL&nbsp; =
+35805<o:p></o:p></span></p><p class=3DMsoNormal><span =
+style=3D'color:#1F497D'>256-864-8731 ext 118<o:p></o:p></span></p><p =
+class=3DMsoNormal><span style=3D'color:#1F497D'>256-603-7890 =
+Mobile<o:p></o:p></span></p></div><p class=3DMsoNormal><span =
+style=3D'color:#1F497D'><o:p>&nbsp;</o:p></span></p><div><div =
+style=3D'border:none;border-top:solid #B5C4DF 1.0pt;padding:3.0pt 0in =
+0in 0in'><p class=3DMsoNormal><b><span =
+style=3D'font-size:10.0pt;font-family:"Tahoma","sans-serif"'>From:</span>=
+</b><span style=3D'font-size:10.0pt;font-family:"Tahoma","sans-serif"'> =
+Sandra J Claunch [<a =
+href=3D"mailto:sandy.claunch@willbrook.com">mailto:sandy.claunch@willbroo=
+k.com</a>] <br><b>Sent:</b> Wednesday, October 17, 2012 1:13 =
+PM<br><b>To:</b> <a =
+href=3D"mailto:dcraig@merc-mercer.org">dcraig@merc-mercer.org</a>; <a =
+href=3D"mailto:krutke@merc-mercer.org">krutke@merc-mercer.org</a><br><b>C=
+c:</b> Dave Rice (<a =
+href=3D"mailto:dave.rice@willbrook.com">dave.rice@willbrook.com</a>)<br><=
+b>Subject:</b> Need information re: travel to =
+Korea<o:p></o:p></span></p></div></div><p =
+class=3DMsoNormal><o:p>&nbsp;</o:p></p><p =
+class=3DMsoNormal>Deanna/Kathy<o:p></o:p></p><p class=3DMsoNormal>We are =
+anticipating travel on the IVHMS task that will include travel to Korea, =
+do either of you happen to know if there are any specific requirements =
+related to the contract required? We do not have a firm date as of yet =
+but anticipate it will be December or January, any advice you have would =
+be greatly appreciated, we just want to make sure we have all bases =
+covered if the travel requirement does come thru.<o:p></o:p></p><p =
+class=3DMsoNormal><o:p>&nbsp;</o:p></p><p class=3DMsoNormal>Thanks so =
+much.<o:p></o:p></p><p class=3DMsoNormal><o:p>&nbsp;</o:p></p><p =
+class=3DMsoNormal>Sandra Jones-Claunch<o:p></o:p></p><p =
+class=3DMsoNormal><b><i><span style=3D'color:#0070C0'>Willbrook =
+Solutions, Inc.<o:p></o:p></span></i></b></p><p =
+class=3DMsoNormal>Supporting Utility Helicopter Project =
+Office<o:p></o:p></p><p class=3DMsoNormal>4811-A Bradford =
+Drive<o:p></o:p></p><p class=3DMsoNormal>Huntsville, AL&nbsp; =
+35805<o:p></o:p></p><p class=3DMsoNormal>256-864-8731 ext =
+118<o:p></o:p></p><p class=3DMsoNormal>256-603-7890 =
+Mobile<o:p></o:p></p><p =
+class=3DMsoNormal><o:p>&nbsp;</o:p></p></div></body></html>
+------=_NextPart_000_2F33E_01D11176.2B2A7170--
+
+------=_NextPart_000_2F342_01D11176.2B2A7170--
+

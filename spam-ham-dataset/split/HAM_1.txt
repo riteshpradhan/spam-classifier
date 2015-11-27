@@ -1,0 +1,32 @@
+From somebody@mail.cs.uah.edu  Thu May 28 21:33:32 2015
+Return-Path: <jonesjd+caf_=jjones=cs.uah.edu@uah.edu>
+From: <uahtomcat@apps.uah.edu>
+To: <off-board-admin@uah.edu>
+Cc: <email-support@uah.edu>
+Subject: Off-boarded accounts list
+Date: Thu, 28 May 2015 21:33:32 -0500
+Message-ID: <2072721888.322.1432866812342.JavaMail.uahtomcat@apps.uah.edu>
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="us-ascii"
+Content-Transfer-Encoding: 7bit
+X-Mailer: Microsoft Outlook 14.0
+List-Unsubscribe: <mailto:googlegroups-manage+946607475097+unsubscribe@googlegroups.com>, <http://groups.google.com/a/uah.edu/group/off-board-admin/subscribe>
+Thread-Index: AQJ1Iee2b6ktfaCY7YI8YupFZbcL0g==
+List-Help: <http://support.google.com/a/uah.edu/bin/topic.py?topic=25838>, <mailto:off-board-admin+help@uah.edu>
+X-OlkEid: 5284F7E4326FE9EB3E2CFB4E9113E1909D3463F4
+X-IMAPbase: 1443806899 0000000100
+X-UID: 1
+Status: RO
+X-Keywords:                                                                      
+Content-Length: 152
+
+
+Off-boarded accounts:
+=============================
+
+ pv0004:
+     A25230921, Peter Veres
+     Previous affiliation: STAFF
+     Termination date: null
+

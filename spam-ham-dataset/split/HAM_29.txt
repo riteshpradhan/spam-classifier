@@ -1,0 +1,49 @@
+From somebody@mail.cs.uah.edu  Fri Aug 22 15:10:55 2014
+Return-Path: <raygun@cs.uah.edu>
+From: "Dr. Ramazan S. Aygun" <raygun@cs.uah.edu>
+To: "Josh Jones" <jjones@cs.uah.edu>
+References: <2be6601cfbe40$b32710e0$197532a0$@cs.uah.edu>
+In-Reply-To: <2be6601cfbe40$b32710e0$197532a0$@cs.uah.edu>
+Subject: Re: Construct 2
+Date: Fri, 22 Aug 2014 15:10:54 -0500
+Message-ID: <20140822200958.M57958@email.cs.uah.edu>
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+X-Mailer: Microsoft Outlook 14.0
+Thread-Index: AQIFo55ajbsZxYMSLZXzeiuLkIYnvwJ+Wqg4
+X-OlkEid: 52E403E5C30AF1DB63FC8A44A096F797957A7DE6
+X-UID: 29
+Status: RO
+X-Status: A
+X-Keywords:                                                                      
+Content-Length: 805
+
+Would you please install it on my system?
+
+Thanks,
+
+Dr. Ramazan S. Aygun, Associate Professor
+Computer Science Department             | Email: raygun@cs.uah.edu
+University of Alabama in Huntsville     | Phone: (256) 824 6455
+Technology Hall N360                    | FAX:   (256) 824 6239
+Huntsville, AL 35899                    | Web:
+http://www.cs.uah.edu/~raygun
+U.S.A.
+-----------------------------------------------------------------------------
+
+---------- Original Message -----------
+From: "Josh Jones" <jjones@cs.uah.edu>
+To: <raygun@cs.uah.edu>
+Sent: Fri, 22 Aug 2014 14:38:50 -0500
+Subject: Construct 2
+
+> Dr. Aygun,
+>
+> Erik finished putting Construct 2 on the network and it is in the
+> start menu and available now to all the lab machines.
+>
+> - Josh
+------- End of Original Message -------
+

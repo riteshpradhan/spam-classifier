@@ -1,0 +1,47 @@
+From somebody@linux.cs.uah.edu  Sun Jul 27 01:40:18 2014
+Return-Path: <ethel@walkstare.us>
+From: "Ethel" <ethel@walkstare.us>
+To: <jjones@cs.uah.edu>
+Subject: Heya
+Date: Sun, 27 Jul 2014 01:19:22 -0500
+Message-ID: <15698660.13285037@walkstare.us>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_28CB4_01CFBDFC.9E07BFF0"
+X-Mailer: Microsoft Outlook 14.0
+thread-index: AQKYKyCpaQP0uaE34XRHJKTQcmYOfQ==
+X-OlkEid: 5204CA2F23EB66102DC48B4987A3764A90E203D2
+X-UID: 26
+Status: O
+X-Keywords:                                                                      
+Content-Length: 687
+
+This is a multipart message in MIME format.
+
+------=_NextPart_000_28CB4_01CFBDFC.9E07BFF0
+Content-Type: text/plain;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: 7bit
+
+  <http://www.morepeak.us/unsubscribe.php?email=jjones@cs.uah.edu> 
+
+------=_NextPart_000_28CB4_01CFBDFC.9E07BFF0
+Content-Type: text/html;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+
+<html>
+<head>
+<meta content=3D"text/html; charset=3Dutf-8" =
+http-equiv=3D"content-type">
+<meta http-equiv=3D"Content-Language" content=3D"en-us"/>
+</head>
+<body>
+<img =
+src=3D"http://www.morepeak.us/unsubscribe.php?email=3Djjones@cs.uah.edu">=
+
+</body>
+</html>
+------=_NextPart_000_28CB4_01CFBDFC.9E07BFF0--
+

@@ -1,0 +1,33 @@
+From somebody@mail.cs.uah.edu  Wed Nov 21 19:39:52 2012
+Return-Path: <zhouchuanxi@gmail.com>
+From: "Chuanxi" <zhouchuanxi@gmail.com>
+To: <support@cs.uah.edu>
+Subject: Help - cannot create any files
+Date: Wed, 21 Nov 2012 21:02:13 -0500
+Message-ID: <50AD87A5.7020500@gmail.com>
+MIME-Version: 1.0
+Content-Type: text/plain;
+	format=flowed;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: 7bit
+X-Mailer: Microsoft Outlook 14.0
+Thread-Index: AQIsQY7ulvptSR6VjBuVL/L4e9M5EA==
+X-OlkEid: 520407E5928ECD6D045C304BA06202531C0E6A40
+X-UID: 54
+Status: RO
+X-Keywords:                                                                      
+Content-Length: 346
+
+Hi,
+
+I can log in computer lab from my laptop via 146.229.232.21. But I 
+cannot create any file in my home directory. Could you please help me 
+figure it out what's the problem? We have a assignment due next Monday.
+
+Chuanxi  (cz0003)
+
+
+cz0003@voyager:~/cs641> mkdir assignment4
+mkdir: cannot create directory `assignment4': Disk quota exceeded
+
+

@@ -1,0 +1,103 @@
+From somebody@linux.cs.uah.edu  Fri Aug 22 11:20:20 2014
+Return-Path: <support@cs.uah.edu>
+From: <support@cs.uah.edu>
+To: <support@cs.uah.edu>
+Subject: Configuration Manager Malware Detected Alert: Malware detection alert for collection: All Systems
+Date: Fri, 22 Aug 2014 11:00:52 -0500
+Message-ID: <20140822162019.E3CA51FF6DE@linux.cs.uah.edu>
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="US-ASCII"
+Content-Transfer-Encoding: 7bit
+X-Mailer: Microsoft Outlook 14.0
+thread-index: AQNumGdA/af5hb8e8ANwz1ePLd+U8Q==
+X-OlkEid: 5264463127F4EA740B8FC74CBBCA691B1A699492
+X-UID: 31
+Status: RO
+X-Keywords:                                                                     
+Content-Length: 3071
+
+Configuration Manager Endpoint Protection has detected malware on one or
+more computers in your organization 
+
+Collection name: All Systems
+
+Malware Name: Worm:MSIL/Mofin.A
+Number of infections: 3
+Last detection time(UTC time): 8/22/2014 3:55:12 PM
+
+These are the infections of this malware:
+1. Computer name: CSPC9205.cs.uah.edu
+Domain: CS
+Detection time(UTC time): 8/22/2014 3:55:12 PM
+Malware file path:
+file:_F:\movies.exe;filelocalcopy:_\\?\c:\ProgramData\Microsoft\Microsoft
+Antimalware\LocalCopy\{92FDF728-BEBD-4568-A0EE-99F96F2DC019}-movies.exe 
+Remediation action: Remove
+Action status: Succeeded
+
+2. Computer name: CSPC9205.cs.uah.edu
+Domain: CS
+Detection time(UTC time): 8/22/2014 2:32:21 PM
+Malware file path:
+file:_F:\movies.exe;filelocalcopy:_\\?\c:\ProgramData\Microsoft\Microsoft
+Antimalware\LocalCopy\{F44803FE-55D4-481A-9283-E85673349872}-movies.exe 
+Remediation action: Remove
+Action status: Succeeded
+
+3. Computer name: CSPC9205.cs.uah.edu
+Domain: CS
+Detection time(UTC time): 8/22/2014 2:32:01 PM
+Malware file path:
+file:_F:\movies.exe;filelocalcopy:_\\?\c:\ProgramData\Microsoft\Microsoft
+Antimalware\LocalCopy\{11FB46AF-9893-4F10-AF08-D3C925B45CA4}-movies.exe 
+Remediation action: Remove
+Action status: Succeeded
+
+Malware Name: Worm:Win32/Gamarue.gen!lnk
+Number of infections: 3
+Last detection time(UTC time): 8/22/2014 3:55:10 PM
+
+These are the infections of this malware:
+1. Computer name: CSPC9205.cs.uah.edu
+Domain: CS
+Detection time(UTC time): 8/22/2014 3:55:10 PM
+Malware file path: containerfile:_F:\PRIYA2ND PD
+(4GB).lnk;file:_F:\PRIYA2ND PD
+(4GB).lnk->[CMDEmbedded];filelocalcopy:_c:\ProgramData\Microsoft\Microsoft
+Antimalware\LocalCopy\{5B82953D-85CC-4166-B291-B82EC8347C73}-PRIYA2ND PD
+(4GB).lnk->[CMDEmbedded];filelocalcopy:_\\?\c:\ProgramData\Microsoft\Micro
+soft Antimalware\LocalCopy\{5B82953D-85CC-4166-B291-B82EC8347C73}-PRIYA2ND
+PD (4GB).lnk 
+Remediation action: Remove
+Action status: Succeeded
+
+2. Computer name: CSPC9205.cs.uah.edu
+Domain: CS
+Detection time(UTC time): 8/22/2014 2:32:21 PM
+Malware file path: file:_F:\PRIYA2ND PD
+(4GB).lnk->[CMDEmbedded];filelocalcopy:_\\?\c:\ProgramData\Microsoft\Micro
+soft Antimalware\LocalCopy\{44142F1C-02FF-4728-915D-82621B110F13}-PRIYA2ND
+PD (4GB).lnk 
+Remediation action: Remove
+Action status: Succeeded
+
+3. Computer name: CSPC9205.cs.uah.edu
+Domain: CS
+Detection time(UTC time): 8/22/2014 2:31:59 PM
+Malware file path: containerfile:_F:\PRIYA2ND PD
+(4GB).lnk;file:_F:\PRIYA2ND PD
+(4GB).lnk->[CMDEmbedded];filelocalcopy:_c:\ProgramData\Microsoft\Microsoft
+Antimalware\LocalCopy\{E2D8163B-CAAC-4F9D-AFB5-4CA070B15D87}-PRIYA2ND PD
+(4GB).lnk->[CMDEmbedded];filelocalcopy:_\\?\c:\ProgramData\Microsoft\Micro
+soft Antimalware\LocalCopy\{E2D8163B-CAAC-4F9D-AFB5-4CA070B15D87}-PRIYA2ND
+PD (4GB).lnk 
+Remediation action: Remove
+Action status: Succeeded
+To view further information about malware activity in your organization,
+run Malware Details Report. 
+
+Note: No additional Malware Detection alerts will be generated for these
+computers if no new infections are found in the next 24 hours.
+
+

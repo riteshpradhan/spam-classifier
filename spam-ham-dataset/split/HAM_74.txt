@@ -1,0 +1,101 @@
+From somebody@mail.cs.uah.edu  Mon Feb 18 11:23:24 2013
+Return-Path: <rodney.womack-1@nasa.gov>
+From: "Womack, Rodney \(MSFC-IS40\)[EMCO TECHNOLOGIES INC]" <rodney.womack-1@nasa.gov>
+To: "'jjones'" <jjones@mail.willbrook.com>
+References: <CAJQmzATEAzFQe45VZEQrWac4=6iFN12VRDcKpBW6ZsNtvs4oOQ@mail.gmail.com> <40C2A75D67B9D14797A1939E7D144E910109BBFBB890@NDMSSCC04.ndc.nasa.gov> <6c61827920bd2b145f7cb43ab37b3478@mail.willbrook.com>
+In-Reply-To: <6c61827920bd2b145f7cb43ab37b3478@mail.willbrook.com>
+Subject: RE: Email issue
+Date: Mon, 18 Feb 2013 11:14:58 -0500
+Message-ID: <40C2A75D67B9D14797A1939E7D144E910109BBFBB893@NDMSSCC04.ndc.nasa.gov>
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+X-Mailer: Microsoft Outlook 14.0
+Thread-Index: AQHEFnMwVQFrpJB+SeaHhFMlh/La/wJM5SmfAUzlI3cA3UmQjg==
+Content-Language: en-us
+X-OlkEid: 526422E51463DB1D32192046AE95F47A46BD689A
+X-UID: 74
+Status: RO
+X-Keywords:                                                                     
+Content-Length: 2595
+
+Excellent.
+
+-----Original Message-----
+From: jjones [mailto:jjones@mail.willbrook.com]
+Sent: Monday, February 18, 2013 11:22 AM
+To: Womack, Rodney (MSFC-IS40)[EMCO TECHNOLOGIES INC]
+Subject: RE: Email issue
+
+
+
+That fixed it! Thanks so much!
+
+- Josh
+
+On Mon, 18 Feb 2013 09:30:19 -0600, "Womack, Rodney (MSFC-IS40)[EMCO 
+TECHNOLOGIES INC]" <rodney.womack-1@nasa.gov> wrote:
+> You need to review your postfix configuration. NASA uses both IPv4 and
+> IPv6. Postffix comes preconfigured to use both but if your
+infrastructure
+> is only using IPv4 addressing, when a dns query is made to one of our
+post
+> forwarders that is using IPv6, that address is returned which it can't
+be
+> found if you are not using IPv6. If you are getting an NDR of :
+> Network
+is
+> unreachable> #SMTP#, this is what the problem is and you just need to
+> configure your postfix servers to use IPv4 only.
+>
+>
+> -----Original Message-----
+> From: d1g1talfr3ak@gmail.com [mailto:d1g1talfr3ak@gmail.com] On Behalf
+Of
+> Josh Jones
+> Sent: Sunday, February 17, 2013 5:34 PM
+> To: Womack, Rodney (MSFC-IS40)[EMCO TECHNOLOGIES INC]
+> Subject: Email issue
+>
+> Rodney,
+>
+> I am the System Administrator for Willbrook Solutions. About a week
+> ago all emails sent from our mail server to nasa email accounts
+> stopped
+going
+> through. We can still send emails to anyone else at any other domain
+with
+> no problem. We can also still receive emails from everyone, including
+nasa
+> email accounts. I was wondering if you would be the correct person to
+talk
+> to to try and help me figure out how to resolve this.
+>
+> When we first setup our in-house mail server we had to verify it
+> through emailreg.org so that it could get through to the .mil
+> accounts, such as
+our
+> customers on the arsenal. Since we did that we have had no issues
+> until this started about a week ago. The only change we have made
+> recently to
+our
+> mail server, is we recently switched the SSL certificate from our
+original
+> self-signed one to one we purchased through a valid certificate
+authority.
+> So I have 2 ideas, maybe you will have others.
+>
+> 1) Has NASA added any requirement for domain verification such as the
+> emailreg.org that the .MIL servers use?
+> 2) Is it possible that the NASA mail server is not trusting our emails
+now
+> because it detects our certificate changed?
+>
+> If you have any suggestions I would be more than willing to try
+> anything on our end. Half of our company does NASA work and this has
+> been a real impediment to communicating with our customers this past week.
+>
+> Thanks for any help you can provide,
+> Josh Jones
+

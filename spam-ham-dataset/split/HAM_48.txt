@@ -1,0 +1,57 @@
+From somebody@mail.cs.uah.edu  Thu Jul 24 08:03:25 2014
+Return-Path: <liw@uah.edu>
+Reply-To: "Wei Li" <Wei.Li@uah.edu>
+From: "Wei Li" <liw@uah.edu>
+To: <jjones@cs.uah.edu>
+Subject: my office desktop
+Date: Thu, 24 Jul 2014 07:48:03 -0500
+Message-ID: <E51D44CBF8AF494298F7C0C92D5AE6FD@WEI864>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_2F08F_01D11174.22D79F90"
+X-Mailer: Microsoft Outlook 14.0
+Thread-Index: AQIhZ4Zjfgxtf54X8h143ctPVZ1xYQ==
+X-OlkEid: 524406E5D76D1943A3A01B469C49E73A4BB1030B
+X-UID: 48
+Status: RO
+X-Status: A
+X-Keywords:                                                                      
+Content-Length: 866
+
+This is a multipart message in MIME format.
+
+------=_NextPart_000_2F08F_01D11174.22D79F90
+Content-Type: text/plain;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: 7bit
+
+Mr. Jones,
+ 
+Would you please turn on my office desktop for me?  Thanks.
+ 
+ 
+Wei Li
+Office: N352
+
+------=_NextPart_000_2F08F_01D11174.22D79F90
+Content-Type: text/html;
+	boundary="----=_NextPart_000_0012_01CFA713.99076690";
+	charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+<HTML><HEAD></HEAD>
+<BODY dir=3Dltr>
+<DIV dir=3Dltr>
+<DIV style=3D"FONT-SIZE: 12pt; FONT-FAMILY: 'Times New Roman'; COLOR: =
+#000000">
+<DIV>Mr. Jones,</DIV>
+<DIV>&nbsp;</DIV>
+<DIV>Would you please turn on my office desktop for me?&nbsp; =
+Thanks.</DIV>
+<DIV>&nbsp;</DIV>
+<DIV>&nbsp;</DIV>
+<DIV>Wei Li</DIV>
+<DIV>Office: N352</DIV></DIV></DIV></BODY></HTML>
+
+------=_NextPart_000_2F08F_01D11174.22D79F90--
+

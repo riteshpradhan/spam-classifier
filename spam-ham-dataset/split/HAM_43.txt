@@ -1,0 +1,49 @@
+From somebody@mail.cs.uah.edu  Fri Aug 15 12:31:05 2014
+Return-Path: <jonesjd+caf_=jjones=cs.uah.edu@uah.edu>
+From: "Jason Winningham" <jason.winningham@uah.edu>
+To: "systemadmin" <systemadmin@uah.edu>
+Subject: [SYSADMIN-L] DDNS roadmap?
+Date: Fri, 15 Aug 2014 12:10:34 -0500
+Message-ID: <C0007B6C-7DEF-46B1-9FD1-399C3F404925@uah.edu>
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: 7bit
+X-Mailer: Microsoft Outlook 14.0
+List-Unsubscribe: <mailto:googlegroups-manage+354606006801+unsubscribe@googlegroups.com>, <http://groups.google.com/a/uah.edu/group/systemadmin/subscribe>
+Thread-Index: AQIRu9JORLNJlV+f1/iMzdWojls6TA==
+List-Help: <http://support.google.com/a/uah.edu/bin/topic.py?topic=25838>, <mailto:systemadmin+help@uah.edu>
+X-OlkEid: 52A405E5D26F1D344AC11F42AC3BDF4CBDA37F6F
+X-UID: 43
+Status: O
+X-Keywords:                                                                     
+Content-Length: 1136
+
+
+I know OIT is working on AD as part of the identity management project.
+Where does DDNS fit in?  Is a dynamic DNS service that will serve the
+whole campus in the picture?
+
+We've got DDNS as part of our AD, but it is becoming more frequent that
+serious inconveniences arise when our AD and not-AD systems (mac, linux,
+the occasional standalone windows) need to communicate.  We haven't
+redirected all our systems' DNS lookups to our AD/DDNS servers, which
+would be an obvious solution, but if campus DDNS is on the horizon we can
+just tough it out.
+
+-Jason
+----------------------------------------
+Jason Winningham
+Computer Systems Engineer
+Electrical and Computer Engineering
+The University of Alabama in Huntsville
+
+-- 
+You received this message because you are subscribed to the Google Groups
+"systemadmin" group.
+To unsubscribe from this group and stop receiving emails from it, send an
+email to systemadmin+unsubscribe@uah.edu.
+To post to this group, send email to systemadmin@uah.edu.
+Visit this group at http://groups.google.com/a/uah.edu/group/systemadmin/.
+For more options, visit https://groups.google.com/a/uah.edu/d/optout.
+

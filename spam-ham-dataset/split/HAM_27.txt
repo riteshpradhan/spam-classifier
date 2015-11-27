@@ -1,0 +1,28 @@
+From somebody@mail.cs.uah.edu  Sat Aug 23 12:01:47 2014
+Return-Path: <root@cs.uah.edu>
+From: "root" <root@cs.uah.edu>
+To: <root@cs.uah.edu>
+Subject: cspc2121 patched
+Date: Sat, 23 Aug 2014 11:42:06 -0500
+Message-ID: <20140823164206.2B3A512699A@cspc2121.localdomain>
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="us-ascii"
+Content-Transfer-Encoding: 7bit
+X-Mailer: Microsoft Outlook 14.0
+Thread-Index: AQM6XzFX6e9lY9YExr5k1PL7jCG+jQ==
+X-OlkEid: 52A403E5315D0E35CDBD494CA6070CB027EE7318
+X-UID: 27
+Status: O
+X-Keywords:                                                                      
+Content-Length: 176
+
+[UPDATE] Sleeping...
+
+Patching system ... cspc2121 ... Sat Aug 23 11:41:59 CDT 2014 
+
+There are no updates available.
+
+
+...done patching cspc2121 Sat Aug 23 11:42:06 CDT 2014 
+

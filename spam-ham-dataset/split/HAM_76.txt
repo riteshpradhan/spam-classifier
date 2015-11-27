@@ -1,0 +1,128 @@
+From somebody@mail.cs.uah.edu  Sat Aug 15 19:23:12 2015
+Return-Path: <bounce-md_30172541.55cfd7eb.v1-188ec1365d924a15a78805472e69f99e@return-path.peerj.com>
+Reply-To: "PeerJ" <info@peerj.com>
+From: "PeerJ" <info@peerj.com>
+To: "Josh Jones" <jjones@cs.uah.edu>
+Subject: Peer Review acceptance confirmation for "Case study: A framework for cut-over management" (#CS-2015:08:6244:0:1:REVIEW)
+Date: Sat, 15 Aug 2015 19:23:07 -0500
+Message-ID: <30172541.20150816002307.55cfd7eb4757f4.86917384@mail133-31.atl131.mandrillapp.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_2F365_01D11176.9DC93F40"
+X-Mailer: Microsoft Outlook 14.0
+Thread-Index: AQGs06pYtiE8BvSqQ8Df9c+uyYMhBA==
+X-OlkEid: 52A422E5D468D3F689679D4EBC37B63FFB2D59D7
+X-UID: 76
+Status: RO
+X-Keywords:                                                                     
+Content-Length: 3817
+
+This is a multipart message in MIME format.
+
+------=_NextPart_000_2F365_01D11176.9DC93F40
+Content-Type: text/plain;
+	charset="UTF-8"
+Content-Transfer-Encoding: 8bit
+
+PeerJThank you for agreeing to review "Case study: A framework for cut-over 
+management" (#CS-2015:08:6244:0:1:REVIEW) for PeerJ - this email confirms 
+that you now have access to all the materials 
+<https://peerj.com/submissions/6244/reviews/61432/>  and that we expect your 
+review on or before September 5, 2015.
+
+
+We appreciate that academics are busy people and so we thank you for 
+agreeing to do this review. We strive to obtain prompt and informative 
+feedback for our authors - if you would like to, you can see the questions 
+that our reviewer form will ask you 
+<https://peerj.com/submissions/6244/reviews/61432/> . You should use this 
+same link when submitting your review.
+
+
+The Editorial Criteria that PeerJ applies 
+<https://peerj.com/about/editorial-criteria/>  can be viewed online. When 
+submitting your review, please bear these criteria in mind.
+
+We hope that you enjoy using the PeerJ system. Please visit our site if you 
+would like more information about PeerJ, or to submit articles yourself 
+<https://peerj.com/about/publications/> .
+
+Regards,
+
+The PeerJ Team
+peerj.com <https://peerj.com/>
+
+© 2015, PeerJ, Inc. PO Box 614 Corte Madera, CA 94976, USA
+
+------=_NextPart_000_2F365_01D11176.9DC93F40
+Content-Type: text/html;
+	boundary="_av-MrwKsGFFZHa4QVrrHuwOHA";
+	charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+
+<div =
+style=3D"font-family:helvetica,arial,sans-serif;font-size:14px;color:#444=
+;line-height:22px;background:#fff;width:600px">
+	<table =
+style=3D"font-family:helvetica,arial,sans-serif;font-size:14px;color:#444=
+;line-height:22px;background:#fff;width:600px">
+	<tr>
+		<td style=3D"padding:5px 10px;background:#333;color:#fff;"><span =
+style=3D"color:#00a6fc;font-weight:700">Peer</span>J</td>
+	</tr>
+	<tr>
+		<td style=3D"padding:10px;">
+			    <p>Thank you for agreeing to review "Case study: A framework for =
+cut-over management" (#CS-2015:08:6244:0:1:REVIEW) for PeerJ - this =
+email confirms that you now have <a =
+href=3D"https://peerj.com/submissions/6244/reviews/61432/">access to all =
+the materials</a> and that we expect your review on or before September =
+5, 2015.
+
+    <p>We appreciate that academics are busy people and so we thank you =
+for agreeing to do this review. We strive to obtain prompt and =
+informative feedback for our authors - if you would like to, you can <a =
+href=3D"https://peerj.com/submissions/6244/reviews/61432/">see the =
+questions that our reviewer form will ask you</a>. You should use this =
+same link when submitting your review.
+
+    <p><a href=3D"https://peerj.com/about/editorial-criteria/">The =
+Editorial Criteria that PeerJ applies</a> can be viewed online. When =
+submitting your review, please bear these criteria in mind.</p>
+
+    <p>We hope that you enjoy using the PeerJ system. Please <a =
+href=3D"https://peerj.com/about/publications/">visit our site if you =
+would like more information about PeerJ, or to submit articles =
+yourself</a>.</p>
+=09
+							<p>Regards,</p>
+=09
+				<p>The PeerJ Team<br><a =
+href=3D"https://peerj.com/">peerj.com</a></p>
+		=09
+                    </td>
+	</tr>
+	</table>
+</div>
+
+<div =
+style=3D"font-family:helvetica,arial,sans-serif;font-size:11px;color:#444=
+;line-height:22px;background:#F5F5F5;width:600px">
+	<table =
+style=3D"font-family:helvetica,arial,sans-serif;font-size:11px;color:#444=
+;line-height:22px;background:#F5F5F5;width:600px">
+     <tr>
+		<td style=3D"padding:5px 10px;background:#F5F5F5;color:#888888;">
+               =C2=A9 2015, PeerJ, Inc. PO Box 614 Corte Madera, CA =
+94976, USA
+          </td>    =20
+     </tr>
+     </table>
+</div>
+
+
+
+
+------=_NextPart_000_2F365_01D11176.9DC93F40--
+

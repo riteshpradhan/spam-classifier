@@ -1,0 +1,463 @@
+From somebody@mail.cs.uah.edu  Thu May 21 15:09:21 2015
+Return-Path: <bounce-18398_HTML-80561059-585336-6264558-154346@bounce.s6.exacttarget.com>
+From: "Account Services" <account-services@epicgames.com>
+To: <gameuser5@cs.uah.edu>
+Subject: Your Epic Games Account Has Been Created
+Date: Thu, 21 May 2015 15:09:21 -0500
+Message-ID: <42959f87-7004-47c8-afa3-bda51986fe68@xtinp2mta402.xt.local>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_2EFF3_01D11172.EE6F4AB0"
+X-Mailer: Microsoft Outlook 14.0
+Thread-Index: AQFkDmEISBSqyOL/gbbgnOSQYTZeCQ==
+X-OlkEid: 526401E5EB740276A62F9445A1D652180B780BA4
+X-UID: 9
+Status: O
+X-Keywords:                                                                    
+Content-Length: 18487
+
+This is a multipart message in MIME format.
+
+------=_NextPart_000_2EFF3_01D11172.EE6F4AB0
+Content-Type: text/plain;
+	charset="UTF-8"
+Content-Transfer-Encoding: 8bit
+
+Your Epic Account Has Been Created
+
+
+
+ Epic Games 
+<http://image.s6.exacttarget.com/lib/fea412727464057d74/m/1/EG_Logo_AS2.png>
+
+
+
+Your Epic Games Account Has Been Created
+May 21, 2015
+
+
+
+
+Hi Game,
+You have successfully created an account with Epic Games using this email 
+address. Thanks for signing up!
+If you are receiving this email in error, you can contact us at 
+accounts@unrealengine.com.
+
+
+Kind regards,
+Your friends at Epic
+
+
+
+
+© 2004-2015, Epic Games, Inc. All rights reserved. Epic Games, Unreal, 
+Unreal Engine, UE4, and their respective logos are Epic’s trademarks or 
+registered trademarks in the United States of America and elsewhere.
+Terms of Service <http://epicgames.com/tos>  | Privacy Notice 
+<http://epicgames.com/privacynotice>
+  <http://click.news.epicgames.com/open.aspx?ffcb10-fec111787067077b-fe1c16797c630079731274-fe8b1272736001787d-fef21578766d0c-fe5d1c707062057d701d-fec815757167007b>
+
+------=_NextPart_000_2EFF3_01D11172.EE6F4AB0
+Content-Type: text/html;
+	boundary="----=_NextPart_000_07BC_01D09481.DEE647B0";
+	charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" =
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns=3D"http://www.w3.org/1999/xhtml">
+   <head>
+      <meta http-equiv=3D"Content-Type" content=3D"text/html; =
+charset=3DUTF-8"/>
+       <meta charset=3D"utf-8" name=3D"viewport" =
+content=3D"width=3Ddevice-width, initial-scale=3D1.0"/>
+      <title>Epic Games account Create</title>
+      <style type=3D"text/css">
+         /* Client-specific Styles */
+         #outlook a {padding:0;} /* Force Outlook to provide a "view in =
+browser" menu link. */
+         .ReadMsgBody{width:100%;} .ExternalClass{width:100%;} /* Force =
+Hotmail to display emails at full width */
+         .ExternalClass, .ExternalClass p, .ExternalClass span, =
+.ExternalClass font, .ExternalClass td, .ExternalClass div {line-height: =
+100%;} /* Force Hotmail to display normal line spacing.*/
+         body {width:100% !important; -webkit-text-size-adjust:100%; =
+-ms-text-size-adjust:100%; margin:0; padding:0;}
+         table, td, a {-webkit-text-size-adjust:100%; =
+-ms-text-size-adjust:100%; margin:0; padding:0;}
+         /* Prevent Webkit and Windows Mobile platforms from changing =
+default font sizes, while not breaking desktop design. */
+         img {outline:none; text-decoration:none;border:none; =
+height:auto;line-height: 100%; -ms-interpolation-mode: bicubic;}
+         a img {border:none;}
+         p {margin: 0px 0px !important;}
+         table, td{border-collapse:collapse =
+!important;mso-table-lspace:0pt; mso-table-rspace:0pt; }
+         a {color: #f7931d;text-decoration: =
+none;text-decoration:none!important;}
+         body{height:100% !important; margin:0; =
+padding:0;background-color:#ffffff;}
+
+         /* Bye Blue Links + Orphan Style */
+         .appleFooter a {color:#313131 !important; text-decoration: none =
+!important;}
+         .appleLink a {color:#313131 !important; text-decoration: none =
+!important;}
+         .appleLink1 a {color:#313131 !important; text-decoration: none =
+!important;}
+         .appleLink2 a {color:#313131 !important; text-decoration: none =
+!important;}
+         .ExternalClass span[class=3D"ecxoutlook-text"] { font-size: =
+13px !important;}
+         /* FADE IN LOGO */
+            .fadeInDown {
+                animation-name: fadeInDown;
+                -webkit-animation-name: fadeInDown;
+                animation-duration: 1.2s;
+                -webkit-animation-duration: 1.2s;
+            }
+            @keyframes fadeInDown {
+                0% {opacity: 0;transform: translateY(-30px);}
+                40% {opacity: 0;transform: translateY(-30px);}
+                100% {opacity: 1;transform: translateY(0);}
+            }
+            @-webkit-keyframes fadeInDown {
+                0% {opacity: 0;-webkit-transform: translateY(-30px);}
+                40% {opacity: 0;-webkit-transform: translateY(-30px);}
+                100% {opacity: 1;-webkit-transform: translateY(0);}
+            }
+            .fadeInDown2 {
+                animation-name: fadeInDown2;
+                -webkit-animation-name: fadeInDown2;
+                animation-duration: 1.6s;
+                -webkit-animation-duration: 1.6s;
+            }
+            @keyframes fadeInDown2 {
+                0% {opacity: 0;transform: translateY(-30px);}
+                50% {opacity: 0;transform: translateY(-30px);}
+                100% {opacity: 1;transform: translateY(0);}
+            }
+            @-webkit-keyframes fadeInDown2 {
+                0% {opacity: 0;-webkit-transform: translateY(-30px);}
+                50% {opacity: 0;-webkit-transform: translateY(-30px);}
+                100% {opacity: 1;-webkit-transform: translateY(0);}
+            }
+            .fadeIn {
+               animation-name: fadeIn;
+               -webkit-animation-name: fadeIn;
+               animation-duration: 1.6s;
+               -webkit-animation-duration: 1.6s;
+            }
+            @keyframes fadeIn {
+                0% {opacity: 0;}
+                50% {opacity: 0;}
+                100% {opacity: 1;}
+            }
+            @-webkit-keyframes fadeIn {
+                0% {opacity: 0;}
+                50% {opacity: 0;}
+                100% {opacity: 1;}
+            }
+
+          /*LATO FONT */
+          @import =
+url(http://fonts.googleapis.com/css?family=3DLato:300,400,700);
+
+         /*MEDIA QUERY SCREEN 800px */
+         @media screen and (max-width: 800px), screen and =
+(max-device-width: 800px) {
+            table[class=3Dfull] { width: 100%; clear: both; }
+            #backgroundTable {margin:0; padding:0; width:100% =
+!important; line-height: 100% !important;}
+            .image_fix {display:block !important;}
+            table[class=3D"deviceWidth1"]{width:100% !important;}
+         }
+         /*MEDIA QUERY SCREEN 600px */
+         @media screen and (max-width: 600px), screen and =
+(max-device-width: 600px) {
+            table[class=3D"deviceWidth"]{width:100% !important;}
+            td[class=3D"mobile-width"]{padding: 0 3% !important;}
+         }
+         /*MEDIA QUERY SCREEN 500px */
+         @media screen and (max-width: 500px), screen and =
+(max-device-width: 500px) {
+            div[class=3D"title fadeInDown2"]{font-size:24px =
+!important;line-height: 30px !important}
+         }
+         /*MEDIA QUERY SCREEN 480px */
+         @media screen and (max-width: 480px), screen and =
+(max-device-width: 480px) {
+            table[class=3D"deviceWidth"]{width:100% !important;}
+            td[class=3D"mobile-width"]{padding: 0 3% !important;}
+         }
+         /* MEDIA QUERY SCREEN 350px */
+          @media screen and (max-width: 350px), screen and =
+(max-device-width: 350px) {
+            table[class=3D"deviceWidth"]{width: 100% !important;}
+            td[class=3D"mobile-width"]{padding: 0 3% !important;}
+            div[class=3D"emailBody"]{font-size:18px !important; =
+text-align: center !important;}
+            div[class=3D"signature"]{font-size:18px !important; =
+text-align: center !important;}
+            table[class=3D"CTAButton"]{width: 100% !important;}
+            div[class=3D"CTAButton"]{width: 100% !important;}
+        }
+      </style>
+
+   </head>
+<body style=3D"background-color:#ffffff;width:100%;"><style =
+type=3D"text/css">
+div.preheader=20
+{ display: none !important; }=20
+</style>
+<div class=3D"preheader" style=3D"font-size: 1px; display: none =
+!important;">Your Epic Account Has Been Created</div>
+   <!-- Environment Code -->
+  =20
+   <!--  End of Environment Code -->
+   <!-- Start of header -->
+   <table width=3D"100%" bgcolor=3D"#313131" cellpadding=3D"0" =
+cellspacing=3D"0" border=3D"0"  id=3D"backgroundTable"  =
+st-sortable=3D"header">
+      <tbody>
+         <tr>
+            <td align=3D"center">
+               <table width=3D"800" cellpadding=3D"0" cellspacing=3D"0" =
+border=3D"0" class=3D"deviceWidth1">
+                  <tbody>
+                     <tr>
+                        <td align=3D"center" bgcolor=3D"#313131" =
+style=3D"padding: 10px 0 0 0; background-color:#313131;" =
+class=3D"no-padding" width=3D"100%">
+                              <table border=3D"0" cellpadding=3D"0" =
+cellspacing=3D"0" width=3D"100%">
+                                 <tbody>
+                                    <tr>
+                                       <td align=3D"center" =
+width=3D"100%">
+                                       <div style=3D"margin: 0 auto; =
+width:100px;max-height:73px;">
+                                             <div class=3D"fadeInDown">
+                                                <img =
+src=3D"http://image.s6.exacttarget.com/lib/fea412727464057d74/m/1/EG_Logo=
+_AS2.png" width=3D"100" height=3D"114" style=3D"font-size: 28px; =
+line-height: 25px; font-family: Tahoma, Helvetica, Sans-serif; =
+color:#ffffff; width: 100px; height: 114px; display:block;" =
+class=3D"image_fix" alt=3D"Epic Games"/>
+                                             </div>
+                                       </div>
+                                       </td>
+                                    </tr>
+                                 </tbody>
+                              </table>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </td>
+         </tr>
+      </tbody>
+   </table>
+   <!-- End of Header -->
+   <!-- Start of MainMessage -->
+   <table width=3D"100%" bgcolor=3D"#f5f6f7" cellpadding=3D"0" =
+cellspacing=3D"0" border=3D"0" id=3D"MainMessagebkgrd" =
+st-sortable=3D"MainMessage" style=3D"border-bottom:1px solid #e2e3e4 =
+!important; border-top:1px solid #e2e3e4 !important;">
+      <tbody>
+         <tr>
+            <td align=3D"center">
+               <table width=3D"800" cellpadding=3D"0" cellspacing=3D"0" =
+border=3D"0" align=3D"center" class=3D"deviceWidth1">
+                  <tbody>
+                     <tr>
+                        <td align=3D"center" bgcolor=3D"#f5f6f7" =
+style=3D"padding: 20px 0 0 0; background-color:#f5f6f7;" =
+class=3D"no-padding" width=3D"100%">
+                              <table border=3D"0" cellpadding=3D"0" =
+cellspacing=3D"0" width=3D"100%" class=3D"responsiveTabl">
+                                 <tbody>
+                                    <tr>
+                                       <td align=3D"center" =
+width=3D"100%">
+                                          <div class=3D"title">
+                                             <div class=3D"title =
+fadeInDown2" style=3D"font-family:lato,Tahoma,sans-serif; =
+font-weight:300; font-size:28px; line-height:25px;color:#313131; =
+padding: 50px 0 20px 0;">
+                                                   Your Epic Games =
+Account Has Been Created
+                                              </div>
+                                          </div>
+                                          <div class=3D"date">
+                                             <div class=3D"date fadeIn" =
+style=3D"font-family:lato,Tahoma,sans-serif; font-size:14px; =
+font-weight:700; line-height:25px;color:#313131; padding: 0 0 50px 0; ">
+                                                May 21, 2015
+                                             </div>
+                                       </td>
+                                    </tr>
+                                 </tbody>
+                              </table>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </td>
+         </tr>
+      </tbody>
+   </table>
+   <!-- End of MainMessage -->
+   <!--Body of Email -->
+   <table width=3D"100%" align=3D"center" bgcolor=3D"#ffffff" =
+cellpadding=3D"0" cellspacing=3D"0" border=3D"0" id=3D"emailBodybkgrd" =
+st-sortable=3D"emailBody">
+      <tbody>
+         <tr>
+            <td align=3D"center" class=3D"mobile-width">
+               <table width=3D"580" bgcolor=3D"#ffffff" align=3D"center" =
+cellpadding=3D"0" cellspacing=3D"0" border=3D"0" class=3D"deviceWidth">
+                  <tbody>
+                     <tr>
+                        <td>
+                           <table width=3D"100%" align=3D"center" =
+bgcolor=3D"#ffffff" cellpadding=3D"0" cellspacing=3D"0" border=3D"0">
+                              <tbody>
+                                <tr>
+                                    <td>
+                                  <!-- Start of Email Body -->
+                                      <table width=3D"100%" =
+align=3D"center" bgcolor=3D"#ffffff" cellpadding=3D"0" cellspacing=3D"0" =
+border=3D"0">
+                                        <tbody>
+                                          <tr>
+                                            <td>
+                                              <div class=3D"emailBody" =
+style=3D"font-family:lato,Tahoma,sans-serif;font-size:16px; =
+font-weight:400; color:#313131; line-height:35px;padding: 20px 0 20px =
+0;">
+                                                Hi  Game,<br>
+                                               =20
+                                                You have successfully =
+created an account with Epic Games using this email address. Thanks for =
+signing up! <br>
+                                               =20
+                                                If you are receiving =
+this email in error, you can contact us at <a =
+href=3D"mailto:accounts@unrealengine.com" =
+style=3D"text-decoration:none;color:#f7931d">accounts@unrealengine.com</a=
+>.
+                                             </div>
+                                           </td>
+                                         </tr>
+                                        </tbody>
+                                     </table>
+                                  <!-- End of Email Body-->
+                                    </td>
+                                </tr>
+                                <tr>
+                                  <td>
+                                  <!-- Start of Signature -->
+                                    <table width=3D"100%" =
+align=3D"center" bgcolor=3D"#ffffff" cellpadding=3D"0" cellspacing=3D"0" =
+border=3D"0">
+                                        <tbody>
+                                          <tr>
+                                            <td>
+                                              <div class=3D"signature" =
+style=3D"font-family:lato,Tahoma, sans-serif;font-size:16px; =
+font-weight:400;color:#313131; line-height:30px;padding: 20px 0 40px =
+0;">
+                                                    Kind regards,<br>
+                                                    Your friends at Epic
+                                              </div>
+                                            </td>
+                                          </tr>
+                                        </tbody>
+                                      </table>
+                                  <!-- End of Signature-->
+                                  </td>
+                                </tr>
+                              </tbody>
+                           </table>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+
+            </td>
+         </tr>
+      </tbody>
+   </table>
+   <!-- End of Body Email -->
+   <!-- Beginning of Footer -->
+   <table width=3D"100%" bgcolor=3D"#ffffff" cellpadding=3D"0" =
+cellspacing=3D"0" border=3D"0" id=3D"dividerbkgrd" =
+st-sortable=3D"diviTer">
+      <tbody>
+         <tr>
+            <td align=3D"center" class=3D"mobile-width">
+               <table width=3D"580" align=3D"center" bgcolor=3D"#ffffff" =
+cellpadding=3D"0" cellspacing=3D"0" border=3D"0" id=3D"divider" =
+st-sortable=3D"divider" class=3D"deviceWidth">
+                  <tbody>
+                     <tr>
+                        <td>
+                           <table width=3D"100%" align=3D"center" =
+bgcolor=3D"#ffffff" cellpadding=3D"0" cellspacing=3D"0" border=3D"0">
+                              <tbody>
+                                 <tr>
+                                    <td>
+                                       <div class=3D"divider" =
+style=3D"width: 100%;line-height: 1px; background-color:#e2e3e4; =
+height:1px;font-family:tahoma,helvetica,sans-serif;font-size:1px;color:#f=
+fffff">
+                                       </div>
+                                    </td>
+                                 </tr>
+                              </tbody>
+                           </table>
+                        </td>
+                     </tr>
+                     <tr>
+                        <td>
+                           <table width=3D"100%" align=3D"center" =
+style=3D"width:100%;">
+                              <tbody>
+                                 <tr>
+                                    <td width=3D"100%" align=3D"center" =
+style=3D"width:100%; font-family: Tahoma, helvetica, =
+sans-serif;font-size: 11px; line-height:18px; text-align: center; color: =
+#313131;padding:10px 0 10px 0">
+                                       &copy; 2004-2015, Epic Games, =
+Inc. All rights reserved. Epic Games, Unreal, Unreal Engine, UE4, and =
+their respective logos are Epic=E2=80=99s trademarks or registered =
+trademarks in the United States of America and elsewhere.<br/>
+                                    <a href=3D"http://epicgames.com/tos" =
+style=3D"font-family:tahoma,helvetica,sans-serif;font-size:11px;color:#f7=
+931d;text-decoration:none;">Terms of Service</a> | <a =
+href=3D"http://epicgames.com/privacynotice" =
+style=3D"font-family:tahoma,helvetica,sans-serif;font-size:11px;color:#f7=
+931d;text-decoration:none;">Privacy Notice</a>
+                                    </td>
+                                 </tr>
+                              </tbody>
+                           </table>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </td>
+         </tr>
+      </tbody>
+   </table>
+   <!-- End of Footer -->
+</body>
+<img =
+src=3D"http://click.news.epicgames.com/open.aspx?ffcb10-fec111787067077b-=
+fe1c16797c630079731274-fe8b1272736001787d-fef21578766d0c-fe5d1c707062057d=
+701d-fec815757167007b" width=3D"1" height=3D"1">
+</html>
+------=_NextPart_000_2EFF3_01D11172.EE6F4AB0--
+

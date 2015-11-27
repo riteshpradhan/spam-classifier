@@ -1,0 +1,41 @@
+From somebody@mail.cs.uah.edu  Sat Aug 16 16:49:18 2014
+Return-Path: <edmonds.jr@gmail.com>
+From: "William Edmonds" <edmonds.jr@gmail.com>
+To: <sec@cs.uah.edu>
+Subject: open source sec training site
+Date: Sat, 16 Aug 2014 16:30:30 -0500
+Message-ID: <CAGTfrxRDGbjkSR8ewDaRppsCRfeLDnbxrmgWdw5_JmzxgOH9Yw@mail.gmail.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_2F072_01D11173.D7C22070"
+X-Mailer: Microsoft Outlook 14.0
+Thread-Index: AQHEQn0INczUXyyrRzgActVQ/glo9g==
+X-OlkEid: 526405E5ABCA1EE3A793C044B0B7096B2C018C8E
+X-UID: 41
+Status: RO
+X-Keywords:                                                                      
+Content-Length: 670
+
+This is a multipart message in MIME format.
+
+------=_NextPart_000_2F072_01D11173.D7C22070
+Content-Type: text/plain;
+	charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+A good friend of mine stumbled across this website 
+http://opensecuritytraining.info/Welcome.html
+
+
+------=_NextPart_000_2F072_01D11173.D7C22070
+Content-Type: text/html;
+	boundary="001a11c25c4ce22f9e0500c5d81d";
+	charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+<p dir=3D"ltr">A good friend of mine stumbled across this website <a =
+href=3D"http://opensecuritytraining.info/Welcome.html">http://opensecurit=
+ytraining.info/Welcome.html</a></p>
+
+------=_NextPart_000_2F072_01D11173.D7C22070--
+

@@ -1,0 +1,197 @@
+From somebody@mail.cs.uah.edu  Sat Aug 15 19:23:12 2015
+Return-Path: <bounce-md_30172541.55cfd7ea.v1-fed5f5bd3b294382aee7328c87e94862@return-path.peerj.com>
+Reply-To: "PeerJ" <accounts@peerj.com>
+From: "PeerJ" <accounts@peerj.com>
+To: <jjones@cs.uah.edu>
+Subject: Activate your PeerJ account
+Date: Sat, 15 Aug 2015 19:23:06 -0500
+Message-ID: <30172541.20150816002306.55cfd7ea3c8b92.19263209@mail133-31.atl131.mandrillapp.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_2F36C_01D11176.9DD52620"
+X-Mailer: Microsoft Outlook 14.0
+Thread-Index: AQGMhsxhQYu32VBwK9a0wLlMZANr0g==
+X-OlkEid: 52C422E5F624BAAB990A904688A0AB9AED4B38A7
+X-UID: 77
+Status: O
+X-Keywords:                                                                     
+Content-Length: 5825
+
+This is a multipart message in MIME format.
+
+------=_NextPart_000_2F36C_01D11176.9DD52620
+Content-Type: text/plain;
+	charset="UTF-8"
+Content-Transfer-Encoding: 8bit
+
+PeerJJosh, just one step to activate your PeerJ account
+
+
+
+
+Activate PeerJ account 
+<https://peerj.com/confirm/kWxnkXH2WrlmMesKNoU40l6SunwRGLLQnX0HT1fwPZs/>
+
+
+Link not working? Paste this into your browser 
+https://peerj.com/confirm/kWxnkXH2WrlmMesKNoU40l6SunwRGLLQnX0HT1fwPZs/
+
+Josh - Welcome to PeerJ!
+
+Thank you for signing up at PeerJ, the Open Access publisher that Nature 
+described 
+<http://www.nature.com/news/journal-offers-flat-fee-for-all-you-can-publish-1.10811> 
+as "a significant innovation".
+
+We use email verification before activating your account to make sure you're 
+human and that we have the right address. You may not be able to login until 
+this is completed. If you didn't sign up to PeerJ then let us know at 
+accounts@peerj.com.
+
+Once you have activated your account with the link above, what next? Here 
+are a few suggested next steps:
+
+1.	Complete your profile details <https://peerj.com/settings/details/> , so 
+that others know who you are.
+2.	Claim your custom profile URL <https://peerj.com/settings/details/> 
+before someone else gets it.
+3.	Check out publishing plans for yourself <https://peerj.com/pricing/>  or 
+let your institution know about the institutional plans 
+<https://peerj.com/pricing/institutions/> .
+
+And of course, please consider submitting your next manuscript to PeerJ (see 
+author instructions for PeerJ <https://peerj.com/about/aims-and-scope/>  and 
+PeerJ Computer Science <https://peerj.com/about/aims-and-scope/cs> ) or a 
+free preprint <https://peerj.com/preprints/> .
+
+Regards,
+
+The PeerJ Team
+peerj.com <https://peerj.com/>
+
+© 2015, PeerJ, Inc. PO Box 614 Corte Madera, CA 94976, USA
+
+------=_NextPart_000_2F36C_01D11176.9DD52620
+Content-Type: text/html;
+	boundary="_av-DIoSEu0bJOE6zhC577i_tA";
+	charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+
+<div =
+style=3D"font-family:helvetica,arial,sans-serif;font-size:14px;color:#444=
+;line-height:22px;background:#fff;width:600px">
+	<table =
+style=3D"font-family:helvetica,arial,sans-serif;font-size:14px;color:#444=
+;line-height:22px;background:#fff;width:600px">
+	<tr>
+		<td style=3D"padding:5px 10px;background:#333;color:#fff;"><span =
+style=3D"color:#00a6fc;font-weight:700">Peer</span>J</td>
+	</tr>
+	<tr>
+		<td style=3D"padding:10px;">
+			    <table style=3D"font-size:15px">
+        <tbody>
+        <tr>
+            <td style=3D"background-color:#E7F3FD;padding:15px =
+12px;width:600px;text-align:center">
+                <b>Josh, just one step to activate your PeerJ =
+account</b>
+                <br><br>
+                <p>
+                    <a =
+href=3D"https://peerj.com/confirm/kWxnkXH2WrlmMesKNoU40l6SunwRGLLQnX0HT1f=
+wPZs/"=20
+                        style=3D"background: rgb(39, 139, 237);
+                        text-decoration: none;
+                        color: #fff;
+                        padding: 11px 14px;
+                        font-size: 15px;
+                        font-weight: 200;
+                        border-radius: 2px;">Activate PeerJ account</a>
+                </p>
+                <br>
+                <p style=3D"font-size: 12px; color: #777;">
+                    Link not working? Paste this into your browser =
+https://peerj.com/confirm/kWxnkXH2WrlmMesKNoU40l6SunwRGLLQnX0HT1fwPZs/
+                </p>
+            </td>
+        </tr>
+        </tbody>
+    </table>
+
+    <p>Josh - Welcome to PeerJ!</p>=20
+
+    <p>
+        Thank you for signing up at PeerJ, the Open Access publisher =
+that <a=20
+        =
+href=3D"http://www.nature.com/news/journal-offers-flat-fee-for-all-you-ca=
+n-publish-1.10811">Nature described</a>=20
+        as "a significant innovation".
+    </p>
+
+    <p>
+        We use email verification before activating your account to make =
+sure you're human=20
+        and that we have the right address. You may not be able to login =
+until this is completed.=20
+        If you didn't sign up to PeerJ then let us know at=20
+        <a href=3D"mailto:accounts@peerj.com">accounts@peerj.com</a>.
+    </p>
+
+    <p>Once you have activated your account with the link above, what =
+next? Here are a few suggested next steps:</p>
+
+    <ol>
+    <li>Complete your <a =
+href=3D"https://peerj.com/settings/details/">profile details</a>, so =
+that others know who you are.</li>
+    <li>Claim your <a =
+href=3D"https://peerj.com/settings/details/">custom profile URL</a> =
+before someone else gets it.</li>
+    <li>Check out publishing plans for <a =
+href=3D"https://peerj.com/pricing/">yourself</a>
+    or let your institution know about the <a =
+href=3D"https://peerj.com/pricing/institutions/">institutional =
+plans</a>.</li>
+    </ol>
+   =20
+    <p>And of course, please consider submitting your next manuscript to =
+PeerJ (see author instructions for <a =
+href=3D"https://peerj.com/about/aims-and-scope/">PeerJ</a> and <a =
+href=3D"https://peerj.com/about/aims-and-scope/cs">PeerJ Computer =
+Science</a>) or a <a href=3D"https://peerj.com/preprints/">free =
+preprint</a>.</p>
+ =20
+=09
+							<p>Regards,</p>
+=09
+				<p>The PeerJ Team<br><a =
+href=3D"https://peerj.com/">peerj.com</a></p>
+		=09
+                    </td>
+	</tr>
+	</table>
+</div>
+
+<div =
+style=3D"font-family:helvetica,arial,sans-serif;font-size:11px;color:#444=
+;line-height:22px;background:#F5F5F5;width:600px">
+	<table =
+style=3D"font-family:helvetica,arial,sans-serif;font-size:11px;color:#444=
+;line-height:22px;background:#F5F5F5;width:600px">
+     <tr>
+		<td style=3D"padding:5px 10px;background:#F5F5F5;color:#888888;">
+               =C2=A9 2015, PeerJ, Inc. PO Box 614 Corte Madera, CA =
+94976, USA
+          </td>    =20
+     </tr>
+     </table>
+</div>
+
+
+
+
+------=_NextPart_000_2F36C_01D11176.9DD52620--
+

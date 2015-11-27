@@ -1,0 +1,68 @@
+From somebody@mail.cs.uah.edu  Mon Mar 02 12:18:02 2015
+Return-Path: <id0002@uah.edu>
+From: "Imren Dinc" <id0002@uah.edu>
+To: "Josh Jones" <jjones@cs.uah.edu>
+References: <a09b01d05514$b6c93190$245b94b0$@cs.uah.edu>
+In-Reply-To: <a09b01d05514$b6c93190$245b94b0$@cs.uah.edu>
+Subject: Re: Voyager
+Date: Mon, 2 Mar 2015 13:18:00 -0500
+Message-ID: <CAGuFSq285w4tQq7M5zBCji9eyNrqu-mTMsJnOo-PO2C14WWA=Q@mail.gmail.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_2F001_01D11173.09539980"
+X-Mailer: Microsoft Outlook 14.0
+Thread-Index: AQJ6tmlQ/Lw5h9Acv8CczNU1EZNjiAIbMBr4
+X-OlkEid: 520402E561E17420A6E48347A7F0A47EE664C64E
+X-UID: 14
+Status: RO
+X-Status: A
+X-Keywords:                                                                     
+Content-Length: 1489
+
+This is a multipart message in MIME format.
+
+------=_NextPart_000_2F001_01D11173.09539980
+Content-Type: text/plain;
+	charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+It worked !! Thank you Josh, you're life saver :)
+Imren
+
+On Mon, Mar 2, 2015 at 12:14 PM, Josh Jones <jjones@cs.uah.edu> wrote:
+
+
+Try logging into Voyager again now with your CS Linux username/password and 
+let me know if it worked or not now.
+
+
+
+Thanks,
+
+Josh
+
+
+
+------=_NextPart_000_2F001_01D11173.09539980
+Content-Type: text/html;
+	boundary="089e013a214e05dbc30510523da2";
+	charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr">It worked !! Thank you Josh, you&#39;re life saver =
+:)<div>Imren</div></div><div class=3D"gmail_extra"><br><div =
+class=3D"gmail_quote">On Mon, Mar 2, 2015 at 12:14 PM, Josh Jones <span =
+dir=3D"ltr">&lt;<a href=3D"mailto:jjones@cs.uah.edu" =
+target=3D"_blank">jjones@cs.uah.edu</a>&gt;</span> wrote:<br><blockquote =
+class=3D"gmail_quote" style=3D"margin:0 0 0 .8ex;border-left:1px #ccc =
+solid;padding-left:1ex"><div lang=3D"EN-US" link=3D"blue" =
+vlink=3D"purple"><div><p class=3D"MsoNormal">Try logging into Voyager =
+again now with your CS Linux username/password and let me know if it =
+worked or not now.<u></u><u></u></p><p =
+class=3D"MsoNormal"><u></u>=C2=A0<u></u></p><p =
+class=3D"MsoNormal">Thanks,<u></u><u></u></p><p =
+class=3D"MsoNormal">Josh<u></u><u></u></p></div></div></blockquote></div>=
+<br></div>
+
+------=_NextPart_000_2F001_01D11173.09539980--
+

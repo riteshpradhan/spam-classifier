@@ -1,0 +1,252 @@
+From somebody@mail.cs.uah.edu  Sat Jun 21 12:42:24 2014
+Return-Path: <kwf0001@uah.edu>
+From: "Kyle Farris" <kwf0001@uah.edu>
+To: "Josh Jones" <jjones@cs.uah.edu>
+References: <034b01cf8c94$48574100$d905c300$@cs.uah.edu>	<CAH-m36LmiXR8BRs_ttQAt394nT5gttsMSQixg7Gidshyy0V9Jg@mail.gmail.com>	<035901cf8ca1$cca19ac0$65e4d040$@cs.uah.edu>	<CAH-m36+6yNjJv-ZBr9uVzyJqKBR6i8i7aD7FR9xZ2a3mtAnsSA@mail.gmail.com>	<036b01cf8ca2$7cd6b470$76841d50$@cs.uah.edu>
+In-Reply-To: <036b01cf8ca2$7cd6b470$76841d50$@cs.uah.edu>
+Subject: Re: PERL
+Date: Sat, 21 Jun 2014 12:36:24 -0500
+Message-ID: <CAH-m36+xTmj_e+5HSAWdVF8JdjzFykqavpZu6iK0EjVZATszXw@mail.gmail.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_2F0A1_01D11174.394692E0"
+X-Mailer: Microsoft Outlook 14.0
+Thread-Index: AQHJZvmOTbxxyxbzJgrWmSq/+tZ1lgIERa6UApBvUSQCikjsnwIcwAy/Ajw4dF8=
+X-OlkEid: 52A406E53D4EE5D25E696F4EBE2B9B73B81560B9
+X-UID: 51
+Status: O
+X-Keywords:                                                                     
+Content-Length: 7749
+
+This is a multipart message in MIME format.
+
+------=_NextPart_000_2F0A1_01D11174.394692E0
+Content-Type: text/plain;
+	charset="UTF-8"
+Content-Transfer-Encoding: 8bit
+
+Is it alright to continue with the Octave installation? I was hoping to get 
+that knocked out today?
+
+
+Kyle
+
+
+
+On Fri, Jun 20, 2014 at 11:12 AM, Josh Jones <jjones@cs.uah.edu> wrote:
+
+
+Also, I am re-installing vision.cs.uah.edu…. it wouldn’t boot from hard 
+drive, acted like the vm had no OS installed and Aygun keeps coming down 
+here… they are in hurry for machine. I am putting Debian and OpenCV… will 
+let you do Octave and VLFeat
+
+
+
+- Josh
+
+
+
+From: Kyle Farris [mailto:kwf0001@uah.edu]
+Sent: Friday, June 20, 2014 11:09 AM
+
+
+To: Josh Jones
+Subject: Re: PERL
+
+
+
+
+
+
+
+
+
+On Fri, Jun 20, 2014 at 11:07 AM, Josh Jones <jjones@cs.uah.edu> wrote:
+
+Example of inputs and what you want to extract would help me answer the 
+question ;)
+
+
+
+From: Kyle Farris [mailto:kwf0001@uah.edu]
+Sent: Friday, June 20, 2014 10:41 AM
+To: Josh Jones
+Subject: Re: PERL
+
+
+
+I've been battling with perl and it's pissing me off.
+
+I can't extract just what I need between strings and I've tried every damn 
+example on google.
+
+
+
+On Fri, Jun 20, 2014 at 9:31 AM, Josh Jones <jjones@cs.uah.edu> wrote:
+
+http://onlyjob.blogspot.ca/2011/03/perl5-python-ruby-php-c-c-lua-tcl.html
+
+
+
+
+
+
+-- 
+
+Regards,
+
+Kyle Farris
+
+CS Student System Administrator
+
+C 256-585-0551
+
+E kwf0001@cs.uah.edu
+
+
+
+
+-- 
+
+Regards,
+
+Kyle Farris
+
+CS Student System Administrator
+
+C 256-585-0551
+
+E kwf0001@cs.uah.edu
+
+
+
+
+-- 
+
+Regards,
+
+
+Kyle Farris
+
+CS Student System Administrator
+
+C 256-585-0551
+
+E kwf0001@cs.uah.edu
+
+
+
+------=_NextPart_000_2F0A1_01D11174.394692E0
+Content-Type: text/html;
+	boundary="001a11c20c56902dcd04fc5c0c3d";
+	charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr"><div>Is it alright to continue with the Octave =
+installation? I was hoping to get that knocked out today? =
+<br><br></div>Kyle <br></div><div class=3D"gmail_extra"><br><br><div =
+class=3D"gmail_quote">On Fri, Jun 20, 2014 at 11:12 AM, Josh Jones <span =
+dir=3D"ltr">&lt;<a href=3D"mailto:jjones@cs.uah.edu" =
+target=3D"_blank">jjones@cs.uah.edu</a>&gt;</span> wrote:<br>
+<blockquote class=3D"gmail_quote" style=3D"margin:0 0 0 =
+.8ex;border-left:1px #ccc solid;padding-left:1ex"><div link=3D"blue" =
+vlink=3D"purple" lang=3D"EN-US"><div><p class=3D"MsoNormal"><span =
+style=3D"font-size:11.0pt;font-family:&quot;Calibri&quot;,&quot;sans-seri=
+f&quot;;color:#1f497d">Also, I am re-installing <a =
+href=3D"http://vision.cs.uah.edu" =
+target=3D"_blank">vision.cs.uah.edu</a>=E2=80=A6. it wouldn=E2=80=99t =
+boot from hard drive, acted like the <span>vm</span> had no OS installed =
+and <span>Aygun</span> keeps coming down here=E2=80=A6 they are in hurry =
+for machine. I am putting <span>Debian</span> and =
+<span>OpenCV</span>=E2=80=A6 will let you do Octave and =
+VLFeat<u></u><u></u></span></p>
+<p class=3D"MsoNormal"><span =
+style=3D"font-size:11.0pt;font-family:&quot;Calibri&quot;,&quot;sans-seri=
+f&quot;;color:#1f497d"><u></u>=C2=A0<u></u></span></p><p =
+class=3D"MsoNormal"><span =
+style=3D"font-size:11.0pt;font-family:&quot;Calibri&quot;,&quot;sans-seri=
+f&quot;;color:#1f497d">- Josh<u></u><u></u></span></p>
+<p class=3D"MsoNormal"><span =
+style=3D"font-size:11.0pt;font-family:&quot;Calibri&quot;,&quot;sans-seri=
+f&quot;;color:#1f497d"><u></u>=C2=A0<u></u></span></p><p =
+class=3D"MsoNormal"><b><span =
+style=3D"font-size:10.0pt;font-family:&quot;Tahoma&quot;,&quot;sans-serif=
+&quot;">From:</span></b><span =
+style=3D"font-size:10.0pt;font-family:&quot;Tahoma&quot;,&quot;sans-serif=
+&quot;"> Kyle Farris [mailto:<a href=3D"mailto:kwf0001@uah.edu" =
+target=3D"_blank">kwf0001@uah.edu</a>] <br>
+<b>Sent:</b> Friday, June 20, 2014 11:09 AM</span></p><div =
+class=3D""><br><b>To:</b> Josh Jones<br><b>Subject:</b> Re: =
+PERL<u></u><u></u></div><p></p><div class=3D""><p =
+class=3D"MsoNormal"><u></u>=C2=A0<u></u></p><div><p class=3D"MsoNormal">
+<u></u>=C2=A0<u></u></p></div><div><p class=3D"MsoNormal" =
+style=3D"margin-bottom:12.0pt"><u></u>=C2=A0<u></u></p><div><p =
+class=3D"MsoNormal">On Fri, Jun 20, 2014 at 11:07 AM, Josh Jones &lt;<a =
+href=3D"mailto:jjones@cs.uah.edu" =
+target=3D"_blank">jjones@cs.uah.edu</a>&gt; wrote:<u></u><u></u></p>
+<div><div><p class=3D"MsoNormal"><span =
+style=3D"font-size:11.0pt;font-family:&quot;Calibri&quot;,&quot;sans-seri=
+f&quot;;color:#1f497d">Example of inputs and what you want to extract =
+would help me answer the question ;)</span><u></u><u></u></p>
+<p class=3D"MsoNormal"><span =
+style=3D"font-size:11.0pt;font-family:&quot;Calibri&quot;,&quot;sans-seri=
+f&quot;;color:#1f497d">=C2=A0</span><u></u><u></u></p><p =
+class=3D"MsoNormal"><b><span =
+style=3D"font-size:10.0pt;font-family:&quot;Tahoma&quot;,&quot;sans-serif=
+&quot;">From:</span></b><span =
+style=3D"font-size:10.0pt;font-family:&quot;Tahoma&quot;,&quot;sans-serif=
+&quot;"> Kyle Farris [mailto:<a href=3D"mailto:kwf0001@uah.edu" =
+target=3D"_blank">kwf0001@uah.edu</a>] <br>
+<b>Sent:</b> Friday, June 20, 2014 10:41 AM<br><b>To:</b> Josh =
+Jones<br><b>Subject:</b> Re: PERL</span><u></u><u></u></p><div><div><p =
+class=3D"MsoNormal">=C2=A0<u></u><u></u></p><div><div><p =
+class=3D"MsoNormal" style=3D"margin-bottom:12.0pt">
+I&#39;ve been battling with perl and it&#39;s pissing me =
+off.<u></u><u></u></p></div><p class=3D"MsoNormal">I can&#39;t extract =
+just what I need between strings and I&#39;ve tried every damn example =
+on google. <u></u><u></u></p>
+</div><div><p class=3D"MsoNormal" =
+style=3D"margin-bottom:12.0pt">=C2=A0<u></u><u></u></p><div><p =
+class=3D"MsoNormal">On Fri, Jun 20, 2014 at 9:31 AM, Josh Jones &lt;<a =
+href=3D"mailto:jjones@cs.uah.edu" =
+target=3D"_blank">jjones@cs.uah.edu</a>&gt; wrote:<u></u><u></u></p>
+<div><div><p class=3D"MsoNormal"><a =
+href=3D"http://onlyjob.blogspot.ca/2011/03/perl5-python-ruby-php-c-c-lua-=
+tcl.html" =
+target=3D"_blank">http://onlyjob.blogspot.ca/2011/03/perl5-python-ruby-ph=
+p-c-c-lua-tcl.html</a><u></u><u></u></p>
+<p class=3D"MsoNormal">=C2=A0<u></u><u></u></p></div></div></div><p =
+class=3D"MsoNormal"><br><br clear=3D"all"><br>-- =
+<u></u><u></u></p><div><div><div><div><div><p class=3D"MsoNormal" =
+style=3D"margin-bottom:12.0pt">Regards,<u></u><u></u></p>
+</div><p class=3D"MsoNormal">Kyle Farris<u></u><u></u></p></div><p =
+class=3D"MsoNormal">CS Student System =
+Administrator<u></u><u></u></p></div><p class=3D"MsoNormal">C <a =
+href=3D"tel:256-585-0551" =
+target=3D"_blank">256-585-0551</a><u></u><u></u></p>
+</div><p class=3D"MsoNormal" style=3D"margin-bottom:12.0pt">E <a =
+href=3D"mailto:kwf0001@cs.uah.edu" =
+target=3D"_blank">kwf0001@cs.uah.edu</a><u></u><u></u></p></div></div></d=
+iv></div></div></div></div><p class=3D"MsoNormal"><br><br clear=3D"all">
+<br>-- <u></u><u></u></p><div><div><div><div><div><p class=3D"MsoNormal" =
+style=3D"margin-bottom:12.0pt">Regards,<u></u><u></u></p></div><p =
+class=3D"MsoNormal">Kyle Farris<u></u><u></u></p></div><p =
+class=3D"MsoNormal">CS Student System Administrator<u></u><u></u></p>
+</div><p class=3D"MsoNormal">C <a href=3D"tel:256-585-0551" =
+value=3D"+12565850551" =
+target=3D"_blank">256-585-0551</a><u></u><u></u></p></div><p =
+class=3D"MsoNormal" style=3D"margin-bottom:12.0pt">E <a =
+href=3D"mailto:kwf0001@cs.uah.edu" =
+target=3D"_blank">kwf0001@cs.uah.edu</a><u></u><u></u></p>
+</div></div></div></div></div></blockquote></div><br><br =
+clear=3D"all"><br>-- <br><div =
+dir=3D"ltr"><div><div><div><div>Regards,<br><br></div>Kyle =
+Farris<br></div>CS Student System Administrator<br></div>C =
+256-585-0551<br></div>
+E <a href=3D"mailto:kwf0001@cs.uah.edu" =
+target=3D"_blank">kwf0001@cs.uah.edu</a><br><br></div>
+</div>
+
+------=_NextPart_000_2F0A1_01D11174.394692E0--
+
