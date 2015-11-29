@@ -3,7 +3,7 @@
 # @Author: ritesh
 # @Date:   2015-11-24 19:41:45
 # @Last Modified by:   ritesh
-# @Last Modified time: 2015-11-26 18:50:15
+# @Last Modified time: 2015-11-29 13:48:00
 
 import numpy as np
 import pandas
@@ -44,6 +44,7 @@ def main():
 	feature_vector = FeatureVector(SMS_COLLECTION)
 	feature_vector.data_process(sep='\t')
 	messages = feature_vector.messages
+	feature_vector.transformer()
 	bow_transformer = feature_vector.bow_transformer
 	messages_bow = feature_vector.messages_bow
 
@@ -63,6 +64,7 @@ def main():
 	print 'accuracy', accuracy_score(messages['label'], all_predictions)
 	print 'confusion matrix\n', confusion_matrix(messages['label'], all_predictions)
 	print '(row=expected, col=predicted)'
+	print classification_report(messages['label'], all_predictions)
 
 	test_bow_transformer(messages, bow_transformer, tfidf_transformer, spam_detector)
 
