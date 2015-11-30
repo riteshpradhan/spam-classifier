@@ -3,7 +3,7 @@
 # @Author: ritesh
 # @Date:   2015-11-29 20:32:03
 # @Last Modified by:   ritesh
-# @Last Modified time: 2015-11-29 23:20:02
+# @Last Modified time: 2015-11-30 09:15:16
 
 # http://chrisstrelioff.ws/sandbox/2015/06/25/decision_trees_in_python_again_cross_validation.html
 
@@ -120,6 +120,17 @@ def main():
 	scores = cross_val_score(dt_old, msg_train, label_train, cv=10)
 	print "mean: {:.3f} (std: {:.3f})".format(scores.mean(), scores.std())
 
+	from sklearn.externals.six import StringIO
+	import pydot
+
+	dot_data = StringIO()
+	with open("./plots/ritesh.dot", "w") as f:
+	    export_graphviz(dt_old.named_steps['classifier'], out_file=f)
+	# with open("./plots/ritesh.dot", "w") as f:
+	# 	export_graphviz(dt_old, out_file=f)
+	# graph = pydot.graph_from_dot_data(dot_data.getvalue())
+	# graph.write_pdf("./plots/iris.pdf")
+
 	print "\nScore in 20% of test dataset"
 	test_predictions = dt_old.predict(msg_test)
 	print 'accuracy', accuracy_score(label_test, test_predictions)
@@ -128,13 +139,6 @@ def main():
 	print classification_report(label_test, test_predictions)
 
 
-	from sklearn.externals.six import StringIO
-	import pydot
-
-	dot_data = StringIO()
-	export_graphviz(dt_old, out_file=dot_data)
-	graph = pydot.graph_from_dot_data(dot_data.getvalue())
-	graph.write_pdf("./plots/iris.pdf")
 
 	# from IPython.display import Image
 	# dot_data = StringIO()
