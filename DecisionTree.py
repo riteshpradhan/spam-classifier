@@ -3,7 +3,7 @@
 # @Author: ritesh
 # @Date:   2015-11-29 20:32:03
 # @Last Modified by:   ritesh
-# @Last Modified time: 2015-11-30 09:15:16
+# @Last Modified time: 2015-11-30 10:02:39
 
 # http://chrisstrelioff.ws/sandbox/2015/06/25/decision_trees_in_python_again_cross_validation.html
 
@@ -126,10 +126,9 @@ def main():
 	dot_data = StringIO()
 	with open("./plots/ritesh.dot", "w") as f:
 	    export_graphviz(dt_old.named_steps['classifier'], out_file=f)
-	# with open("./plots/ritesh.dot", "w") as f:
-	# 	export_graphviz(dt_old, out_file=f)
-	# graph = pydot.graph_from_dot_data(dot_data.getvalue())
-	# graph.write_pdf("./plots/iris.pdf")
+	print("Creating a visualization of decision tree")
+	graph = pydot.graph_from_dot_data(dot_data.getvalue())
+	graph.write_pdf("./plots/ritesh.pdf")
 
 	print "\nScore in 20% of test dataset"
 	test_predictions = dt_old.predict(msg_test)
