@@ -3,7 +3,7 @@
 # @Author: ritesh
 # @Date:   2015-11-29 15:45:01
 # @Last Modified by:   ritesh
-# @Last Modified time: 2015-11-29 16:05:46
+# @Last Modified time: 2015-11-29 16:37:36
 
 
 import numpy as np
@@ -69,6 +69,11 @@ def main():
 	print svm_detector.predict(["Hi mom, how are you?"])[0]
 	print svm_detector.predict(["fuck you!"])[0]
 
+
+	curve = plot_learning_curve(pipeline, "accuracy vs. training set size", msg_train, label_train, cv=5)
+	curve.savefig("./plots/acc-vs-trainSize_SVM.png")
+	pipeline.fit(msg_train, label_train)  #trained here
+
 	print "Score in 20% of test dataset"
 	test_predictions = svm_detector.predict(msg_test)
 	print 'accuracy', accuracy_score(label_test, test_predictions)
@@ -76,9 +81,6 @@ def main():
 	print '(row=expected, col=predicted)'
 	print classification_report(label_test, test_predictions)
 
-	curve = plot_learning_curve(pipeline, "accuracy vs. training set size", msg_train, label_train, cv=5)
-	curve.savefig("./plots/acc-vs-trainSize_SVM.png")
-	pipeline.fit(msg_train, label_train)  #trained here
 
 if __name__ == '__main__':
 	main()
