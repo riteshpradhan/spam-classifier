@@ -3,7 +3,7 @@
 # @Author: ritesh
 # @Date:   2015-11-24 19:52:16
 # @Last Modified by:   ritesh
-# @Last Modified time: 2015-11-24 19:53:04
+# @Last Modified time: 2015-11-29 20:25:25
 
 import matplotlib.pyplot as plt
 from textblob import TextBlob
@@ -17,7 +17,8 @@ from sklearn.feature_extraction.text import CountVectorizer, TfidfTransformer
 from sklearn.naive_bayes import MultinomialNB
 from sklearn.metrics import classification_report, f1_score, accuracy_score, confusion_matrix
 
-SMS_COLLECTION = './spam-ham-dataset/smsspamcollection/SMSSpamcollection'
+# SMS_COLLECTION = './spam-ham-dataset/smsspamcollection/SMSSpamcollection'
+SMS_COLLECTION = './spam-ham-dataset/processed-email-ham-spam-collection'
 
 
 """1. Looking ino the dataset of messages..."""
@@ -74,9 +75,6 @@ bow4 = bow_transformer.transform([message4])
 print bow4
 print bow4.shape
 
-print "word at 6736 is ", bow_transformer.get_feature_names()[6736]
-print "word at 8013 is ", bow_transformer.get_feature_names()[8013]
-
 messages_bow = bow_transformer.transform(messages['message'])
 print 'sparse matrix shape:', messages_bow.shape
 print 'number of non-zeros:', messages_bow.nnz
@@ -86,10 +84,6 @@ print "TF_IDF normalization"
 tfidf_transformer = TfidfTransformer().fit(messages_bow)
 tfidf4 = tfidf_transformer.transform(bow4)
 print tfidf4
-
-print "checking the tfidf transformer"
-print tfidf_transformer.idf_[bow_transformer.vocabulary_['u']]
-print tfidf_transformer.idf_[bow_transformer.vocabulary_['university']]
 
 print "transform all ham/spam"
 messages_tfidf = tfidf_transformer.transform(messages_bow)

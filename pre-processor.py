@@ -3,7 +3,7 @@
 # @Author: ritesh
 # @Date:   2015-11-29 17:47:44
 # @Last Modified by:   ritesh
-# @Last Modified time: 2015-11-29 20:06:13
+# @Last Modified time: 2015-11-29 20:24:07
 
 import os
 import re
@@ -21,22 +21,14 @@ def parse_payload(payload):
 
 	pattern =  r"\<.*?\>"
 	replaced = re.sub(re.compile(pattern, re.MULTILINE), "url ", str(mystring))
-
+	replaced = replaced.decode('utf-8','ignore').encode("utf-8")
 	return replaced
-
-	# # pattern =  r"(<)*http(s)*:\/\/.*(>)*?\s"
-	# pattern =  r"\<.*\>?"
-	# replaced = re.sub(re.compile(pattern, re.MULTILINE), "url ", str(payload))
-	# # params = r"\s.*\>?$"
-	# # replaced = re.sub(re.compile(params, re.MULTILINE), "params ", str(replaced))
-	# mystring = replaced.replace('\n', ' ').replace('\r', '')
-	# return mystring
 
 def main():
 	parser = Parser()
 
 	ham_paths = [os.path.join("./spam-ham-dataset/split/", "HAM_%s.txt" %(i)) for i in xrange(1,101)]
-	spam_paths = [os.path.join("./spam-ham-dataset/split/", "SPAM_%s.txt" %(i)) for i in xrange(1,11)]
+	spam_paths = [os.path.join("./spam-ham-dataset/split/", "SPAM_%s.txt" %(i)) for i in xrange(1,91)]
 
 	with open(COLLECTION, "w") as f:
 		print ("""For hem paths, pre-processing""")

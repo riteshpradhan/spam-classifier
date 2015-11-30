@@ -3,7 +3,7 @@
 # @Author: ritesh
 # @Date:   2015-11-29 15:45:01
 # @Last Modified by:   ritesh
-# @Last Modified time: 2015-11-29 16:37:36
+# @Last Modified time: 2015-11-29 22:52:19
 
 
 import numpy as np
@@ -54,7 +54,7 @@ def main():
 	  {'classifier__C': [1, 10, 100, 1000], 'classifier__kernel': ['linear']},
 	  {'classifier__C': [1, 10, 100, 1000], 'classifier__gamma': [0.001, 0.0001], 'classifier__kernel': ['rbf']},
 	]
-	print (pipeline)
+	print("pipeline:", [name for name, _ in pipeline.steps])
 
 	grid_svm = GridSearchCV(
 	    pipeline,  	# pipeline from above
@@ -66,8 +66,6 @@ def main():
 	)
 	svm_detector = grid_svm.fit(msg_train, label_train) # find the best combination from param_svm
 	print svm_detector.grid_scores_
-	print svm_detector.predict(["Hi mom, how are you?"])[0]
-	print svm_detector.predict(["fuck you!"])[0]
 
 
 	curve = plot_learning_curve(pipeline, "accuracy vs. training set size", msg_train, label_train, cv=5)
