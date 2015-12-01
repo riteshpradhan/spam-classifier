@@ -124,11 +124,15 @@ def main():
 	import pydot
 
 	dot_data = StringIO()
-	with open("./plots/ritesh.dot", "w") as f:
-	    export_graphviz(dt_old.named_steps['classifier'], out_file=f)
+	classes = ["ham","spam"]
+	vocab = dt_old.named_steps['bow'].get_feature_names()
+	vocab1 = [v.encode('ascii','ignore') for v in vocab]
+	# print "vocab: ", vocab1
+	with open("./plots/heme.dot", "w") as f:
+	    export_graphviz(dt_old.named_steps['classifier'], out_file=f, max_depth=13, feature_names=vocab1)
 	print("Creating a visualization of decision tree")
-	graph = pydot.graph_from_dot_data(dot_data.getvalue())
-	graph.write_pdf("./plots/ritesh.pdf")
+	# graph = pydot.graph_from_dot_data(dot_data.getvalue())
+	# graph.write_pdf("./plots/heme.pdf")
 
 	print "\nScore in 20% of test dataset"
 	test_predictions = dt_old.predict(msg_test)
@@ -151,42 +155,42 @@ def main():
 	# Image(graph.create_png())
 
 
-	print ("\n---- With grid search option ---")
-	print("-- Grid Parameter Search via 10-fold CV")
-	# set of parameters to test
-	param_grid = {"classifier__criterion": ["gini", "entropy"],
-	              "classifier__min_samples_split": [5, 10, 20],
-	              "classifier__max_depth": [None, 2, 5, 10],
-	              "classifier__min_samples_leaf": [1, 5, 10],
-	              "classifier__max_leaf_nodes": [None, 5, 10, 20],
-	              }
+	# print ("\n---- With grid search option ---")
+	# print("-- Grid Parameter Search via 10-fold CV")
+	# # set of parameters to test
+	# param_grid = {"classifier__criterion": ["gini", "entropy"],
+	#               "classifier__min_samples_split": [5, 10, 20],
+	#               "classifier__max_depth": [None, 2, 5, 10],
+	#               "classifier__min_samples_leaf": [1, 5, 10],
+	#               "classifier__max_leaf_nodes": [None, 5, 10, 20],
+	#               }
 
-	dt = Pipeline([
-	    ('bow', CountVectorizer(analyzer=split_into_lemmas)),  # strings to token integer counts
-	    ('tfidf', TfidfTransformer()),  # integer counts to weighted TF-IDF scores
-	    ('classifier', DecisionTreeClassifier()), # train on TF-IDF vectors w/ DecisionTree classifier
-	])
-	print("pipeline:", [name for name, _ in dt.steps])
-	ts_gs = run_gridsearch(msg_train, label_train, dt, param_grid, cv=10)
-	print("\n-- Best Parameters:")
-	for k, v in ts_gs.items():
-	    print("parameter: {:<20s} setting: {}".format(k, v))
+	# dt = Pipeline([
+	#     ('bow', CountVectorizer(analyzer=split_into_lemmas)),  # strings to token integer counts
+	#     ('tfidf', TfidfTransformer()),  # integer counts to weighted TF-IDF scores
+	#     ('classifier', DecisionTreeClassifier()), # train on TF-IDF vectors w/ DecisionTree classifier
+	# ])
+	# print("pipeline:", [name for name, _ in dt.steps])
+	# ts_gs = run_gridsearch(msg_train, label_train, dt, param_grid, cv=10)
+	# print("\n-- Best Parameters:")
+	# for k, v in ts_gs.items():
+	#     print("parameter: {:<20s} setting: {}".format(k, v))
 
 
-	# test the retuned best parameters
-	print("\n\n-- Testing best parameters [Grid]...")
-	dt_ts_gs = Pipeline([
-	    ('bow', CountVectorizer(analyzer=split_into_lemmas)),  # strings to token integer counts
-	    ('tfidf', TfidfTransformer()),  # integer counts to weighted TF-IDF scores
-	    ('classifier', DecisionTreeClassifier(**ts_gs)), # train on TF-IDF vectors w/ DecisionTree classifier
-	])
-	print("pipeline:", [name for name, _ in dt_ts_gs.steps])
-	scores = cross_val_score(dt_ts_gs, msg_train, label_train, cv=10)
-	print("mean: {:.3f} (std: {:.3f})".format(scores.mean(),
-	                                          scores.std()))
+	# # test the retuned best parameters
+	# print("\n\n-- Testing best parameters [Grid]...")
+	# dt_ts_gs = Pipeline([
+	#     ('bow', CountVectorizer(analyzer=split_into_lemmas)),  # strings to token integer counts
+	#     ('tfidf', TfidfTransformer()),  # integer counts to weighted TF-IDF scores
+	#     ('classifier', DecisionTreeClassifier(**ts_gs)), # train on TF-IDF vectors w/ DecisionTree classifier
+	# ])
+	# print("pipeline:", [name for name, _ in dt_ts_gs.steps])
+	# scores = cross_val_score(dt_ts_gs, msg_train, label_train, cv=10)
+	# print("mean: {:.3f} (std: {:.3f})".format(scores.mean(),
+	#                                           scores.std()))
 
-	print("\n-- get_code for best parameters [Grid]: ")
-	dt_ts_gs.fit(msg_train, label_train)
+	# print("\n-- get_code for best parameters [Grid]: ")
+	# dt_ts_gs.fit(msg_train, label_train)
 
 
 if __name__ == '__main__':
