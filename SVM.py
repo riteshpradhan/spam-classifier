@@ -3,7 +3,7 @@
 # @Author: ritesh
 # @Date:   2015-11-29 15:45:01
 # @Last Modified by:   ritesh
-# @Last Modified time: 2015-11-29 22:52:19
+# @Last Modified time: 2015-11-30 20:17:29
 
 
 import numpy as np
@@ -55,6 +55,9 @@ def main():
 	  {'classifier__C': [1, 10, 100, 1000], 'classifier__gamma': [0.001, 0.0001], 'classifier__kernel': ['rbf']},
 	]
 	print("pipeline:", [name for name, _ in pipeline.steps])
+	for name, v in pipeline.steps:
+		print name
+		print v
 
 	grid_svm = GridSearchCV(
 	    pipeline,  	# pipeline from above
@@ -65,7 +68,10 @@ def main():
 	    cv=StratifiedKFold(label_train, n_folds=5),  # what type of cross validation to use
 	)
 	svm_detector = grid_svm.fit(msg_train, label_train) # find the best combination from param_svm
-	print svm_detector.grid_scores_
+
+	print "\nScores for various cases ..."
+	for i in xrange(len(svm_detector.grid_scores_)):
+		print svm_detector.grid_scores_[i]
 
 
 	curve = plot_learning_curve(pipeline, "accuracy vs. training set size", msg_train, label_train, cv=5)
