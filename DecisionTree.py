@@ -3,7 +3,7 @@
 # @Author: ritesh
 # @Date:   2015-11-29 20:32:03
 # @Last Modified by:   ritesh
-# @Last Modified time: 2015-11-30 10:02:39
+# @Last Modified time: 2015-11-30 21:23:08
 
 # http://chrisstrelioff.ws/sandbox/2015/06/25/decision_trees_in_python_again_cross_validation.html
 
@@ -27,7 +27,8 @@ from textblob import TextBlob
 from FeatureVector import FeatureVector
 from pylib import plot_learning_curve
 
-SMS_COLLECTION = './spam-ham-dataset/smsspamcollection/SMSSpamcollection'
+# SMS_COLLECTION = './spam-ham-dataset/smsspamcollection/SMSSpamcollection'
+SMS_COLLECTION = './spam-ham-dataset/processed-email-ham-spam-collection'
 
 def report(grid_scores, n_top=3):
     """Report top n_top parameters settings, default n_top=3.

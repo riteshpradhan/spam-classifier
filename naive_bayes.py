@@ -3,7 +3,7 @@
 # @Author: ritesh
 # @Date:   2015-11-24 19:41:45
 # @Last Modified by:   ritesh
-# @Last Modified time: 2015-11-29 13:48:00
+# @Last Modified time: 2015-11-30 20:43:16
 
 import numpy as np
 import pandas
@@ -15,6 +15,7 @@ from sklearn.metrics import classification_report, f1_score, accuracy_score, con
 from FeatureVector import FeatureVector
 
 SMS_COLLECTION = './spam-ham-dataset/smsspamcollection/SMSSpamcollection'
+# SMS_COLLECTION = './spam-ham-dataset/processed-email-ham-spam-collection'
 
 def test_bow_transformer(messages, bow_transformer, tfidf_transformer, spam_detector):
 	print "..... .... ..."

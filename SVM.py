@@ -3,7 +3,7 @@
 # @Author: ritesh
 # @Date:   2015-11-29 15:45:01
 # @Last Modified by:   ritesh
-# @Last Modified time: 2015-11-30 20:17:29
+# @Last Modified time: 2015-11-30 20:36:36
 
 
 import numpy as np
@@ -21,7 +21,8 @@ from textblob import TextBlob
 from FeatureVector import FeatureVector
 from pylib import plot_learning_curve
 
-SMS_COLLECTION = './spam-ham-dataset/smsspamcollection/SMSSpamcollection'
+# SMS_COLLECTION = './spam-ham-dataset/smsspamcollection/SMSSpamcollection'
+SMS_COLLECTION = './spam-ham-dataset/processed-email-ham-spam-collection'
 
 
 def split_into_lemmas(message):

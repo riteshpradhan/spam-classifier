@@ -3,7 +3,7 @@
 # @Author: ritesh
 # @Date:   2015-11-29 13:10:24
 # @Last Modified by:   ritesh
-# @Last Modified time: 2015-11-29 16:04:45
+# @Last Modified time: 2015-11-30 20:45:09
 
 import numpy as np
 import matplotlib.pyplot as plt
@@ -20,7 +20,8 @@ from FeatureVector import FeatureVector
 from pylib import plot_learning_curve
 
 """dataset in csv format """
-SMS_COLLECTION = './spam-ham-dataset/smsspamcollection/SMSSpamcollection'
+# SMS_COLLECTION = './spam-ham-dataset/smsspamcollection/SMSSpamcollection'
+SMS_COLLECTION = './spam-ham-dataset/processed-email-ham-spam-collection'
 
 
 def split_into_lemmas(message):
